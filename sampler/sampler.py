@@ -1,8 +1,10 @@
+import argparse
 import collections
 import json
 import operator
 import re
 import robotparser
+import sys
 import time
 import urllib2
 import words
@@ -73,19 +75,28 @@ def process_one_url():
     url = urls.pop(0)
 
     if url in seen_urls:
-        return False
+        return 0
 
     seen_urls.add(url)
 
     print "LOADING: " + url
 
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-agent', useragent)]
-    response = opener.open(url)
-    html = response.read()
+    try:
+        opener = urllib2.build_opener()
+        opener.addheaders = [('User-agent', useragent)]
+        response = opener.open(url)
+        html = response.read()
+    except:
+        print "Error reading: " + url + ", skipping"
+        return 1
 
-    soup = BeautifulSoup(html, 'html.parser')
-    text = soup.get_text();
+    soup = BeautifulSoup(html, 'lxml')
+
+    text = ""
+    for eltype in ['td', 'p', 'div']:
+        els = soup.find_all(eltype)
+        for el in els:
+            text += el.text
 
     raw_words = re.compile(r'\W+', re.UNICODE).split(text)
     for word in raw_words:
@@ -95,12 +106,29 @@ def process_one_url():
     links = soup.find_all("a")
     urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
 
-addbotfilter('http://paulgraham.com/robots.txt')
-enqueue('http://paulgraham.com/vb.html')
-count = 0
-while count < 100 and len(urls):
-    process_one_url()
-    count += 1
+    return 1
 
-output = open('words-out.json', 'w+')
+parser = argparse.ArgumentParser(description="Site word frequency counter")
+parser.add_argument('-u', '--url', help='Start crawling url', required=True)
+parser.add_argument('-f', '--output', help='Output file', required=True)
+parser.add_argument('-c', '--count', help='Pages to read', required=True, type=int)
+args = parser.parse_args()
+
+print args
+
+parsed_start = urlparse(args.url)
+if not parsed_start.scheme or not parsed_start.netloc:
+    print "Bad URL: " + args.url
+    sys.exit(0)
+
+addbotfilter(urlunparse((parsed_start.scheme, parsed_start.netloc, 'robots.txt', '', '', '')))
+enqueue(args.url)
+
+#addbotfilter('http://www.newyorker.com/robots.txt')
+#enqueue('http://www.newyorker.com/news/news-desk/the-rubio-and-cruz-delusion')
+count = 0
+while count < args.count and len(urls):
+    count += process_one_url()
+
+output = open(args.output, 'w+')
 output.write(json.dumps(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': ')))
