@@ -68,8 +68,15 @@ def normalize_word(word):
 def process_one_url():
     global urls
     global useragent
+    global seen_urls
 
     url = urls.pop(0)
+
+    if url in seen_urls:
+        return False
+
+    seen_urls.add(url)
+
     print "LOADING: " + url
 
     opener = urllib2.build_opener()
@@ -95,4 +102,5 @@ while count < 100 and len(urls):
     process_one_url()
     count += 1
 
-print json.dumps(dict(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': ')))
+output = open('words-out.json', 'w+')
+output.write(json.dumps(dict(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': '))))
