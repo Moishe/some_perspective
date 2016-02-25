@@ -1,1 +1,1 @@
-python sampler.py -u http://paulgraham.com/vb.html -f pg.json -c 100
+python sampler.py -u http://paulgraham.com/vb.html -f corpora/pg.json -c 10
