@@ -5,6 +5,7 @@ import re
 import robotparser
 import time
 import urllib2
+import words
 
 from bs4 import BeautifulSoup
 from urlparse import urlparse, urlunparse
@@ -79,9 +80,10 @@ def process_one_url():
     soup = BeautifulSoup(html, 'html.parser')
     text = soup.get_text();
 
-    words = re.compile(r'\W+', re.UNICODE).split(text)
-    for word in words:
-        counts[normalize_word(word)] += 1
+    raw_words = re.compile(r'\W+', re.UNICODE).split(text)
+    for word in raw_words:
+        if words.is_word(word):
+            counts[normalize_word(word)] += 1
 
     links = soup.find_all("a")
     urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
@@ -89,7 +91,7 @@ def process_one_url():
 addbotfilter('http://paulgraham.com/robots.txt')
 enqueue('http://paulgraham.com/vb.html')
 count = 0
-while count < 1 and len(urls):
+while count < 100 and len(urls):
     process_one_url()
     count += 1
 
