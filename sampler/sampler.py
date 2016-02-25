@@ -1,6 +1,7 @@
 import collections
 import json
 import operator
+import re
 import robotparser
 import time
 import urllib2
@@ -61,7 +62,7 @@ def valid_url(seed_url, url):
     return False
 
 def normalize_word(word):
-    return word
+    return word.lower()
 
 def process_one_url():
     global urls
@@ -78,7 +79,7 @@ def process_one_url():
     soup = BeautifulSoup(html, 'html.parser')
     text = soup.get_text();
 
-    words = text.split()
+    words = re.compile(r'\W+', re.UNICODE).split(text)
     for word in words:
         counts[normalize_word(word)] += 1
 
@@ -88,7 +89,7 @@ def process_one_url():
 addbotfilter('http://paulgraham.com/robots.txt')
 enqueue('http://paulgraham.com/vb.html')
 count = 0
-while count < 100 and len(urls):
+while count < 1 and len(urls):
     process_one_url()
     count += 1
 
