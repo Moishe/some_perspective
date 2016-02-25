@@ -89,7 +89,7 @@ def process_one_url():
 
     raw_words = re.compile(r'\W+', re.UNICODE).split(text)
     for word in raw_words:
-        if words.is_word(word):
+        if words.is_word(word) and len(word) > 1:
             counts[normalize_word(word)] += 1
 
     links = soup.find_all("a")
@@ -103,4 +103,4 @@ while count < 100 and len(urls):
     count += 1
 
 output = open('words-out.json', 'w+')
-output.write(json.dumps(dict(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': '))))
+output.write(json.dumps(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': ')))
