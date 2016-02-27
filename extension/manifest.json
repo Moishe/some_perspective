@@ -1,0 +1,19 @@
+{
+  "name": "Tech Antidote",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Helps you out if you're having a tough time.",
+  "permissions": [
+    "https://api.twitter.com/*"
+  ],
+  "icons": {
+    "48" : "sample-48.png",
+    "128" : "sample-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*"],
+      "js" : ["jquery-2.2.1.min.js", "contentscript.js"]
+    }
+  ]
+}
