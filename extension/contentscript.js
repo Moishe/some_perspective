@@ -74,24 +74,27 @@ function countWords() {
   var types = ['div', 'p', 'td'];
   for (var i = 0; i < types.length; i++) {
     t = types[i];
-    console.log(t);
     $(t).each(function(idx) {
       var words = $(this).text().match(/(\w+)/g);
-      console.log(words);
       if (words) {
         for (var j = 0; j < words.length; j++) {
-          wordcount[words[j]] += 1;
-          /*
-          if (word in wordcount) {
+          word = words[j];
+          if (wordcount[word]) {
             wordcount[word] += 1;
           } else {
             wordcount[word] = 1;
           }
-          */
         }
       }
     });
-  console.log(wordcount);
+  $.ajax({
+    type: "POST",
+    url: "http://localhost:8080/words",
+    data: {'words': JSON.stringify(wordcount)},
+    success: function(result) {
+      onText({trends: []});
+    }
+  });
   }
 }
 
