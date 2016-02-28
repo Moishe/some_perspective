@@ -6,6 +6,7 @@ To play with the Chrome Extension, do this:
 If you don't have git installed, follow the instructions [here](https://help.github.com/articles/set-up-git/)
 Open a command window (eg. Terminal)
 Type the following:
+
     cd ~
     mkdir code
     cd code
