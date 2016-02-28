@@ -31,10 +31,21 @@ function onText(data) {
 function countWords() {
   var wordcount = {};
   var types = ['div', 'p', 'td'];
+  var triggered = false;
   for (var i = 0; i < types.length; i++) {
     t = types[i];
     $(t).each(function(idx) {
-      var words = $(this).text().match(/(\w+)/g);
+      var text = $(this).text();
+      for (var j = 0; j < keywords.length; j++) {
+        if (text.indexOf(keywords[j]) > 0) {
+          if (!triggered) {
+            onText("EMERGENCY OVERRIDE THIS IS THE WORST");
+            triggered = true;
+          }
+          return;
+        }
+      }
+      var words = text.match(/(\w+)/g);
       if (words) {
         for (var j = 0; j < words.length; j++) {
           word = words[j];
