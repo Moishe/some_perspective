@@ -42,7 +42,6 @@ function countWords() {
             onText("EMERGENCY OVERRIDE THIS IS THE WORST");
             triggered = true;
           }
-          return;
         }
       }
       var words = text.match(/(\w+)/g);
