@@ -37,7 +37,10 @@ function countWords() {
     $(t).each(function(idx) {
       var text = $(this).text();
       for (var j = 0; j < keywords.length; j++) {
-        if (text.indexOf(keywords[j]) > 0) {
+        var r = new RegExp("\\b" + keywords[j] + "\\b", "g");
+        if (r.test(text)) {
+//        if (text.match(keywords[j]) > 0) {
+          console.log(keywords[j]);
           if (!triggered) {
             onText("EMERGENCY OVERRIDE THIS IS THE WORST");
             triggered = true;

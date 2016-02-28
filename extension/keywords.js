@@ -14,12 +14,12 @@ keywords = [
 	"arts",
 	"relationships",
 	"altruism",
-	"change",
+//	"change",
 	"change agent",
 	"changemakers",
 //	"new",
 	"catalyze",
-	"community",
+//	"community",
 	"achievement",
 	"personal growth",
 	"culture",
@@ -64,4 +64,5 @@ keywords = [
 	"price point",
 	"window of opportunity",
 	"low hanging fruit",
+	"going forward"
 ]
