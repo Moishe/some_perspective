@@ -12,6 +12,7 @@
  *     response.  Otherwise, this function is called with null.
  */
 function fetchTwitterFeed(callback) {
+  console.log('fetching twitter feed');
   var xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function(data) {
     if (xhr.readyState == 4) {
@@ -41,8 +42,9 @@ function onText(data) {
   if (data.trends) {
     // Create the overlay at the top of the page and fill it with data.
     var trends_dom = document.createElement('div');
+    trends_dom.setAttribute("id", "trends");
     var title_dom = document.createElement('strong');
-    title_dom.innerText = 'Topics currently trending on Twitter:';
+    title_dom.innerText = 'So sorry for the inconvenience, stand by for help.';
     trends_dom.appendChild(title_dom);
     for (var key in data.trends) {
       for (var i=0,trend; trend = data.trends[key][i]; i++) {
@@ -66,6 +68,7 @@ function onText(data) {
     ].join(' ');
     document.body.style.cssText = 'position: relative';
     document.body.parentElement.insertBefore(trends_dom, document.body);
+    console.log('added element');
   }
 };
 
@@ -87,6 +90,7 @@ function countWords() {
         }
       }
     });
+  }
   $.ajax({
     type: "POST",
     url: "http://localhost:8080/words",
@@ -95,7 +99,6 @@ function countWords() {
       onText({trends: []});
     }
   });
-  }
 }
 
 countWords();
