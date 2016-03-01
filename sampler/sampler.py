@@ -98,15 +98,7 @@ def process_one_url():
         for el in els:
             text += el.text
 
-    raw_words = re.compile(r'\W+', re.UNICODE).split(text)
-    for word in raw_words:
-        if words.is_word(word) and len(word) > 1:
-            counts[normalize_word(word)] += 1
-
-    links = soup.find_all("a")
-    urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
-
-    return 1
+    return text
 
 parser = argparse.ArgumentParser(description="Site word frequency counter")
 parser.add_argument('-u', '--url', help='Start crawling url', required=True)
@@ -128,7 +120,9 @@ enqueue(args.url)
 #enqueue('http://www.newyorker.com/news/news-desk/the-rubio-and-cruz-delusion')
 count = 0
 while count < args.count and len(urls):
-    count += process_one_url()
+    text += process_one_url()
+    if text:
+        count += 1
+    output = open(args.output + str(count), 'w+')
+    output.write(text)
 
-output = open(args.output, 'w+')
-output.write(json.dumps(sorted(counts.items(), key=operator.itemgetter(1)), indent=4, separators=(',', ': ')))
