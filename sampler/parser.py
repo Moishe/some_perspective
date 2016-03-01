@@ -53,7 +53,7 @@ def get_bigrams(filename):
 t = 0
 
 pg = []
-for i in range(1,41):
+for i in range(1,11):
 	pg.append(get_bigrams('corpora/pg' + str(i)))
 	print i
 
@@ -65,5 +65,7 @@ for ss in subsets:
 	for o in ov:
 		overlaps[o] += 1
 
-print json.dumps(overlaps, sort_keys=True, indent=4, separators=(',', ': '))
+filtered_overlaps = dict((k,v) for k,v in overlaps.items() if v < 20)
+
+print json.dumps(filtered_overlaps, sort_keys=True, indent=4, separators=(',', ': '))
 
