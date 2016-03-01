@@ -100,7 +100,11 @@ def process_one_url():
 
     links = soup.find_all("a")
     urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
-    return text
+
+    if (text.encode('utf-8').split(' ') < 1024):
+        return ""
+
+    return url + "\n" + text
 
 parser = argparse.ArgumentParser(description="Site word frequency counter")
 parser.add_argument('-u', '--url', help='Start crawling url', required=True)

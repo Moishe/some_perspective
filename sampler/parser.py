@@ -20,15 +20,17 @@ def filterlist(wordlist):
 def get_bigrams(filename):
 	text = ''
 	f = open(filename, 'r')
-
+	print "opened %s" % filename
 	sentences = sent_detector.tokenize(f.read().decode('utf-8').lower())
+	print "sentences: " + str(len(sentences))
 
 	bigrams = set()
 	trigrams = set()
 	allwords = set()
 
 	for sentence in sentences:
-		filtered_words = [w for w in nltk.word_tokenize(sentence) if words.is_word(w)]
+		filtered_words = nltk.word_tokenize(sentence)
+		#filtered_words = [x for x in nltk.word_tokenize(sentence) if words.is_word(x)]
 
 		for ngram in ngrams(filtered_words, 2):
 			bigrams.add(str(ngram))
@@ -41,16 +43,20 @@ def get_bigrams(filename):
 
 	return (allwords, bigrams, trigrams)
 
-pg = get_bigrams('pg-1.txt')
-js = get_bigrams('grapes-1.txt')
-eh = get_bigrams('sunalso-1.txt')
-dg = get_bigrams('flying-cars.txt')
-jds = get_bigrams('rye-1.txt')
+#js = get_bigrams('controls/grapes-1.txt')
+#eh = get_bigrams('controls/sunalso-1.txt')
+#dg = get_bigrams('controls/flying-cars.txt')
+#jds = get_bigrams('controls/rye-1.txt')
 
 t = 0
 
-pg_prime = pg[t].difference(js[t], eh[t], dg[t], jds[t])
+pg = []
+for i in range(1,11):
+	pg.append(get_bigrams('corpora/pg' + str(i)))
+	print i
 
-pg2 = get_bigrams('pg-2.txt')
-print '\n'.join(pg2[t].intersection(pg_prime))
+sets = [x[t] for x in pg[1:]]
+pgonly = pg[0][t].intersection(*sets)
+
+print '\n'.join(pgonly)
 
