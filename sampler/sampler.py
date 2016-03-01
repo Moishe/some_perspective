@@ -101,7 +101,9 @@ def process_one_url():
     links = soup.find_all("a")
     urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
 
-    if (text.encode('utf-8').split(' ') < 1024):
+    wc = len(text.encode('utf-8').split(' '))
+    print "wc: %d" % wc 
+    if (wc < 1024):
         return ""
 
     return url + "\n" + text
@@ -129,8 +131,8 @@ while count < args.count and len(urls):
     text = process_one_url()
     if text:
         count += 1
-    fn = args.output + str(count)
-    print 'writing to %s' % (fn)
-    output = open(fn, 'w')
-    output.write(text.encode('utf-8'))
+        fn = args.output + str(count)
+        print 'writing to %s' % (fn)
+        output = open(fn, 'w')
+        output.write(text.encode('utf-8'))
 

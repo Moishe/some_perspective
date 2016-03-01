@@ -1,1254 +1,1343 @@
-http://paulgraham.com/re.html
-January 2016One advantage of being old is that you can see change happen in
-your lifetime.  A lot of the change I've seen is fragmentation.  US
-politics is much more polarized than it used to be.  Culturally we
-have ever less common ground. The creative class flocks to a handful
-of happy cities, abandoning the rest.  And increasing economic
-inequality means the spread between rich and poor is growing too.
-I'd like to propose a hypothesis: that all these trends are instances
-of the same phenomenon.  And moreover, that the cause is not some
-force that's pulling us apart, but rather the erosion of forces
-that had been pushing us together.Worse still, for those who worry about these trends, the forces
-that were pushing us together were an anomaly, a one-time combination
-of circumstances that's unlikely to be repeated—and indeed, that
-we would not want to repeat.The two forces were war (above all World War II), and the rise of
-large corporations.The effects of World War II were both economic and social.
-Economically, it decreased variation in income.  Like all modern
-armed forces, America's were socialist economically.  From each
-according to his ability, to each according to his need.  More or
-less.  Higher ranking members of the military got more (as higher
-ranking members of socialist societies always do), but what they
-got was fixed according to their rank.  And the flattening effect
-wasn't limited to those under arms, because the US economy was
-conscripted too.  Between 1942 and 1945 all wages were set by the
-National War Labor Board. Like the military, they defaulted to
-flatness.  And this national standardization of wages was so pervasive
-that its effects could still be seen years after the war ended.
-[1]Business owners weren't supposed to be making money either.  FDR
-said "not a single war millionaire" would be permitted.  To ensure
-that, any increase in a company's profits over prewar levels was
-taxed at 85%.  And when what was left after corporate taxes reached
-individuals, it was taxed again at a marginal rate of 93%.
-[2]Socially too the war tended to decrease variation.  Over 16 million
-men and women from all sorts of different backgrounds were brought
-together in a way of life that was literally uniform.  Service rates
-for men born in the early 1920s approached 80%. And working toward
-a common goal, often under stress, brought them still closer together.Though strictly speaking World War II lasted less than 4 years for
-the US, its effects lasted longer.  Wars make central governments
-more powerful, and World War II was an extreme case of this.  In
-the US, as in all the other Allied countries, the federal government
-was slow to give up the new powers it had acquired.  Indeed, in
-some respects the war didn't end in 1945; the enemy just switched
-to the Soviet Union.  In tax rates, federal power, defense spending,
-conscription, and nationalism the decades after the war looked more
-like wartime than prewar peacetime.
+http://paulgraham.com/growth.html
+
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+September 2012A startup is a company designed to grow fast.  Being newly founded
+does not in itself make a company a startup.  Nor is it necessary
+for a startup to work on technology, or take venture funding, or
+have some sort of "exit."  The only essential thing is growth.
+Everything else we associate with startups follows from growth.If you want to start one it's important to understand that. Startups
+are so hard that you can't be pointed off to the side and hope to
+succeed.  You have to know that growth is what you're after.  The
+good news is, if you get growth, everything else tends to fall into
+place.  Which means you can use growth like a compass to make almost
+every decision you face.
+RedwoodsLet's start with a distinction that should be obvious but is often
+overlooked: not every newly founded company is a startup.  Millions
+of companies are started every year in the US.  Only a tiny fraction
+are startups.  Most are service businesses—restaurants, barbershops,
+plumbers, and so on.  These are not startups, except in a few unusual
+cases.  A barbershop isn't designed to grow fast.  Whereas a search
+engine, for example, is.When I say startups are designed to grow fast, I mean it in two
+senses.  Partly I mean designed in the sense of intended, because
+most startups fail.  But I also mean startups are different by
+nature, in the same way a redwood seedling has a different destiny
+from a bean sprout.That difference is why there's a distinct word, "startup," for
+companies designed to grow fast.  If all companies were essentially
+similar, but some through luck or the efforts of their founders
+ended up growing very fast, we wouldn't need a separate word.  We
+could just talk about super-successful companies and less successful
+ones.  But in fact startups do have a different sort of DNA from
+other businesses.  Google is not just a barbershop whose founders
+were unusually lucky and hard-working.  Google was different from
+the beginning.To grow rapidly, you need to make something you can sell to a big
+market.  That's the difference between Google and a barbershop.  A
+barbershop doesn't scale.For a company to grow really big, it must (a) make something lots
+of people want, and (b) reach and serve all those people.  Barbershops
+are doing fine in the (a) department.  Almost everyone needs their
+hair cut.  The problem for a barbershop, as for any retail
+establishment, is (b).  A barbershop serves customers in person,
+and few will travel far for a haircut.  And even if they did the
+barbershop couldn't accomodate them. 
+[1]
+Writing software is a great way to solve (b), but you can still end
+up constrained in (a).  If you write software to teach Tibetan to
+Hungarian speakers, you'll be able to reach most of the people who
+want it, but there won't be many of them.   If you make software
+to teach English to Chinese speakers, however, you're in startup
+territory.Most businesses are tightly constrained in (a) or (b).  The distinctive
+feature of successful startups is that they're not.
+IdeasIt might seem that it would always be better to start a startup
+than an ordinary business.  If you're going to start a company, why
+not start the type with the most potential?  The catch is that this
+is a (fairly) efficient market.   If you write software to teach
+Tibetan to Hungarians, you won't have much competition.  If you
+write software to teach English to Chinese speakers, you'll face
+ferocious competition, precisely because that's such a larger prize.
+[2]The constraints that limit ordinary companies also protect them.
+That's the tradeoff.  If you start a barbershop, you only have to
+compete with other local barbers.  If you start a search engine you
+have to compete with the whole world.The most important thing that the constraints on a normal business
+protect it from is not competition, however, but the difficulty of
+coming up with new ideas.  If you open a bar in a particular
+neighborhood, as well as limiting your potential and protecting you
+from competitors, that geographic constraint also helps define your
+company.  Bar + neighborhood is a sufficient idea for a small
+business.  Similarly for companies constrained in (a).  Your niche
+both protects and defines you.Whereas if you want to start a startup, you're probably going to
+have to think of something fairly novel.  A startup has to make
+something it can deliver to a large market, and ideas of that type
+are so valuable that all the obvious ones are already taken.That space of ideas has been so thoroughly picked over that a startup
+generally has to work on something everyone else has overlooked.
+I was going to write that one has to make a conscious effort to
+find ideas everyone else has overlooked.  But that's not how most
+startups get started.  Usually successful startups happen because
+the founders are sufficiently different from other people that ideas
+few others can see seem obvious to them.  Perhaps later they step
+back and notice they've found an idea in everyone else's blind spot,
+and from that point make a deliberate effort to stay there. 
 [3]
-And the social effects
-lasted too.  The kid pulled into the army from behind a mule team
-in West Virginia didn't simply go back to the farm afterward.
-Something else was waiting for him, something that looked a lot
-like the army.If total war was the big political story of the 20th century, the
-big economic story was the rise of new kind of company.  And this
-too tended to produce both social and economic cohesion.
-[4]The 20th century was the century of the big, national corporation.
-General Electric, General Foods, General Motors.  Developments in
-finance, communications, transportation, and manufacturing enabled
-a new type of company whose goal was above all scale.  Version 1
-of this world was low-res: a Duplo world of a few giant companies
-dominating each big market.
-[5]The late 19th and early 20th centuries had been a time of consolidation,
-led especially by J. P. Morgan.  Thousands of companies run by their
-founders were merged into a couple hundred giant ones run by
-professional managers. Economies of scale ruled the day.  It seemed
-to people at the time that this was the final state of things.  John
-D. Rockefeller said in 1880
+But at the moment when successful startups get started, much of the
+innovation is unconscious.What's different about successful founders is that they can see
+different problems.  It's a particularly good combination both to
+be good at technology and to face problems that can be solved by
+it, because technology changes so rapidly that formerly bad ideas
+often become good without anyone noticing.  Steve Wozniak's problem
+was that he wanted his own computer.  That was an unusual problem
+to have in 1975.  But technological change was about to make it a
+much more common one.  Because he not only wanted a computer but
+knew how to build them, Wozniak was able to make himself one.  And
+the problem he solved for himself became one that Apple solved for
+millions of people in the coming years.  But by the time it was
+obvious to ordinary people that this was a big market, Apple was
+already established.Google has similar origins.  Larry Page and Sergey Brin wanted to
+search the web.  But unlike most people they had the technical
+expertise both to notice that existing search engines were not as
+good as they could be, and to know how to improve them.  Over the
+next few years their problem became everyone's problem, as the web
+grew to a size where you didn't have to be a picky search expert
+to notice the old algorithms weren't good enough.  But as happened
+with Apple, by the time everyone else realized how important search
+was, Google was entrenched.That's one connection between startup ideas and technology.  Rapid
+change in one area uncovers big, soluble problems in other areas.
+Sometimes the changes are advances, and what they change is solubility.
+That was the kind of change that yielded Apple; advances in chip
+technology finally let Steve Wozniak design a computer he could
+afford.  But in Google's case the most important change was the
+growth of the web. What changed there was not solubility but bigness.The other connection between startups and technology is that startups
+create new ways of doing things, and new ways of doing things are,
+in the broader sense of the word, new technology.  
+When a startup both begins with an
+idea exposed by technological change and makes a product consisting
+of technology in the narrower sense (what used to be called "high
+technology"), it's easy to conflate the two.  But the two connections
+are distinct and in principle one could start a startup that was
+neither driven by technological change, nor whose product consisted
+of technology except in the broader sense. 
+[4]RateHow fast does a company have to grow to be considered a startup?
+There's no precise answer to that.  "Startup" is a pole, not a
+threshold.  Starting one is at first no more than a declaration of
+one's ambitions.  You're committing not just to starting a company,
+but to starting a fast growing one, and you're thus committing to
+search for one of the rare ideas of that type.  But at first you
+have no more than commitment.  Starting a startup is like being an
+actor in that respect.  "Actor" too is a pole rather than a threshold.
+At the beginning of his career, an actor is a waiter who goes to
+auditions.  Getting work makes him a successful actor, but he doesn't
+only become an actor when he's successful.So the real question is not what growth rate makes a company a
+startup, but what growth rate successful startups tend to have.
+For founders that's more than a theoretical question, because it's
+equivalent to asking if they're on the right path.The growth of a successful startup usually has three phases:
 
-  The day of combination is here to stay. Individualism has gone,
-  never to return.
+ There's an initial period of slow or no growth while the startup
+  tries to figure out what it's doing. As the startup figures out how to make something lots of people
+  want and how to reach those people, there's a period of rapid
+  growth. Eventually a successful startup will grow into a big company.
+  Growth will slow, partly due to internal limits and partly because
+  the company is starting to bump up against the limits of the
+  markets it serves.  
+  [5]
 
-He turned out to be mistaken, but he seemed right for the next
-hundred years.The consolidation that began in the late 19th century continued for
-most of the 20th.  By the end of World War II, as Michael Lind
-writes, "the major sectors of the economy were either organized
-as government-backed cartels or dominated by a few oligopolistic
-corporations."For consumers this new world meant the same choices everywhere, but
-only a few of them.  When I grew up there were only 2 or 3 of most
-things, and since they were all aiming at the middle of the market
-there wasn't much to differentiate them.One of the most important instances of this phenomenon was in TV.
-Here there were 3 choices: NBC, CBS, and ABC. Plus public TV for
-eggheads and communists.  The programs the 3 networks offered were
-indistinguishable.  In fact, here there was a triple pressure toward
-the center. If one show did try something daring, local affiliates
-in conservative markets would make them stop. Plus since TVs were
-expensive whole families watched the same shows together, so they
-had to be suitable for everyone.And not only did everyone get the same thing, they got it at the
-same time.  It's difficult to imagine now, but every night tens of
-millions of families would sit down together in front of their TV
-set watching the same show, at the same time, as their next door
-neighbors.  What happens now with the Super Bowl used to happen
-every night. We were literally in sync.
-[6]In a way mid-century TV culture was good. The view it gave of the
-world was like you'd find in a children's book, and it probably had
-something of the effect that (parents hope) children's books have
-in making people behave better.  But, like children's books, TV was
-also misleading.  Dangerously misleading, for adults. In his
-autobiography, Robert MacNeil talks of seeing gruesome images that
-had just come in from Vietnam and thinking, we can't show these to
-families while they're having dinner.I know how pervasive the common culture was, because I tried to opt
-out of it, and it was practically impossible to find alternatives.
-When I was 13 I realized, more from internal evidence than any
-outside source, that the ideas we were being fed on TV were crap,
-and I stopped watching it.
+Together these three phases produce an S-curve.  The phase whose
+growth defines the startup is the second one, the ascent.  Its
+length and slope determine how big the company will be.The slope is the company's growth rate.  If there's one number every
+founder should always know, it's the company's growth rate.  That's
+the measure of a startup.  If you don't know that number, you don't
+even know if you're doing well or badly.When I first meet founders and ask what their growth rate is,
+sometimes they tell me "we get about a hundred new customers a
+month."  That's not a rate.  What matters is not the absolute number
+of new customers, but the ratio of new customers to existing ones.
+If you're really getting a constant number of new customers every
+month, you're in trouble, because that means your growth rate is
+decreasing.During Y Combinator we measure growth rate per week, partly because
+there is so little time before Demo Day, and partly because startups
+early on need frequent feedback from their users to tweak what
+they're doing. 
+[6]A good growth rate during YC is 5-7% a week.  If you can hit 10% a
+week you're doing exceptionally well.  If you can only manage 1%,
+it's a sign you haven't yet figured out what you're doing.The best thing to measure the growth rate of is revenue.  The next
+best, for startups that aren't charging initially, is active users.
+That's a reasonable proxy for revenue growth because whenever the
+startup does start trying to make money, their revenues will probably
+be a constant multiple of active users. 
 [7]
-But it wasn't just TV.  It seemed
-like everything around me was crap.  The politicians all saying the
-same things, the consumer brands making almost identical products
-with different labels stuck on to indicate how prestigious they
-were meant to be, the balloon-frame houses with fake "colonial"
-skins, the cars with several feet of gratuitous metal on each end
-that started to fall apart after a couple years, the "red delicious"
-apples that were red but only nominally 
-apples. And in retrospect, it was crap.
-[8]But when I went looking for alternatives to fill this void, I found
-practically nothing.  There was no Internet then.  The only place
-to look was in the chain bookstore in our local shopping mall. 
+CompassWe usually advise startups to pick a growth rate they think they
+can hit, and then just try to hit it every week.  The key word here
+is "just." If they decide to grow at 7% a week and they hit that
+number, they're successful for that week.  There's nothing more
+they need to do.  But if they don't hit it, they've failed in the
+only thing that mattered, and should be correspondingly alarmed.Programmers will recognize what we're doing here.  We're turning
+starting a startup into an optimization problem.  And anyone who
+has tried optimizing code knows how wonderfully effective that sort
+of narrow focus can be.  Optimizing code means taking an existing
+program and changing it to use less of something, usually time or
+memory.  You don't have to think about what the program should do,
+just make it faster.  For most programmers this is very satisfying
+work.  The narrow focus makes it a sort of puzzle, and you're
+generally surprised how fast you can solve it.Focusing on hitting a growth rate reduces the otherwise bewilderingly
+multifarious problem of starting a startup to a single problem.
+You can use that target growth rate to make all your decisions for
+you; anything that gets you the growth you need is ipso facto right.
+Should you spend two days at a conference?  Should you hire another
+programmer?  Should you focus more on marketing?  Should you spend
+time courting some big customer?  Should you add x feature? Whatever
+gets you your target growth rate. 
+[8]Judging yourself by weekly growth doesn't mean you can look no more
+than a week ahead.  Once you experience the pain of missing your
+target one week (it was the only thing that mattered, and you failed
+at it), you become interested in anything that could spare you such
+pain in the future.  So you'll be willing for example to hire another
+programmer, who won't contribute to this week's growth but perhaps
+in a month will have implemented some new feature that will get you
+more users.   But only if (a) the distraction of hiring someone
+won't make you miss your numbers in the short term, and (b) you're
+sufficiently worried about whether you can keep hitting your numbers
+without hiring someone new.It's not that you don't think about the future, just that you think
+about it no more than necessary.In theory this sort of hill-climbing could get a startup into
+trouble.  They could end up on a local maximum.  But in practice
+that never happens.  Having to hit a growth number every week forces
+founders to act, and acting versus not acting is the high bit of
+succeeding.  Nine times out of ten, sitting around strategizing is
+just a form of procrastination.  Whereas founders' intuitions about
+which hill to climb are usually better than they realize.  Plus the
+maxima in the space of startup ideas are not spiky and isolated.
+Most fairly good ideas are adjacent to even better ones.The fascinating thing about optimizing for growth is that it can
+actually discover startup ideas.  You can use the need for growth
+as a form of evolutionary pressure.  If you start out with some
+initial plan and modify it as necessary to keep hitting, say, 10%
+weekly growth, you may end up with a quite different company than
+you meant to start.  But anything that grows consistently at 10% a
+week is almost certainly a better idea than you started with.There's a parallel here to small businesses.  Just as the constraint
+of being located in a particular neighborhood helps define a bar,
+the constraint of growing at a certain rate can help define a
+startup.You'll generally do best to follow that constraint wherever it leads
+rather than being influenced by some initial vision, just as a
+scientist is better off following the truth wherever it leads rather
+than being influenced by what he wishes were the case.  When Richard
+Feynman said that the imagination of nature was greater than the
+imagination of man, he meant that if you just keep following the
+truth you'll discover cooler things than you could ever have made
+up. For startups, growth is a constraint much like truth. Every
+successful startup is at least partly a product of the imagination
+of growth.  
 [9]
-There I found a copy of The Atlantic.  I wish I could say it became
-a gateway into a wider world, but in fact I found it boring and
-incomprehensible.  Like a kid tasting whisky for the first time and
-pretending to like it, I preserved that magazine as carefully as
-if it had been a book. I'm sure I still have it somewhere.  But
-though it was evidence that there was, somewhere, a world that
-wasn't red delicious, I didn't find it till college.It wasn't just as consumers that the big companies made us similar.
-They did as employers too.  Within companies there were powerful
-forces pushing people toward a single model of how to look and act.
-IBM was particularly notorious for this, but they were only a little
-more extreme than other big companies.  And the models of how to
-look and act varied little between companies. Meaning everyone
-within this world was expected to seem more or less the same.  And
-not just those in the corporate world, but also everyone who aspired
-to it—which in the middle of the 20th century meant most people
-who weren't already in it.  For most of the 20th century, working-class
-people tried hard to look middle class.  You can see it in old
-photos.  Few adults aspired to look dangerous in 1950.But the rise of national corporations didn't just compress us
-culturally.  It compressed us economically too, and on both ends.Along with giant national corporations, we got giant national labor
-unions.  And in the mid 20th century the corporations cut deals
-with the unions where they paid over market price for labor.  Partly
-because the unions were monopolies. 
-[10]
-Partly because, as
-components of oligopolies themselves, the corporations knew they
-could safely pass the cost on to their customers, because their
-competitors would have to as well.  And partly because in mid-century
-most of the giant companies were still focused on finding new ways
-to milk economies of scale.  Just as startups rightly pay AWS a
-premium over the cost of running their own servers so they can focus
-on growth, many of the big national corporations were willing to
-pay a premium for labor. 
-[11]As well as pushing incomes up from the bottom, by overpaying unions,
-the big companies of the 20th century also pushed incomes down at
-the top, by underpaying their top management. Economist J. K.
-Galbraith wrote in 1967 that "There are few corporations in which
-it would be suggested that executive salaries are at a maximum."
-[12]To some extent this was an illusion.  Much of the de facto pay of
-executives never showed up on their income tax returns, because it
-took the form of perks.  The higher the rate of income tax, the
-more pressure there was to pay employees upstream of it.  (In the
-UK, where taxes were even higher than in the US, companies would
-even pay their kids' private school tuitions.)  One of the most
-valuable things the big companies of the mid 20th century gave their
-employees was job security, and this too didn't show up in tax
-returns or income statistics. So the nature of employment in these
-organizations tended to yield falsely low numbers about economic
-inequality.  But even accounting for that, the big companies paid
-their best people less than market price.  There was no market; the
-expectation was that you'd work for the same company for decades
-if not your whole career. 
-[13]Your work was so illiquid there was little chance of getting market
-price. But that same illiquidity also encouraged you not to seek
-it.  If the company promised to employ you till you retired and
-give you a pension afterward, you didn't want to extract as much
-from it this year as you could. You needed to take care of the
-company so it could take care of you.  Especially when you'd been
-working with the same group of people for decades.  If you tried
-to squeeze the company for more money, you were squeezing the
-organization that was going to take care of them.  Plus if
-you didn't put the company first you wouldn't be promoted, and if
-you couldn't switch ladders, promotion on this one was the only way
-up. 
-[14]To someone who'd spent several formative years in the armed forces,
-this situation didn't seem as strange as it does to us now.  From
-their point of view, as big company executives, they were high-ranking
-officers.  They got paid a lot more than privates.  They got to
-have expense account lunches at the best restaurants and fly around
-on the company's Gulfstreams.  It probably didn't occur to most of
-them to ask if they were being paid market price.The ultimate way to get market price is to work for yourself, by
-starting your own company.  That seems obvious to any ambitious
-person now.  But in the mid 20th century it was an alien concept.
-Not because starting one's own company seemed too ambitious, but
-because it didn't seem ambitious enough. Even as late as the 1970s,
-when I grew up, the ambitious plan was to get lots of education at
-prestigious institutions, and then join some other prestigious
-institution and work one's way up the hierarchy.  Your prestige was
-the prestige of the institution you belonged to.  People did start
-their own businesses of course, but educated people rarely did,
-because in those days there was practically zero concept of starting
-what we now call a startup: 
-a business that starts small and grows
-big.  That was much harder to do in the mid 20th century.  Starting
-one's own business meant starting a business that would start small
-and stay small. Which in those days of big companies often meant
-scurrying around trying to avoid being trampled by elephants.  It
-was more prestigious to be one of the executive class riding the
-elephant.By the 1970s, no one stopped to wonder where the big prestigious
-companies had come from in the first place.  It seemed like they'd
-always been there, like the chemical elements.  And indeed, there
-was a double wall between ambitious kids in the 20th century and
-the origins of the big companies.  Many of the big companies were
-roll-ups that didn't have clear founders.  And when they did, the
-founders didn't seem like us.  Nearly all of them had been uneducated,
-in the sense of not having been to college.  They were what Shakespeare
-called rude mechanicals.  College trained one to be a member of the
-professional classes.  Its graduates didn't expect to do the sort
-of grubby menial work that Andrew Carnegie or Henry Ford started
-out doing. 
-[15]And in the 20th century there were more and more college graduates.
-They increased from about 2% of the population in 1900 to about 25%
-in 2000. In the middle of the century our two big forces intersect,
-in the form of the GI Bill, which sent 2.2 million World War II
-veterans to college.  Few thought of it in these terms, but the
-result of making college the canonical path for the ambitious was
-a world in which it was socially acceptable to work for Henry Ford,
-but not to be Henry Ford.
-[16]I remember this world well. I came of age just as it was starting
-to break up. In my childhood it was still dominant. Not quite so
-dominant as it had been.  We could see from old TV shows and yearbooks
-and the way adults acted that people in the 1950s and 60s had been
-even more conformist than us.  The mid-century model was already
-starting to get old. But that was not how we saw it at the time.
-We would at most have said that one could be a bit more daring in
-1975 than 1965.  And indeed, things hadn't changed much yet.But change was coming soon. And when the Duplo economy started to
-disintegrate, it disintegrated in several different ways at once.
-Vertically integrated companies literally dis-integrated because
-it was more efficient to.  Incumbents faced new competitors as (a)
-markets went global and (b) technical innovation started to trump
-economies of scale, turning size from an asset into a liability.
-Smaller companies were increasingly able to survive as formerly
-narrow channels to consumers broadened.  Markets themselves started
-to change faster, as whole new categories of products appeared. And
-last but not least, the federal government, which had previously
-smiled upon J. P. Morgan's world as the natural state of things,
-began to realize it wasn't the last word after all.What J. P. Morgan was to the horizontal axis, Henry Ford was to the
-vertical.  He wanted to do everything himself. The giant plant he
-built at River Rouge between 1917 and 1928 literally took in iron
-ore at one end and sent cars out the other.  100,000 people worked
-there. At the time it seemed the future. But that is not how car
-companies operate today.  Now much of the design and manufacturing
-happens in a long supply chain, whose products the car companies
-ultimately assemble and sell.  The reason car companies operate
-this way is that it works better.  Each company in the supply chain
-focuses on what they know best. And they each have to do it well
-or they can be swapped out for another supplier.Why didn't Henry Ford realize that networks of cooperating companies
-work better than a single big company? One reason is that supplier
-networks take a while to evolve. In 1917, doing everything himself
-seemed to Ford the only way to get the scale he needed. And the
-second reason is that if you want to solve a problem using a network
-of cooperating companies, you have to be able to coordinate their
-efforts, and you can do that much better with computers.  Computers
-reduce the transaction costs that Coase argued are the raison d'etre
-of corporations. That is a fundamental change.In the early 20th century, big companies were synonymous with
-efficiency.  In the late 20th century they were synonymous with
-inefficiency.  To some extent this was because the companies
-themselves had become sclerotic.  But it was also because our
-standards were higher.It wasn't just within existing industries that change occurred.
-The industries themselves changed.  It became possible to make lots
-of new things, and sometimes the existing companies weren't the
-ones who did it best.Microcomputers are a classic example. The market was pioneered by
-upstarts like Apple. When it got big enough, IBM decided it was
-worth paying attention to.  At the time IBM completely dominated
-the computer industry. They assumed that all they had to do, now
-that this market was ripe, was to reach out and pick it.  Most
-people at the time would have agreed with them.  But what happened
-next illustrated how much more complicated the world had become.
-IBM did launch a microcomputer.  Though quite successful, it did
-not crush Apple.  But even more importantly, IBM itself ended up
-being supplanted by a supplier coming in from the side—from
-software, which didn't even seem to be the same business.  IBM's
-big mistake was to accept a non-exclusive license for DOS.  It must
-have seemed a safe move at the time.  No other computer manufacturer
-had ever been able to outsell them. What difference did it make if
-other manufacturers could offer DOS too?  The result of that
-miscalculation was an explosion of inexpensive PC clones.  Microsoft
-now owned the PC standard, and the customer.  And the microcomputer
-business ended up being Apple vs Microsoft.Basically, Apple bumped IBM and then Microsoft stole its wallet.
-That sort of thing did not happen to big companies in mid-century.
-But it was going to happen increasingly often in the future.Change happened mostly by itself in the computer business.  In other
-industries, legal obstacles had to be removed first.  Many of the
-mid-century oligopolies had been anointed by the federal government
-with policies (and in wartime, large orders) that kept out competitors.
-This didn't seem as dubious to government officials at the time as
-it sounds to us. They felt a two-party system ensured sufficient
-competition in politics.  It ought to work for business too.Gradually the government realized that anti-competitive policies
-were doing more harm than good, and during the Carter administration
-it started to remove them. The word used for this process was
-misleadingly narrow: deregulation.  What was really happening was
-de-oligopolization.  It happened to one industry after another.
-Two of the most visible to consumers were air travel and long-distance
-phone service, which both became dramatically cheaper after
-deregulation.Deregulation also contributed to the wave of hostile takeovers in
-the 1980s.  In the old days the only limit on the inefficiency of
-companies, short of actual bankruptcy, was the inefficiency of their
-competitors.  Now companies had to face absolute rather than relative
-standards.  Any public company that didn't generate sufficient
-returns on its assets risked having its management replaced with
-one that would.  Often the new managers did this by breaking companies
-up into components that were more valuable separately.
-[17]Version 1 of the national economy consisted of a few big blocks
-whose relationships were negotiated in back rooms by a handful of
-executives, politicians, regulators, and labor leaders.  Version 2
-was higher resolution: there were more companies, of more different
-sizes, making more different things, and their relationships changed
-faster. In this world there were still plenty of back room negotiations,
-but more was left to market forces.  Which further accelerated the
-fragmentation.It's a little misleading to talk of versions when describing a
-gradual process, but not as misleading as it might seem.  There was
-a lot of change in a few decades, and what we ended up with was
-qualitatively different.  The companies in the S&P 500 in 1958 had
-been there an average of 61 years. By 2012 that number was 18 years.
-[18]The breakup of the Duplo economy happened simultaneously with the
-spread of computing power. To what extent were computers a precondition?
-It would take a book to answer that. Obviously the spread of computing
-power was a precondition for the rise of startups.  I suspect it
-was for most of what happened in finance too.  But was it a
-precondition for globalization or the LBO wave?  I don't know, but
-I wouldn't discount the possibility.  It may be that the refragmentation
-was driven by computers in the way the industrial revolution was
-driven by steam engines.  Whether or not computers were a precondition,
-they have certainly accelerated it.The new fluidity of companies changed people's relationships with
-their employers. Why climb a corporate ladder that might be yanked
-out from under you?  Ambitious people started to think of a career
-less as climbing a single ladder than as a series of jobs that might
-be at different companies. More movement (or even potential movement)
-between companies introduced more competition in salaries.  Plus
-as companies became smaller it became easier to estimate how much
-an employee contributed to the company's revenue.  Both changes
-drove salaries toward market price. And since people vary dramatically
-in productivity, paying market price meant salaries started to
-diverge.By no coincidence it was in the early 1980s that the term "yuppie"
-was coined.  That word is not much used now, because the phenomenon
-it describes is so taken for granted, but at the time it was a label
-for something novel. Yuppies were young professionals who made lots
-of money.  To someone in their twenties today, this wouldn't seem
-worth naming.  Why wouldn't young professionals make lots of money?
-But until the 1980s being underpaid early in your career was part
-of what it meant to be a professional.  Young professionals were
-paying their dues, working their way up the ladder.  The rewards
-would come later.  What was novel about yuppies was that they wanted
-market price for the work they were doing now.The first yuppies did not work for startups. That was still in the
-future.  Nor did they work for big companies. They were professionals
-working in fields like law, finance, and consulting.  But their example 
-rapidly inspired their peers.  Once they saw that new BMW 325i, they 
-wanted one too.Underpaying people at the beginning of their career only works if
-everyone does it. Once some employer breaks ranks, everyone else
-has to, or they can't get good people.  And once started this process
-spreads through the whole economy, because at the beginnings of
-people's careers they can easily switch not merely employers but
-industries.But not all young professionals benefitted. You had to produce to
-get paid a lot.  It was no coincidence that the first yuppies worked
-in fields where it was easy to measure that.More generally, an idea was returning whose name sounds old-fashioned
-precisely because it was so rare for so long: that you could make
-your fortune.  As in the past there were multiple ways to do it.
-Some made their fortunes by creating wealth, and others by playing
-zero-sum games. But once it became possible to make one's fortune,
-the ambitious had to decide whether or not to.  A physicist who
-chose physics over Wall Street in 1990 was making a sacrifice that
-a physicist in 1960 wasn't.The idea even flowed back into big companies.  CEOs of big companies
-make more now than they used to, and I think much of the reason is
-prestige.  In 1960, corporate CEOs had immense prestige.  They were
-the winners of the only economic game in town. But if they made as
-little now as they did then, in real dollar terms, they'd seem like
-small fry compared to professional athletes and whiz kids making
-millions from startups and hedge funds. They don't like that idea,
-so now they try to get as much as they can, which is more than they
-had been getting. 
-[19]Meanwhile a similar fragmentation was happening at the other end
-of the economic scale.  As big companies' oligopolies became less
-secure, they were less able to pass costs on to customers and thus
-less willing to overpay for labor.  And as the Duplo world of a few
-big blocks fragmented into many companies of different sizes—some
-of them overseas—it became harder for unions to enforce their
-monopolies.  As a result workers' wages also tended toward market
-price. Which (inevitably, if unions had been doing their job) tended
-to be lower.  Perhaps dramatically so, if automation had decreased
-the need for some kind of work.And just as the mid-century model induced social as well as economic
-cohesion, its breakup brought social as well as economic fragmentation.
-People started to dress and act differently.  Those who would later
-be called the "creative class" became more mobile. People who didn't
-care much for religion felt less pressure to go to church for
-appearances' sake, while those who liked it a lot opted for
-increasingly colorful forms. Some switched from meat loaf to tofu,
-and others to Hot Pockets. Some switched from driving Ford sedans
-to driving small imported cars, and others to driving SUVs.  Kids
-who went to private schools or wished they did started to dress
-"preppy," and kids who wanted to seem rebellious made a conscious
-effort to look disreputable.  In a hundred ways people spread apart.
-[20]Almost four decades later, fragmentation is still increasing.  Has
-it been net good or bad?  I don't know; the question may be
-unanswerable.  Not entirely bad though.  We take for granted the
-forms of fragmentation we like, and worry only about the ones we
-don't. But as someone who caught the tail end of mid-century
-conformism, 
-I can tell you it was no utopia.
-[21]My goal here is not to say whether fragmentation has been good or
-bad, just to explain why it's happening.  With the centripetal
-forces of total war and 20th century oligopoly mostly gone, what
-will happen next?  And more specifically, is it possible to reverse
-some of the fragmentation we've seen?If it is, it will have to happen piecemeal.  You can't reproduce
-mid-century cohesion the way it was originally produced.  It would
-be insane to go to war just to induce more national unity.  And
-once you understand the degree to which the economic history of the
-20th century was a low-res version 1, it's clear you can't reproduce
-that either.20th century cohesion was something that happened at least in a
-sense naturally.  The war was due mostly to external forces, and
-the Duplo economy was an evolutionary phase.  If you want cohesion
-now, you'd have to induce it deliberately.  And it's not obvious
-how.  I suspect the best we'll be able to do is address the symptoms
-of fragmentation.  But that may be enough.The form of fragmentation people worry most about lately is economic inequality, and if you want to eliminate
-that you're up against a truly formidable headwind—one that has
-been in operation since the stone age: technology.  Technology is
-a lever. It magnifies work.  And the lever not only grows increasingly
-long, but the rate at which it grows is itself increasing.Which in turn means the variation in the amount of wealth people
-can create has not only been increasing, but accelerating.  The
-unusual conditions that prevailed in the mid 20th century masked
-this underlying trend.  The ambitious had little choice but to join
-large organizations that made them march in step with lots of other
-people—literally in the case of the armed forces, figuratively
-in the case of big corporations. Even if the big corporations had
-wanted to pay people proportionate to their value, they couldn't
-have figured out how.  But that constraint has gone now.  Ever since
-it started to erode in the 1970s, we've seen the underlying forces
-at work again.
-[22]Not everyone who gets rich now does it by creating wealth, certainly.
-But a significant number do, and the Baumol Effect means all their
-peers get dragged along too.
-[23]
-And as long as it's possible to
-get rich by creating wealth, the default tendency will be for
-economic inequality to increase.  Even if you eliminate all the
-other ways to get rich.  You can mitigate this with subsidies at
-the bottom and taxes at the top, but unless taxes are high enough
-to discourage people from creating wealth, you're always going to
-be fighting a losing battle against increasing variation in
-productivity.
-[24]That form of fragmentation, like the others, is here to stay.  Or
-rather, back to stay.  Nothing is forever, but the tendency toward
-fragmentation should be more forever than most things, precisely
-because it's not due to any particular cause.  It's simply a reversion
-to the mean. When Rockefeller said individualism was gone, he was
-right for a hundred years.  It's back now, and that's likely to be
-true for longer.I worry that if we don't acknowledge this, we're headed for trouble.
-If we think 20th century cohesion disappeared because of few policy
-tweaks, we'll be deluded into thinking we can get it back (minus
-the bad parts, somehow) with a few countertweaks.  And then we'll
-waste our time trying to eliminate fragmentation, when we'd be
-better off thinking about how to mitigate its consequences.
+ValueIt's hard to find something that grows consistently at several
+percent a week, but if you do you may have found something surprisingly
+valuable.  If we project forward we see why.
+
+weeklyyearly
+1%1.7x
+2%2.8x
+5%12.6x
+7%33.7x
+10%142.0x
+
+
+
+A company that grows at 1% a week will grow 1.7x a year, whereas a
+company that grows at 5% a week will grow 12.6x.  A company making
+$1000 a month (a typical number early in YC) and growing at 1% a
+week will 4 years later be making $7900 a month, which is less than
+a good programmer makes in salary in Silicon Valley.  A startup
+that grows at 5% a week will in 4 years be making $25 million a
+month. 
+[10]Our ancestors must rarely have encountered cases of exponential
+growth, because our intutitions are no guide here.  What happens
+to fast growing startups tends to surprise even the founders.Small variations in growth rate produce qualitatively different
+outcomes.  That's why there's a separate word for startups, and why
+startups do things that ordinary companies don't, like raising money
+and getting acquired.  And, strangely enough, it's also why they
+fail so frequently.Considering how valuable a successful startup can become, anyone
+familiar with the concept of expected value would be surprised if
+the failure rate weren't high.  If a successful startup could make
+a founder $100 million, then even if the chance of succeeding were
+only 1%, the expected value of starting one would be $1 million.
+And the probability of a group of sufficiently smart and determined
+founders succeeding on that scale might be significantly over 1%.
+For the right people—e.g. the young Bill Gates—the probability
+might be 20% or even 50%.  So it's not surprising that so many want
+to take a shot at it.  In an efficient market, the number of failed
+startups should be proportionate to the size of the successes.  And
+since the latter is huge the former should be too. 
+[11]What this means is that at any given time, the great majority of
+startups will be working on something that's never going to go
+anywhere, and yet glorifying their doomed efforts with the grandiose
+title of "startup."This doesn't bother me.  It's the same with other high-beta vocations,
+like being an actor or a novelist.  I've long since gotten used to
+it.  But it seems to bother a lot of people, particularly those
+who've started ordinary businesses.  Many are annoyed that these
+so-called startups get all the attention, when hardly any of them
+will amount to anything.If they stepped back and looked at the whole picture they might be
+less indignant.  The mistake they're making is that by basing their
+opinions on anecdotal evidence they're implicitly judging by the
+median rather than the average.  If you judge by the median startup,
+the whole concept of a startup seems like a fraud.  You have to
+invent a bubble to explain why founders want to start them or
+investors want to fund them.  But it's a mistake to use the median
+in a domain with so much variation.  If you look at the average
+outcome rather than the median, you can understand why investors
+like them, and why, if they aren't median people, it's a rational
+choice for founders to start them.
+DealsWhy do investors like startups so much?  Why are they so hot to
+invest in photo-sharing apps, rather than solid money-making
+businesses?  Not only for the obvious reason.The test of any investment is the ratio of return to risk.  Startups
+pass that test because although they're appallingly risky, the
+returns when they do succeed are so high.  But that's not the only
+reason investors like startups.  An ordinary slower-growing business
+might have just as good a ratio of return to risk, if both were
+lower.  So why are VCs interested only in high-growth companies?
+The reason is that they get paid by getting their capital back,
+ideally after the startup IPOs, or failing that when it's acquired.The other way to get returns from an investment is in the form of
+dividends.  Why isn't there a parallel VC industry that invests in
+ordinary companies in return for a percentage of their profits?
+Because it's too easy for people who control a private company to
+funnel its revenues to themselves (e.g. by buying overpriced
+components from a supplier they control) while making it look like
+the company is making little profit.  Anyone who invested in private
+companies in return for dividends would have to pay close attention
+to their books.The reason VCs like to invest in startups is not simply the returns,
+but also because such investments are so easy to oversee.  The
+founders can't enrich themselves without also enriching the investors.
+[12]Why do founders want to take the VCs' money?  Growth, again.  The
+constraint between good ideas and growth operates in both directions.
+It's not merely that you need a scalable idea to grow.  If you have
+such an idea and don't grow fast enough, competitors will.  Growing
+too slowly is particularly dangerous in a business with network
+effects, which the best startups usually have to some degree.Almost every company needs some amount of funding to get started.
+But startups often raise money even when they are or could be
+profitable.  It might seem foolish to sell stock in a profitable
+company for less than you think it will later be worth, but it's
+no more foolish than buying insurance.  Fundamentally that's how
+the most successful startups view fundraising.  They could grow the
+company on its own revenues, but the extra money and help supplied
+by VCs will let them grow even faster.  Raising money lets you
+choose your growth rate.Money to grow faster is always at the command of the most successful
+startups, because the VCs need them more than they need the VCs.
+A profitable startup could if it wanted just grow on its own revenues.
+Growing slower might be slightly dangerous, but chances are it
+wouldn't kill them.  Whereas VCs need to invest in startups, and
+in particular the most successful startups, or they'll be out of
+business.  Which means that any sufficiently promising startup will
+be offered money on terms they'd be crazy to refuse.  And yet because
+of the scale of the successes in the startup business, VCs can still
+make money from such investments.  You'd have to be crazy to believe
+your company was going to become as valuable as a high growth rate
+can make it, but some do.Pretty much every successful startup will get acquisition offers
+too.  Why?  What is it about startups that makes other companies
+want to buy them? 
+[13]Fundamentally the same thing that makes everyone else want the stock
+of successful startups: a rapidly growing company is valuable.  It's
+a good thing eBay bought Paypal, for example, because Paypal is now
+responsible for 43% of their sales and probably more of their growth.But acquirers have an additional reason to want startups.  A rapidly
+growing company is not merely valuable, but dangerous.  If it keeps
+expanding, it might expand into the acquirer's own territory.  Most
+product acquisitions have some component of fear.  Even if an
+acquirer isn't threatened by the startup itself, they might be
+alarmed at the thought of what a competitor could do with it.  And
+because startups are in this sense doubly valuable to acquirers,
+acquirers will often pay more than an ordinary investor would. 
+[14]
+UnderstandThe combination of founders, investors, and acquirers forms a natural
+ecosystem.  It works so well that those who don't understand it are
+driven to invent conspiracy theories to explain how neatly things
+sometimes turn out.  Just as our ancestors did to explain the
+apparently too neat workings of the natural world.  But there is
+no secret cabal making it all work.If you start from the mistaken assumption that Instagram was
+worthless, you have to invent a secret boss to force Mark Zuckerberg
+to buy it.  To anyone who knows Mark Zuckerberg that is the reductio
+ad absurdum of the initial assumption.  The reason he bought Instagram
+was that it was valuable and dangerous, and what made it so was
+growth.If you want to understand startups, understand growth.  Growth
+drives everything in this world.  Growth is why startups usually
+work on technology—because ideas for fast growing companies are
+so rare that the best way to find new ones is to discover those
+recently made viable by change, and technology is the best source
+of rapid change.  Growth is why it's a rational choice economically
+for so many founders to try starting a startup: growth makes the
+successful companies so valuable that the expected value is high
+even though the risk is too.  Growth is why VCs want to invest in
+startups: not just because the returns are high but also because
+generating returns from capital gains is easier to manage than
+generating returns from dividends.  Growth explains why the most
+successful startups take VC money even if they don't need to: it
+lets them choose their growth rate.  And growth explains why
+successful startups almost invariably get acquisition offers.  To
+acquirers a fast-growing company is not merely valuable but dangerous
+too.It's not just that if you want to succeed in some domain, you have
+to understand the forces driving it.  Understanding growth is what
+starting a startup consists of.  What you're really doing (and
+to the dismay of some observers, all you're really doing) when you
+start a startup is committing to solve a harder type of problem
+than ordinary businesses do.  You're committing to search for one
+of the rare ideas that generates rapid growth.  Because these ideas
+are so valuable, finding one is hard.  The startup is the embodiment
+of your discoveries so far.  Starting a startup is thus very much
+like deciding to be a research scientist: you're not committing to
+solve any specific problem; you don't know for sure which problems
+are soluble; but you're committing to try to discover something no
+one knew before.  A startup founder is in effect an economic research
+scientist.  Most don't discover anything that remarkable, but some
+discover relativity.
 Notes[1]
-Lester Thurow, writing in 1975, said the wage differentials
-prevailing at the end of World War II had become so embedded that
-they "were regarded as 'just' even after the egalitarian pressures
-of World War II had disappeared.  Basically, the same differentials
-exist to this day, thirty years later." But Goldin and Margo think
-market forces in the postwar period also helped preserve the wartime
-compression of wages—specifically increased demand for unskilled
-workers, and oversupply of educated ones.(Oddly enough, the American custom of having employers pay for
-health insurance derives from efforts by businesses to circumvent
-NWLB wage controls in order to attract workers.)[2]
-As always, tax rates don't tell the whole story.  There were
-lots of exemptions, especially for individuals.  And in World War
-II the tax codes were so new that the government had little acquired
-immunity to tax avoidance.  If the rich paid high taxes during the
-war it was more because they wanted to than because they had to.After the war, federal tax receipts as a percentage of GDP were
-about the same as they are now. In fact, for the entire period since
-the war, tax receipts have stayed close to 18% of GDP, despite
-dramatic changes in tax rates.  The lowest point occurred when
-marginal income tax rates were highest: 14.1% in 1950.  Looking at
-the data, it's hard to avoid the conclusion that tax rates have had
-little effect on what people actually paid.[3]
-Though in fact the decade preceding the war had been a time
-of unprecedented federal power, in response to the Depression.
-Which is not entirely a coincidence, because the Depression was one
-of the causes of the war.  In many ways the New Deal was a sort of
-dress rehearsal for the measures the federal government took during
-wartime.  The wartime versions were much more drastic and more
-pervasive though.  As Anthony Badger wrote, "for many Americans the
-decisive change in their experiences came not with the New Deal but
-with World War II."[4]
-I don't know enough about the origins of the world wars to
-say, but it's not inconceivable they were connected to the rise of
-big corporations. If that were the case, 20th century cohesion would
-have a single cause.[5]
-More precisely, there was a bimodal economy consisting, in
-Galbraith's words, of "the world of the technically dynamic, massively
-capitalized and highly organized corporations on the one hand and
-the hundreds of thousands of small and traditional proprietors on
-the other." Money, prestige, and power were concentrated in the
-former, and there was near zero crossover.[6]
-I wonder how much of the decline in families eating together
-was due to the decline in families watching TV together afterward.[7]
-I know when this happened because it was the season Dallas
-premiered.  Everyone else was talking about what was happening on
-Dallas, and I had no idea what they meant.[8]
-I didn't realize it till I started doing research for this
-essay, but the meretriciousness of the products I grew up with is
-a well-known byproduct of oligopoly. When companies can't compete
-on price, they compete on tailfins.[9]
-Monroeville Mall was at the time of its completion in 1969
-the largest in the country. In the late 1970s the movie Dawn of
-the Dead was shot there. Apparently the mall was not just the
-location of the movie, but its inspiration; the crowds of shoppers
-drifting through this huge mall reminded George Romero of zombies.
-My first job was scooping ice cream in the Baskin-Robbins.[10]
-Labor unions were exempted from antitrust laws by the Clayton
-Antitrust Act in 1914 on the grounds that a person's work is not
-"a commodity or article of commerce." I wonder if that means service
-companies are also exempt.[11]
-The relationships between unions and unionized companies can
-even be symbiotic, because unions will exert political pressure to
-protect their hosts.  According to Michael Lind, when politicians
-tried to attack the A&P supermarket chain because it was putting
-local grocery stores out of business, "A&P successfully defended
-itself by allowing the unionization of its workforce in 1938, thereby
-gaining organized labor as a constituency." I've seen this phenomenon
-myself: hotel unions are responsible for more of the political
-pressure against Airbnb than hotel companies.[12]
-Galbraith was clearly puzzled that corporate executives would
-work so hard to make money for other people (the shareholders)
-instead of themselves.  He devoted much of The New Industrial
-State to trying to figure this out.His theory was that professionalism had replaced money as a motive,
-and that modern corporate executives were, like (good) scientists,
-motivated less by financial rewards than by the desire to do good
-work and thereby earn the respect of their peers.  There is something
-in this, though I think lack of movement between companies combined
-with self-interest explains much of observed behavior.[13]
-Galbraith (p. 94) says a 1952 study of the 800 highest paid
-executives at 300 big corporations found that three quarters of
-them had been with their company for more than 20 years.[14]
-It seems likely that in the first third of the 20th century
-executive salaries were low partly because companies then were more
-dependent on banks, who would have disapproved if executives got
-too much.  This was certainly true in the beginning. The first big
-company CEOs were J. P. Morgan's hired hands.Companies didn't start to finance themselves with retained earnings
-till the 1920s.  Till then they had to pay out their earnings in
-dividends, and so depended on banks for capital for expansion.
-Bankers continued to sit on corporate boards till the Glass-Steagall
-act in 1933.By mid-century big companies funded 3/4 of their growth from earnings.
-But the early years of bank dependence, reinforced by the financial
-controls of World War II, must have had a big effect on social
-conventions about executive salaries.  So it may be that the lack
-of movement between companies was as much the effect of low salaries
-as the cause.Incidentally, the switch in the 1920s to financing growth with
-retained earnings was one cause of the 1929 crash.  The banks now
-had to find someone else to lend to, so they made more margin loans.[15]
-Even now it's hard to get them to. One of the things I find
-hardest to get into the heads of would-be startup founders is how
-important it is to do certain kinds of menial work early in the
-life of a company.  Doing things that don't
-scale is to how Henry Ford got started as a high-fiber diet is
-to the traditional peasant's diet: they had no choice but to do the
-right thing, while we have to make a conscious effort.[16]
-Founders weren't celebrated in the press when I was a kid.
-"Our founder" meant a photograph of a severe-looking man with a
-walrus mustache and a wing collar who had died decades ago. The
-thing to be when I was a kid was an executive. If you weren't
-around then it's hard to grasp the cachet that term had. The fancy
-version of everything was called the "executive" model.[17]
-The wave of hostile takeovers in the 1980s was enabled by a
-combination of circumstances: court decisions striking down state
-anti-takeover laws, starting with the Supreme Court's 1982 decision
-in Edgar v. MITE Corp.; the Reagan administration's comparatively
-sympathetic attitude toward takeovers; the Depository Institutions
-Act of 1982, which allowed banks and savings and loans to buy
-corporate bonds; a new SEC rule issued in 1982 (rule 415) that made
-it possible to bring corporate bonds to market faster; the creation
-of the junk bond business by Michael Milken; a vogue for conglomerates
-in the preceding period that caused many companies to be combined
-that never should have been; a decade of inflation that left many
-public companies trading below the value of their assets; and not
-least, the increasing complacency of managements.[18]
-Foster, Richard. "Creative Destruction Whips through Corporate
-America." Innosight, February 2012.[19]
-CEOs of big companies may be overpaid. I don't know enough
-about big companies to say. But it is certainly not impossible for
-a CEO to make 200x as much difference to a company's revenues as
-the average employee.  Look at what Steve Jobs did for Apple when
-he came back as CEO.  It would have been a good deal for the board
-to give him 95% of the company.  Apple's market cap the day Steve
-came back in July 1997 was 1.73 billion. 5% of Apple now (January
-2016) would be worth about 30 billion.  And it would not be if Steve
-hadn't come back; Apple probably wouldn't even exist anymore.Merely including Steve in the sample might be enough to answer the
-question of whether public company CEOs in the aggregate are overpaid.
-And that is not as facile a trick as it might seem, because the
-broader your holdings, the more the aggregate is what you care
-about.[20]
-The late 1960s were famous for social upheaval. But that was
-more rebellion (which can happen in any era if people are provoked
-sufficiently) than fragmentation.  You're not seeing fragmentation
-unless you see people breaking off to both left and right.[21]
-Globally the trend has been in the other direction.  While
-the US is becoming more fragmented, the world as a whole is becoming
-less fragmented, and mostly in good ways.[22]
-There were a handful of ways to make a fortune in the mid
-20th century.  The main one was drilling for oil, which was open
-to newcomers because it was not something big companies could
-dominate through economies of scale.  How did individuals accumulate
-large fortunes in an era of such high taxes?  Giant tax loopholes
-defended by two of the most powerful men in Congress, Sam Rayburn
-and Lyndon Johnson.But becoming a Texas oilman was not in 1950 something one could
-aspire to the way starting a startup or going to work on Wall Street
-were in 2000, because (a) there was a strong local component and
-(b) success depended so much on luck.[23]
-The Baumol Effect induced by startups is very visible in
-Silicon Valley.  Google will pay people millions of dollars a year
-to keep them from leaving to start or join startups.[24]
-I'm not claiming variation in productivity is the only cause
-of economic inequality in the US. But it's a significant cause, and
-it will become as big a cause as it needs to, in the sense that if
-you ban other ways to get rich, people who want to get rich will
-use this route instead.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick
-Collison, Ron Conway, Chris Dixon, Benedict Evans, Richard Florida,
-Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Geoff
-Ralston, Max Roser, Alexia Tsotsis, and Qasar Younis for reading
-drafts of this.  Max also told me about several valuable sources.BibliographyAllen, Frederick Lewis. The Big Change. Harper, 1952.Averitt, Robert. The Dual Economy. Norton, 1968.Badger, Anthony. The New Deal. Hill and Wang, 1989.Bainbridge, John. The Super-Americans. Doubleday, 1961.Beatty, Jack. Collossus. Broadway, 2001.Brinkley, Douglas. Wheels for the World. Viking, 2003.Brownleee, W. Elliot. Federal Taxation in America. Cambridge, 1996.Chandler, Alfred. The Visible Hand. Harvard, 1977.Chernow, Ron. The House of Morgan. Simon & Schuster, 1990.Chernow, Ron. Titan: The Life of John D. Rockefeller. Random House,
-1998.Galbraith, John. The New Industrial State. Houghton Mifflin, 1967.Goldin, Claudia and Robert A. Margo. "The Great Compression: The
-Wage Structure in the United States at Mid-Century." NBER Working
-Paper 3817, 1991.Gordon, John. An Empire of Wealth. HarperCollins, 2004.Klein, Maury. The Genesis of Industrial America, 1870-1920. Cambridge,
-2007.Lind, Michael. Land of Promise. HarperCollins, 2012.Mickelthwaite, John, and Adrian Wooldridge. The Company. Modern
-Library, 2003.Nasaw, David. Andrew Carnegie. Penguin, 2006.Sobel, Robert. The Age of Giant Corporations. Praeger, 1993.Thurow, Lester. Generating Inequality: Mechanisms of Distribution.
-Basic Books, 1975.Witte, John. The Politics and Development of the Federal Income
-Tax. Wisconsin, 1985.January 2016One advantage of being old is that you can see change happen in
-your lifetime.  A lot of the change I've seen is fragmentation.  US
-politics is much more polarized than it used to be.  Culturally we
-have ever less common ground. The creative class flocks to a handful
-of happy cities, abandoning the rest.  And increasing economic
-inequality means the spread between rich and poor is growing too.
-I'd like to propose a hypothesis: that all these trends are instances
-of the same phenomenon.  And moreover, that the cause is not some
-force that's pulling us apart, but rather the erosion of forces
-that had been pushing us together.Worse still, for those who worry about these trends, the forces
-that were pushing us together were an anomaly, a one-time combination
-of circumstances that's unlikely to be repeated—and indeed, that
-we would not want to repeat.The two forces were war (above all World War II), and the rise of
-large corporations.The effects of World War II were both economic and social.
-Economically, it decreased variation in income.  Like all modern
-armed forces, America's were socialist economically.  From each
-according to his ability, to each according to his need.  More or
-less.  Higher ranking members of the military got more (as higher
-ranking members of socialist societies always do), but what they
-got was fixed according to their rank.  And the flattening effect
-wasn't limited to those under arms, because the US economy was
-conscripted too.  Between 1942 and 1945 all wages were set by the
-National War Labor Board. Like the military, they defaulted to
-flatness.  And this national standardization of wages was so pervasive
-that its effects could still be seen years after the war ended.
-[1]Business owners weren't supposed to be making money either.  FDR
-said "not a single war millionaire" would be permitted.  To ensure
-that, any increase in a company's profits over prewar levels was
-taxed at 85%.  And when what was left after corporate taxes reached
-individuals, it was taxed again at a marginal rate of 93%.
-[2]Socially too the war tended to decrease variation.  Over 16 million
-men and women from all sorts of different backgrounds were brought
-together in a way of life that was literally uniform.  Service rates
-for men born in the early 1920s approached 80%. And working toward
-a common goal, often under stress, brought them still closer together.Though strictly speaking World War II lasted less than 4 years for
-the US, its effects lasted longer.  Wars make central governments
-more powerful, and World War II was an extreme case of this.  In
-the US, as in all the other Allied countries, the federal government
-was slow to give up the new powers it had acquired.  Indeed, in
-some respects the war didn't end in 1945; the enemy just switched
-to the Soviet Union.  In tax rates, federal power, defense spending,
-conscription, and nationalism the decades after the war looked more
-like wartime than prewar peacetime.
+Strictly speaking it's not lots of customers you need but a big
+market, meaning a high product of number of customers times how
+much they'll pay.  But it's dangerous to have too few customers
+even if they pay a lot, or the power that individual customers have
+over you could turn you into a de facto consulting firm.  So whatever
+market you're in, you'll usually do best to err on the side of
+making the broadest type of product for it.[2]
+One year at Startup School David Heinemeier Hansson encouraged
+programmers who wanted to start businesses to use a restaurant as
+a model.  What he meant, I believe, is that it's fine to start
+software companies constrained in (a) in the same way a restaurant
+is constrained in (b).  I agree.  Most people should not try to
+start startups.[3]
+That sort of stepping back is one of the things we focus on at
+Y Combinator.  It's common for founders to have discovered something
+intuitively without understanding all its implications.  That's
+probably true of the biggest discoveries in any field.[4]
+I got it wrong in "How to Make Wealth" when I said that a
+startup was a small company that takes on a hard technical
+problem.  That is the most common recipe but not the only one.[5]
+In principle companies aren't limited by the size of the markets
+they serve, because they could just expand into new markets.  But
+there seem to be limits on the ability of big companies to do that.
+Which means the slowdown that comes from bumping up against the
+limits of one's markets is ultimately just another way in which
+internal limits are expressed.It may be that some of these limits could be overcome by changing
+the shape of the organization—specifically by sharding it.[6]
+This is, obviously, only for startups that have already launched
+or can launch during YC.  A startup building a new database will
+probably not do that.  On the other hand, launching something small
+and then using growth rate as evolutionary pressure is such a
+valuable technique that any company that could start this way
+probably should.[7]
+If the startup is taking the Facebook/Twitter route and building
+something they hope will be very popular but from which they don't
+yet have a definite plan to make money, the growth rate has to be
+higher, even though it's a proxy for revenue growth, because such
+companies need huge numbers of users to succeed at all.Beware too of the edge case where something spreads rapidly but the
+churn is high as well, so that you have good net growth till you run
+through all the potential users, at which point it suddenly stops.[8]
+Within YC when we say it's ipso facto right to do whatever gets
+you growth, it's implicit that this excludes trickery like buying
+users for more than their lifetime value, counting users as active
+when they're really not, bleeding out invites at a regularly
+increasing rate to manufacture a perfect growth curve, etc.  Even
+if you were able to fool investors with such tricks, you'd ultimately
+be hurting yourself, because you're throwing off your own compass.[9]
+Which is why it's such a dangerous mistake to believe that
+successful startups are simply the embodiment of some brilliant
+initial idea.  What you're looking for initially is not so much a
+great idea as an idea that could evolve into a great one.   The
+danger is that promising ideas are not merely blurry versions of
+great ones.  They're often different in kind, because the early
+adopters you evolve the idea upon have different needs from the
+rest of the market.  For example, the idea that evolves into Facebook
+isn't merely a subset of Facebook; the idea that evolves into
+Facebook is a site for Harvard undergrads.[10]
+What if a company grew at 1.7x a year for a really long time?
+Could it not grow just as big as any successful startup?  In principle
+yes, of course. If our hypothetical company making $1000 a month
+grew at 1% a week for 19 years, it would grow as big as a company
+growing at 5% a week for 4 years.  But while such trajectories may
+be common in, say, real estate development, you don't see them much
+in the technology business.  In technology, companies that grow
+slowly tend not to grow as big.[11]
+Any expected value calculation varies from person to person
+depending on their utility function for money.  I.e. the first
+million is worth more to most people than subsequent millions.  How
+much more depends on the person.  For founders who are younger or
+more ambitious the utility function is flatter.  Which is probably
+part of the reason the founders of the most successful startups of
+all tend to be on the young side.[12]
+More precisely, this is the case in the biggest winners, which
+is where all the returns come from.  A startup founder could pull
+the same trick of enriching himself at the company's expense by
+selling them overpriced components.  But it wouldn't be worth it
+for the founders of Google to do that.  Only founders of failing
+startups would even be tempted, but those are writeoffs from the
+VCs' point of view anyway.[13]
+Acquisitions fall into two categories: those where the acquirer
+wants the business, and those where the acquirer just wants the
+employees.  The latter type is sometimes called an HR acquisition.
+Though nominally acquisitions and sometimes on a scale that has a
+significant effect on the expected value calculation for potential
+founders, HR acquisitions are viewed by acquirers as more akin to
+hiring bonuses.[14]
+I once explained this to some founders who had recently arrived
+from Russia.  They found it novel that if you threatened a company
+they'd pay a premium for you.  "In Russia they just kill you," they
+said, and they were only partly joking.  Economically, the fact
+that established companies can't simply eliminate new competitors
+may be one of the most valuable aspects of the rule of law.  And
+so to the extent we see incumbents suppressing competitors via
+regulations or patent suits, we should worry, not because it's a
+departure from the rule of law per se but from what the rule of law
+is aiming at.
+Thanks to Sam Altman, Marc Andreessen, Paul Buchheit, Patrick
+Collison, Jessica Livingston, Geoff Ralston, and Harj Taggar for
+reading drafts of this.Arabic Translation
+
+Want to start a startup?  Get funded by
+Y Combinator.
+
+
+
+
+September 2012A startup is a company designed to grow fast.  Being newly founded
+does not in itself make a company a startup.  Nor is it necessary
+for a startup to work on technology, or take venture funding, or
+have some sort of "exit."  The only essential thing is growth.
+Everything else we associate with startups follows from growth.If you want to start one it's important to understand that. Startups
+are so hard that you can't be pointed off to the side and hope to
+succeed.  You have to know that growth is what you're after.  The
+good news is, if you get growth, everything else tends to fall into
+place.  Which means you can use growth like a compass to make almost
+every decision you face.
+RedwoodsLet's start with a distinction that should be obvious but is often
+overlooked: not every newly founded company is a startup.  Millions
+of companies are started every year in the US.  Only a tiny fraction
+are startups.  Most are service businesses—restaurants, barbershops,
+plumbers, and so on.  These are not startups, except in a few unusual
+cases.  A barbershop isn't designed to grow fast.  Whereas a search
+engine, for example, is.When I say startups are designed to grow fast, I mean it in two
+senses.  Partly I mean designed in the sense of intended, because
+most startups fail.  But I also mean startups are different by
+nature, in the same way a redwood seedling has a different destiny
+from a bean sprout.That difference is why there's a distinct word, "startup," for
+companies designed to grow fast.  If all companies were essentially
+similar, but some through luck or the efforts of their founders
+ended up growing very fast, we wouldn't need a separate word.  We
+could just talk about super-successful companies and less successful
+ones.  But in fact startups do have a different sort of DNA from
+other businesses.  Google is not just a barbershop whose founders
+were unusually lucky and hard-working.  Google was different from
+the beginning.To grow rapidly, you need to make something you can sell to a big
+market.  That's the difference between Google and a barbershop.  A
+barbershop doesn't scale.For a company to grow really big, it must (a) make something lots
+of people want, and (b) reach and serve all those people.  Barbershops
+are doing fine in the (a) department.  Almost everyone needs their
+hair cut.  The problem for a barbershop, as for any retail
+establishment, is (b).  A barbershop serves customers in person,
+and few will travel far for a haircut.  And even if they did the
+barbershop couldn't accomodate them. 
+[1]
+Writing software is a great way to solve (b), but you can still end
+up constrained in (a).  If you write software to teach Tibetan to
+Hungarian speakers, you'll be able to reach most of the people who
+want it, but there won't be many of them.   If you make software
+to teach English to Chinese speakers, however, you're in startup
+territory.Most businesses are tightly constrained in (a) or (b).  The distinctive
+feature of successful startups is that they're not.
+IdeasIt might seem that it would always be better to start a startup
+than an ordinary business.  If you're going to start a company, why
+not start the type with the most potential?  The catch is that this
+is a (fairly) efficient market.   If you write software to teach
+Tibetan to Hungarians, you won't have much competition.  If you
+write software to teach English to Chinese speakers, you'll face
+ferocious competition, precisely because that's such a larger prize.
+[2]The constraints that limit ordinary companies also protect them.
+That's the tradeoff.  If you start a barbershop, you only have to
+compete with other local barbers.  If you start a search engine you
+have to compete with the whole world.The most important thing that the constraints on a normal business
+protect it from is not competition, however, but the difficulty of
+coming up with new ideas.  If you open a bar in a particular
+neighborhood, as well as limiting your potential and protecting you
+from competitors, that geographic constraint also helps define your
+company.  Bar + neighborhood is a sufficient idea for a small
+business.  Similarly for companies constrained in (a).  Your niche
+both protects and defines you.Whereas if you want to start a startup, you're probably going to
+have to think of something fairly novel.  A startup has to make
+something it can deliver to a large market, and ideas of that type
+are so valuable that all the obvious ones are already taken.That space of ideas has been so thoroughly picked over that a startup
+generally has to work on something everyone else has overlooked.
+I was going to write that one has to make a conscious effort to
+find ideas everyone else has overlooked.  But that's not how most
+startups get started.  Usually successful startups happen because
+the founders are sufficiently different from other people that ideas
+few others can see seem obvious to them.  Perhaps later they step
+back and notice they've found an idea in everyone else's blind spot,
+and from that point make a deliberate effort to stay there. 
 [3]
-And the social effects
-lasted too.  The kid pulled into the army from behind a mule team
-in West Virginia didn't simply go back to the farm afterward.
-Something else was waiting for him, something that looked a lot
-like the army.If total war was the big political story of the 20th century, the
-big economic story was the rise of new kind of company.  And this
-too tended to produce both social and economic cohesion.
-[4]The 20th century was the century of the big, national corporation.
-General Electric, General Foods, General Motors.  Developments in
-finance, communications, transportation, and manufacturing enabled
-a new type of company whose goal was above all scale.  Version 1
-of this world was low-res: a Duplo world of a few giant companies
-dominating each big market.
-[5]The late 19th and early 20th centuries had been a time of consolidation,
-led especially by J. P. Morgan.  Thousands of companies run by their
-founders were merged into a couple hundred giant ones run by
-professional managers. Economies of scale ruled the day.  It seemed
-to people at the time that this was the final state of things.  John
-D. Rockefeller said in 1880
+But at the moment when successful startups get started, much of the
+innovation is unconscious.What's different about successful founders is that they can see
+different problems.  It's a particularly good combination both to
+be good at technology and to face problems that can be solved by
+it, because technology changes so rapidly that formerly bad ideas
+often become good without anyone noticing.  Steve Wozniak's problem
+was that he wanted his own computer.  That was an unusual problem
+to have in 1975.  But technological change was about to make it a
+much more common one.  Because he not only wanted a computer but
+knew how to build them, Wozniak was able to make himself one.  And
+the problem he solved for himself became one that Apple solved for
+millions of people in the coming years.  But by the time it was
+obvious to ordinary people that this was a big market, Apple was
+already established.Google has similar origins.  Larry Page and Sergey Brin wanted to
+search the web.  But unlike most people they had the technical
+expertise both to notice that existing search engines were not as
+good as they could be, and to know how to improve them.  Over the
+next few years their problem became everyone's problem, as the web
+grew to a size where you didn't have to be a picky search expert
+to notice the old algorithms weren't good enough.  But as happened
+with Apple, by the time everyone else realized how important search
+was, Google was entrenched.That's one connection between startup ideas and technology.  Rapid
+change in one area uncovers big, soluble problems in other areas.
+Sometimes the changes are advances, and what they change is solubility.
+That was the kind of change that yielded Apple; advances in chip
+technology finally let Steve Wozniak design a computer he could
+afford.  But in Google's case the most important change was the
+growth of the web. What changed there was not solubility but bigness.The other connection between startups and technology is that startups
+create new ways of doing things, and new ways of doing things are,
+in the broader sense of the word, new technology.  
+When a startup both begins with an
+idea exposed by technological change and makes a product consisting
+of technology in the narrower sense (what used to be called "high
+technology"), it's easy to conflate the two.  But the two connections
+are distinct and in principle one could start a startup that was
+neither driven by technological change, nor whose product consisted
+of technology except in the broader sense. 
+[4]RateHow fast does a company have to grow to be considered a startup?
+There's no precise answer to that.  "Startup" is a pole, not a
+threshold.  Starting one is at first no more than a declaration of
+one's ambitions.  You're committing not just to starting a company,
+but to starting a fast growing one, and you're thus committing to
+search for one of the rare ideas of that type.  But at first you
+have no more than commitment.  Starting a startup is like being an
+actor in that respect.  "Actor" too is a pole rather than a threshold.
+At the beginning of his career, an actor is a waiter who goes to
+auditions.  Getting work makes him a successful actor, but he doesn't
+only become an actor when he's successful.So the real question is not what growth rate makes a company a
+startup, but what growth rate successful startups tend to have.
+For founders that's more than a theoretical question, because it's
+equivalent to asking if they're on the right path.The growth of a successful startup usually has three phases:
 
-  The day of combination is here to stay. Individualism has gone,
-  never to return.
+ There's an initial period of slow or no growth while the startup
+  tries to figure out what it's doing. As the startup figures out how to make something lots of people
+  want and how to reach those people, there's a period of rapid
+  growth. Eventually a successful startup will grow into a big company.
+  Growth will slow, partly due to internal limits and partly because
+  the company is starting to bump up against the limits of the
+  markets it serves.  
+  [5]
 
-He turned out to be mistaken, but he seemed right for the next
-hundred years.The consolidation that began in the late 19th century continued for
-most of the 20th.  By the end of World War II, as Michael Lind
-writes, "the major sectors of the economy were either organized
-as government-backed cartels or dominated by a few oligopolistic
-corporations."For consumers this new world meant the same choices everywhere, but
-only a few of them.  When I grew up there were only 2 or 3 of most
-things, and since they were all aiming at the middle of the market
-there wasn't much to differentiate them.One of the most important instances of this phenomenon was in TV.
-Here there were 3 choices: NBC, CBS, and ABC. Plus public TV for
-eggheads and communists.  The programs the 3 networks offered were
-indistinguishable.  In fact, here there was a triple pressure toward
-the center. If one show did try something daring, local affiliates
-in conservative markets would make them stop. Plus since TVs were
-expensive whole families watched the same shows together, so they
-had to be suitable for everyone.And not only did everyone get the same thing, they got it at the
-same time.  It's difficult to imagine now, but every night tens of
-millions of families would sit down together in front of their TV
-set watching the same show, at the same time, as their next door
-neighbors.  What happens now with the Super Bowl used to happen
-every night. We were literally in sync.
-[6]In a way mid-century TV culture was good. The view it gave of the
-world was like you'd find in a children's book, and it probably had
-something of the effect that (parents hope) children's books have
-in making people behave better.  But, like children's books, TV was
-also misleading.  Dangerously misleading, for adults. In his
-autobiography, Robert MacNeil talks of seeing gruesome images that
-had just come in from Vietnam and thinking, we can't show these to
-families while they're having dinner.I know how pervasive the common culture was, because I tried to opt
-out of it, and it was practically impossible to find alternatives.
-When I was 13 I realized, more from internal evidence than any
-outside source, that the ideas we were being fed on TV were crap,
-and I stopped watching it.
+Together these three phases produce an S-curve.  The phase whose
+growth defines the startup is the second one, the ascent.  Its
+length and slope determine how big the company will be.The slope is the company's growth rate.  If there's one number every
+founder should always know, it's the company's growth rate.  That's
+the measure of a startup.  If you don't know that number, you don't
+even know if you're doing well or badly.When I first meet founders and ask what their growth rate is,
+sometimes they tell me "we get about a hundred new customers a
+month."  That's not a rate.  What matters is not the absolute number
+of new customers, but the ratio of new customers to existing ones.
+If you're really getting a constant number of new customers every
+month, you're in trouble, because that means your growth rate is
+decreasing.During Y Combinator we measure growth rate per week, partly because
+there is so little time before Demo Day, and partly because startups
+early on need frequent feedback from their users to tweak what
+they're doing. 
+[6]A good growth rate during YC is 5-7% a week.  If you can hit 10% a
+week you're doing exceptionally well.  If you can only manage 1%,
+it's a sign you haven't yet figured out what you're doing.The best thing to measure the growth rate of is revenue.  The next
+best, for startups that aren't charging initially, is active users.
+That's a reasonable proxy for revenue growth because whenever the
+startup does start trying to make money, their revenues will probably
+be a constant multiple of active users. 
 [7]
-But it wasn't just TV.  It seemed
-like everything around me was crap.  The politicians all saying the
-same things, the consumer brands making almost identical products
-with different labels stuck on to indicate how prestigious they
-were meant to be, the balloon-frame houses with fake "colonial"
-skins, the cars with several feet of gratuitous metal on each end
-that started to fall apart after a couple years, the "red delicious"
-apples that were red but only nominally 
-apples. And in retrospect, it was crap.
-[8]But when I went looking for alternatives to fill this void, I found
-practically nothing.  There was no Internet then.  The only place
-to look was in the chain bookstore in our local shopping mall. 
+CompassWe usually advise startups to pick a growth rate they think they
+can hit, and then just try to hit it every week.  The key word here
+is "just." If they decide to grow at 7% a week and they hit that
+number, they're successful for that week.  There's nothing more
+they need to do.  But if they don't hit it, they've failed in the
+only thing that mattered, and should be correspondingly alarmed.Programmers will recognize what we're doing here.  We're turning
+starting a startup into an optimization problem.  And anyone who
+has tried optimizing code knows how wonderfully effective that sort
+of narrow focus can be.  Optimizing code means taking an existing
+program and changing it to use less of something, usually time or
+memory.  You don't have to think about what the program should do,
+just make it faster.  For most programmers this is very satisfying
+work.  The narrow focus makes it a sort of puzzle, and you're
+generally surprised how fast you can solve it.Focusing on hitting a growth rate reduces the otherwise bewilderingly
+multifarious problem of starting a startup to a single problem.
+You can use that target growth rate to make all your decisions for
+you; anything that gets you the growth you need is ipso facto right.
+Should you spend two days at a conference?  Should you hire another
+programmer?  Should you focus more on marketing?  Should you spend
+time courting some big customer?  Should you add x feature? Whatever
+gets you your target growth rate. 
+[8]Judging yourself by weekly growth doesn't mean you can look no more
+than a week ahead.  Once you experience the pain of missing your
+target one week (it was the only thing that mattered, and you failed
+at it), you become interested in anything that could spare you such
+pain in the future.  So you'll be willing for example to hire another
+programmer, who won't contribute to this week's growth but perhaps
+in a month will have implemented some new feature that will get you
+more users.   But only if (a) the distraction of hiring someone
+won't make you miss your numbers in the short term, and (b) you're
+sufficiently worried about whether you can keep hitting your numbers
+without hiring someone new.It's not that you don't think about the future, just that you think
+about it no more than necessary.In theory this sort of hill-climbing could get a startup into
+trouble.  They could end up on a local maximum.  But in practice
+that never happens.  Having to hit a growth number every week forces
+founders to act, and acting versus not acting is the high bit of
+succeeding.  Nine times out of ten, sitting around strategizing is
+just a form of procrastination.  Whereas founders' intuitions about
+which hill to climb are usually better than they realize.  Plus the
+maxima in the space of startup ideas are not spiky and isolated.
+Most fairly good ideas are adjacent to even better ones.The fascinating thing about optimizing for growth is that it can
+actually discover startup ideas.  You can use the need for growth
+as a form of evolutionary pressure.  If you start out with some
+initial plan and modify it as necessary to keep hitting, say, 10%
+weekly growth, you may end up with a quite different company than
+you meant to start.  But anything that grows consistently at 10% a
+week is almost certainly a better idea than you started with.There's a parallel here to small businesses.  Just as the constraint
+of being located in a particular neighborhood helps define a bar,
+the constraint of growing at a certain rate can help define a
+startup.You'll generally do best to follow that constraint wherever it leads
+rather than being influenced by some initial vision, just as a
+scientist is better off following the truth wherever it leads rather
+than being influenced by what he wishes were the case.  When Richard
+Feynman said that the imagination of nature was greater than the
+imagination of man, he meant that if you just keep following the
+truth you'll discover cooler things than you could ever have made
+up. For startups, growth is a constraint much like truth. Every
+successful startup is at least partly a product of the imagination
+of growth.  
 [9]
-There I found a copy of The Atlantic.  I wish I could say it became
-a gateway into a wider world, but in fact I found it boring and
-incomprehensible.  Like a kid tasting whisky for the first time and
-pretending to like it, I preserved that magazine as carefully as
-if it had been a book. I'm sure I still have it somewhere.  But
-though it was evidence that there was, somewhere, a world that
-wasn't red delicious, I didn't find it till college.It wasn't just as consumers that the big companies made us similar.
-They did as employers too.  Within companies there were powerful
-forces pushing people toward a single model of how to look and act.
-IBM was particularly notorious for this, but they were only a little
-more extreme than other big companies.  And the models of how to
-look and act varied little between companies. Meaning everyone
-within this world was expected to seem more or less the same.  And
-not just those in the corporate world, but also everyone who aspired
-to it—which in the middle of the 20th century meant most people
-who weren't already in it.  For most of the 20th century, working-class
-people tried hard to look middle class.  You can see it in old
-photos.  Few adults aspired to look dangerous in 1950.But the rise of national corporations didn't just compress us
-culturally.  It compressed us economically too, and on both ends.Along with giant national corporations, we got giant national labor
-unions.  And in the mid 20th century the corporations cut deals
-with the unions where they paid over market price for labor.  Partly
-because the unions were monopolies. 
-[10]
-Partly because, as
-components of oligopolies themselves, the corporations knew they
-could safely pass the cost on to their customers, because their
-competitors would have to as well.  And partly because in mid-century
-most of the giant companies were still focused on finding new ways
-to milk economies of scale.  Just as startups rightly pay AWS a
-premium over the cost of running their own servers so they can focus
-on growth, many of the big national corporations were willing to
-pay a premium for labor. 
-[11]As well as pushing incomes up from the bottom, by overpaying unions,
-the big companies of the 20th century also pushed incomes down at
-the top, by underpaying their top management. Economist J. K.
-Galbraith wrote in 1967 that "There are few corporations in which
-it would be suggested that executive salaries are at a maximum."
-[12]To some extent this was an illusion.  Much of the de facto pay of
-executives never showed up on their income tax returns, because it
-took the form of perks.  The higher the rate of income tax, the
-more pressure there was to pay employees upstream of it.  (In the
-UK, where taxes were even higher than in the US, companies would
-even pay their kids' private school tuitions.)  One of the most
-valuable things the big companies of the mid 20th century gave their
-employees was job security, and this too didn't show up in tax
-returns or income statistics. So the nature of employment in these
-organizations tended to yield falsely low numbers about economic
-inequality.  But even accounting for that, the big companies paid
-their best people less than market price.  There was no market; the
-expectation was that you'd work for the same company for decades
-if not your whole career. 
-[13]Your work was so illiquid there was little chance of getting market
-price. But that same illiquidity also encouraged you not to seek
-it.  If the company promised to employ you till you retired and
-give you a pension afterward, you didn't want to extract as much
-from it this year as you could. You needed to take care of the
-company so it could take care of you.  Especially when you'd been
-working with the same group of people for decades.  If you tried
-to squeeze the company for more money, you were squeezing the
-organization that was going to take care of them.  Plus if
-you didn't put the company first you wouldn't be promoted, and if
-you couldn't switch ladders, promotion on this one was the only way
-up. 
-[14]To someone who'd spent several formative years in the armed forces,
-this situation didn't seem as strange as it does to us now.  From
-their point of view, as big company executives, they were high-ranking
-officers.  They got paid a lot more than privates.  They got to
-have expense account lunches at the best restaurants and fly around
-on the company's Gulfstreams.  It probably didn't occur to most of
-them to ask if they were being paid market price.The ultimate way to get market price is to work for yourself, by
-starting your own company.  That seems obvious to any ambitious
-person now.  But in the mid 20th century it was an alien concept.
-Not because starting one's own company seemed too ambitious, but
-because it didn't seem ambitious enough. Even as late as the 1970s,
-when I grew up, the ambitious plan was to get lots of education at
-prestigious institutions, and then join some other prestigious
-institution and work one's way up the hierarchy.  Your prestige was
-the prestige of the institution you belonged to.  People did start
-their own businesses of course, but educated people rarely did,
-because in those days there was practically zero concept of starting
-what we now call a startup: 
-a business that starts small and grows
-big.  That was much harder to do in the mid 20th century.  Starting
-one's own business meant starting a business that would start small
-and stay small. Which in those days of big companies often meant
-scurrying around trying to avoid being trampled by elephants.  It
-was more prestigious to be one of the executive class riding the
-elephant.By the 1970s, no one stopped to wonder where the big prestigious
-companies had come from in the first place.  It seemed like they'd
-always been there, like the chemical elements.  And indeed, there
-was a double wall between ambitious kids in the 20th century and
-the origins of the big companies.  Many of the big companies were
-roll-ups that didn't have clear founders.  And when they did, the
-founders didn't seem like us.  Nearly all of them had been uneducated,
-in the sense of not having been to college.  They were what Shakespeare
-called rude mechanicals.  College trained one to be a member of the
-professional classes.  Its graduates didn't expect to do the sort
-of grubby menial work that Andrew Carnegie or Henry Ford started
-out doing. 
-[15]And in the 20th century there were more and more college graduates.
-They increased from about 2% of the population in 1900 to about 25%
-in 2000. In the middle of the century our two big forces intersect,
-in the form of the GI Bill, which sent 2.2 million World War II
-veterans to college.  Few thought of it in these terms, but the
-result of making college the canonical path for the ambitious was
-a world in which it was socially acceptable to work for Henry Ford,
-but not to be Henry Ford.
-[16]I remember this world well. I came of age just as it was starting
-to break up. In my childhood it was still dominant. Not quite so
-dominant as it had been.  We could see from old TV shows and yearbooks
-and the way adults acted that people in the 1950s and 60s had been
-even more conformist than us.  The mid-century model was already
-starting to get old. But that was not how we saw it at the time.
-We would at most have said that one could be a bit more daring in
-1975 than 1965.  And indeed, things hadn't changed much yet.But change was coming soon. And when the Duplo economy started to
-disintegrate, it disintegrated in several different ways at once.
-Vertically integrated companies literally dis-integrated because
-it was more efficient to.  Incumbents faced new competitors as (a)
-markets went global and (b) technical innovation started to trump
-economies of scale, turning size from an asset into a liability.
-Smaller companies were increasingly able to survive as formerly
-narrow channels to consumers broadened.  Markets themselves started
-to change faster, as whole new categories of products appeared. And
-last but not least, the federal government, which had previously
-smiled upon J. P. Morgan's world as the natural state of things,
-began to realize it wasn't the last word after all.What J. P. Morgan was to the horizontal axis, Henry Ford was to the
-vertical.  He wanted to do everything himself. The giant plant he
-built at River Rouge between 1917 and 1928 literally took in iron
-ore at one end and sent cars out the other.  100,000 people worked
-there. At the time it seemed the future. But that is not how car
-companies operate today.  Now much of the design and manufacturing
-happens in a long supply chain, whose products the car companies
-ultimately assemble and sell.  The reason car companies operate
-this way is that it works better.  Each company in the supply chain
-focuses on what they know best. And they each have to do it well
-or they can be swapped out for another supplier.Why didn't Henry Ford realize that networks of cooperating companies
-work better than a single big company? One reason is that supplier
-networks take a while to evolve. In 1917, doing everything himself
-seemed to Ford the only way to get the scale he needed. And the
-second reason is that if you want to solve a problem using a network
-of cooperating companies, you have to be able to coordinate their
-efforts, and you can do that much better with computers.  Computers
-reduce the transaction costs that Coase argued are the raison d'etre
-of corporations. That is a fundamental change.In the early 20th century, big companies were synonymous with
-efficiency.  In the late 20th century they were synonymous with
-inefficiency.  To some extent this was because the companies
-themselves had become sclerotic.  But it was also because our
-standards were higher.It wasn't just within existing industries that change occurred.
-The industries themselves changed.  It became possible to make lots
-of new things, and sometimes the existing companies weren't the
-ones who did it best.Microcomputers are a classic example. The market was pioneered by
-upstarts like Apple. When it got big enough, IBM decided it was
-worth paying attention to.  At the time IBM completely dominated
-the computer industry. They assumed that all they had to do, now
-that this market was ripe, was to reach out and pick it.  Most
-people at the time would have agreed with them.  But what happened
-next illustrated how much more complicated the world had become.
-IBM did launch a microcomputer.  Though quite successful, it did
-not crush Apple.  But even more importantly, IBM itself ended up
-being supplanted by a supplier coming in from the side—from
-software, which didn't even seem to be the same business.  IBM's
-big mistake was to accept a non-exclusive license for DOS.  It must
-have seemed a safe move at the time.  No other computer manufacturer
-had ever been able to outsell them. What difference did it make if
-other manufacturers could offer DOS too?  The result of that
-miscalculation was an explosion of inexpensive PC clones.  Microsoft
-now owned the PC standard, and the customer.  And the microcomputer
-business ended up being Apple vs Microsoft.Basically, Apple bumped IBM and then Microsoft stole its wallet.
-That sort of thing did not happen to big companies in mid-century.
-But it was going to happen increasingly often in the future.Change happened mostly by itself in the computer business.  In other
-industries, legal obstacles had to be removed first.  Many of the
-mid-century oligopolies had been anointed by the federal government
-with policies (and in wartime, large orders) that kept out competitors.
-This didn't seem as dubious to government officials at the time as
-it sounds to us. They felt a two-party system ensured sufficient
-competition in politics.  It ought to work for business too.Gradually the government realized that anti-competitive policies
-were doing more harm than good, and during the Carter administration
-it started to remove them. The word used for this process was
-misleadingly narrow: deregulation.  What was really happening was
-de-oligopolization.  It happened to one industry after another.
-Two of the most visible to consumers were air travel and long-distance
-phone service, which both became dramatically cheaper after
-deregulation.Deregulation also contributed to the wave of hostile takeovers in
-the 1980s.  In the old days the only limit on the inefficiency of
-companies, short of actual bankruptcy, was the inefficiency of their
-competitors.  Now companies had to face absolute rather than relative
-standards.  Any public company that didn't generate sufficient
-returns on its assets risked having its management replaced with
-one that would.  Often the new managers did this by breaking companies
-up into components that were more valuable separately.
-[17]Version 1 of the national economy consisted of a few big blocks
-whose relationships were negotiated in back rooms by a handful of
-executives, politicians, regulators, and labor leaders.  Version 2
-was higher resolution: there were more companies, of more different
-sizes, making more different things, and their relationships changed
-faster. In this world there were still plenty of back room negotiations,
-but more was left to market forces.  Which further accelerated the
-fragmentation.It's a little misleading to talk of versions when describing a
-gradual process, but not as misleading as it might seem.  There was
-a lot of change in a few decades, and what we ended up with was
-qualitatively different.  The companies in the S&P 500 in 1958 had
-been there an average of 61 years. By 2012 that number was 18 years.
-[18]The breakup of the Duplo economy happened simultaneously with the
-spread of computing power. To what extent were computers a precondition?
-It would take a book to answer that. Obviously the spread of computing
-power was a precondition for the rise of startups.  I suspect it
-was for most of what happened in finance too.  But was it a
-precondition for globalization or the LBO wave?  I don't know, but
-I wouldn't discount the possibility.  It may be that the refragmentation
-was driven by computers in the way the industrial revolution was
-driven by steam engines.  Whether or not computers were a precondition,
-they have certainly accelerated it.The new fluidity of companies changed people's relationships with
-their employers. Why climb a corporate ladder that might be yanked
-out from under you?  Ambitious people started to think of a career
-less as climbing a single ladder than as a series of jobs that might
-be at different companies. More movement (or even potential movement)
-between companies introduced more competition in salaries.  Plus
-as companies became smaller it became easier to estimate how much
-an employee contributed to the company's revenue.  Both changes
-drove salaries toward market price. And since people vary dramatically
-in productivity, paying market price meant salaries started to
-diverge.By no coincidence it was in the early 1980s that the term "yuppie"
-was coined.  That word is not much used now, because the phenomenon
-it describes is so taken for granted, but at the time it was a label
-for something novel. Yuppies were young professionals who made lots
-of money.  To someone in their twenties today, this wouldn't seem
-worth naming.  Why wouldn't young professionals make lots of money?
-But until the 1980s being underpaid early in your career was part
-of what it meant to be a professional.  Young professionals were
-paying their dues, working their way up the ladder.  The rewards
-would come later.  What was novel about yuppies was that they wanted
-market price for the work they were doing now.The first yuppies did not work for startups. That was still in the
-future.  Nor did they work for big companies. They were professionals
-working in fields like law, finance, and consulting.  But their example 
-rapidly inspired their peers.  Once they saw that new BMW 325i, they 
-wanted one too.Underpaying people at the beginning of their career only works if
-everyone does it. Once some employer breaks ranks, everyone else
-has to, or they can't get good people.  And once started this process
-spreads through the whole economy, because at the beginnings of
-people's careers they can easily switch not merely employers but
-industries.But not all young professionals benefitted. You had to produce to
-get paid a lot.  It was no coincidence that the first yuppies worked
-in fields where it was easy to measure that.More generally, an idea was returning whose name sounds old-fashioned
-precisely because it was so rare for so long: that you could make
-your fortune.  As in the past there were multiple ways to do it.
-Some made their fortunes by creating wealth, and others by playing
-zero-sum games. But once it became possible to make one's fortune,
-the ambitious had to decide whether or not to.  A physicist who
-chose physics over Wall Street in 1990 was making a sacrifice that
-a physicist in 1960 wasn't.The idea even flowed back into big companies.  CEOs of big companies
-make more now than they used to, and I think much of the reason is
-prestige.  In 1960, corporate CEOs had immense prestige.  They were
-the winners of the only economic game in town. But if they made as
-little now as they did then, in real dollar terms, they'd seem like
-small fry compared to professional athletes and whiz kids making
-millions from startups and hedge funds. They don't like that idea,
-so now they try to get as much as they can, which is more than they
-had been getting. 
-[19]Meanwhile a similar fragmentation was happening at the other end
-of the economic scale.  As big companies' oligopolies became less
-secure, they were less able to pass costs on to customers and thus
-less willing to overpay for labor.  And as the Duplo world of a few
-big blocks fragmented into many companies of different sizes—some
-of them overseas—it became harder for unions to enforce their
-monopolies.  As a result workers' wages also tended toward market
-price. Which (inevitably, if unions had been doing their job) tended
-to be lower.  Perhaps dramatically so, if automation had decreased
-the need for some kind of work.And just as the mid-century model induced social as well as economic
-cohesion, its breakup brought social as well as economic fragmentation.
-People started to dress and act differently.  Those who would later
-be called the "creative class" became more mobile. People who didn't
-care much for religion felt less pressure to go to church for
-appearances' sake, while those who liked it a lot opted for
-increasingly colorful forms. Some switched from meat loaf to tofu,
-and others to Hot Pockets. Some switched from driving Ford sedans
-to driving small imported cars, and others to driving SUVs.  Kids
-who went to private schools or wished they did started to dress
-"preppy," and kids who wanted to seem rebellious made a conscious
-effort to look disreputable.  In a hundred ways people spread apart.
-[20]Almost four decades later, fragmentation is still increasing.  Has
-it been net good or bad?  I don't know; the question may be
-unanswerable.  Not entirely bad though.  We take for granted the
-forms of fragmentation we like, and worry only about the ones we
-don't. But as someone who caught the tail end of mid-century
-conformism, 
-I can tell you it was no utopia.
-[21]My goal here is not to say whether fragmentation has been good or
-bad, just to explain why it's happening.  With the centripetal
-forces of total war and 20th century oligopoly mostly gone, what
-will happen next?  And more specifically, is it possible to reverse
-some of the fragmentation we've seen?If it is, it will have to happen piecemeal.  You can't reproduce
-mid-century cohesion the way it was originally produced.  It would
-be insane to go to war just to induce more national unity.  And
-once you understand the degree to which the economic history of the
-20th century was a low-res version 1, it's clear you can't reproduce
-that either.20th century cohesion was something that happened at least in a
-sense naturally.  The war was due mostly to external forces, and
-the Duplo economy was an evolutionary phase.  If you want cohesion
-now, you'd have to induce it deliberately.  And it's not obvious
-how.  I suspect the best we'll be able to do is address the symptoms
-of fragmentation.  But that may be enough.The form of fragmentation people worry most about lately is economic inequality, and if you want to eliminate
-that you're up against a truly formidable headwind—one that has
-been in operation since the stone age: technology.  Technology is
-a lever. It magnifies work.  And the lever not only grows increasingly
-long, but the rate at which it grows is itself increasing.Which in turn means the variation in the amount of wealth people
-can create has not only been increasing, but accelerating.  The
-unusual conditions that prevailed in the mid 20th century masked
-this underlying trend.  The ambitious had little choice but to join
-large organizations that made them march in step with lots of other
-people—literally in the case of the armed forces, figuratively
-in the case of big corporations. Even if the big corporations had
-wanted to pay people proportionate to their value, they couldn't
-have figured out how.  But that constraint has gone now.  Ever since
-it started to erode in the 1970s, we've seen the underlying forces
-at work again.
-[22]Not everyone who gets rich now does it by creating wealth, certainly.
-But a significant number do, and the Baumol Effect means all their
-peers get dragged along too.
-[23]
-And as long as it's possible to
-get rich by creating wealth, the default tendency will be for
-economic inequality to increase.  Even if you eliminate all the
-other ways to get rich.  You can mitigate this with subsidies at
-the bottom and taxes at the top, but unless taxes are high enough
-to discourage people from creating wealth, you're always going to
-be fighting a losing battle against increasing variation in
-productivity.
-[24]That form of fragmentation, like the others, is here to stay.  Or
-rather, back to stay.  Nothing is forever, but the tendency toward
-fragmentation should be more forever than most things, precisely
-because it's not due to any particular cause.  It's simply a reversion
-to the mean. When Rockefeller said individualism was gone, he was
-right for a hundred years.  It's back now, and that's likely to be
-true for longer.I worry that if we don't acknowledge this, we're headed for trouble.
-If we think 20th century cohesion disappeared because of few policy
-tweaks, we'll be deluded into thinking we can get it back (minus
-the bad parts, somehow) with a few countertweaks.  And then we'll
-waste our time trying to eliminate fragmentation, when we'd be
-better off thinking about how to mitigate its consequences.
+ValueIt's hard to find something that grows consistently at several
+percent a week, but if you do you may have found something surprisingly
+valuable.  If we project forward we see why.
+
+weeklyyearly
+1%1.7x
+2%2.8x
+5%12.6x
+7%33.7x
+10%142.0x
+
+
+
+A company that grows at 1% a week will grow 1.7x a year, whereas a
+company that grows at 5% a week will grow 12.6x.  A company making
+$1000 a month (a typical number early in YC) and growing at 1% a
+week will 4 years later be making $7900 a month, which is less than
+a good programmer makes in salary in Silicon Valley.  A startup
+that grows at 5% a week will in 4 years be making $25 million a
+month. 
+[10]Our ancestors must rarely have encountered cases of exponential
+growth, because our intutitions are no guide here.  What happens
+to fast growing startups tends to surprise even the founders.Small variations in growth rate produce qualitatively different
+outcomes.  That's why there's a separate word for startups, and why
+startups do things that ordinary companies don't, like raising money
+and getting acquired.  And, strangely enough, it's also why they
+fail so frequently.Considering how valuable a successful startup can become, anyone
+familiar with the concept of expected value would be surprised if
+the failure rate weren't high.  If a successful startup could make
+a founder $100 million, then even if the chance of succeeding were
+only 1%, the expected value of starting one would be $1 million.
+And the probability of a group of sufficiently smart and determined
+founders succeeding on that scale might be significantly over 1%.
+For the right people—e.g. the young Bill Gates—the probability
+might be 20% or even 50%.  So it's not surprising that so many want
+to take a shot at it.  In an efficient market, the number of failed
+startups should be proportionate to the size of the successes.  And
+since the latter is huge the former should be too. 
+[11]What this means is that at any given time, the great majority of
+startups will be working on something that's never going to go
+anywhere, and yet glorifying their doomed efforts with the grandiose
+title of "startup."This doesn't bother me.  It's the same with other high-beta vocations,
+like being an actor or a novelist.  I've long since gotten used to
+it.  But it seems to bother a lot of people, particularly those
+who've started ordinary businesses.  Many are annoyed that these
+so-called startups get all the attention, when hardly any of them
+will amount to anything.If they stepped back and looked at the whole picture they might be
+less indignant.  The mistake they're making is that by basing their
+opinions on anecdotal evidence they're implicitly judging by the
+median rather than the average.  If you judge by the median startup,
+the whole concept of a startup seems like a fraud.  You have to
+invent a bubble to explain why founders want to start them or
+investors want to fund them.  But it's a mistake to use the median
+in a domain with so much variation.  If you look at the average
+outcome rather than the median, you can understand why investors
+like them, and why, if they aren't median people, it's a rational
+choice for founders to start them.
+DealsWhy do investors like startups so much?  Why are they so hot to
+invest in photo-sharing apps, rather than solid money-making
+businesses?  Not only for the obvious reason.The test of any investment is the ratio of return to risk.  Startups
+pass that test because although they're appallingly risky, the
+returns when they do succeed are so high.  But that's not the only
+reason investors like startups.  An ordinary slower-growing business
+might have just as good a ratio of return to risk, if both were
+lower.  So why are VCs interested only in high-growth companies?
+The reason is that they get paid by getting their capital back,
+ideally after the startup IPOs, or failing that when it's acquired.The other way to get returns from an investment is in the form of
+dividends.  Why isn't there a parallel VC industry that invests in
+ordinary companies in return for a percentage of their profits?
+Because it's too easy for people who control a private company to
+funnel its revenues to themselves (e.g. by buying overpriced
+components from a supplier they control) while making it look like
+the company is making little profit.  Anyone who invested in private
+companies in return for dividends would have to pay close attention
+to their books.The reason VCs like to invest in startups is not simply the returns,
+but also because such investments are so easy to oversee.  The
+founders can't enrich themselves without also enriching the investors.
+[12]Why do founders want to take the VCs' money?  Growth, again.  The
+constraint between good ideas and growth operates in both directions.
+It's not merely that you need a scalable idea to grow.  If you have
+such an idea and don't grow fast enough, competitors will.  Growing
+too slowly is particularly dangerous in a business with network
+effects, which the best startups usually have to some degree.Almost every company needs some amount of funding to get started.
+But startups often raise money even when they are or could be
+profitable.  It might seem foolish to sell stock in a profitable
+company for less than you think it will later be worth, but it's
+no more foolish than buying insurance.  Fundamentally that's how
+the most successful startups view fundraising.  They could grow the
+company on its own revenues, but the extra money and help supplied
+by VCs will let them grow even faster.  Raising money lets you
+choose your growth rate.Money to grow faster is always at the command of the most successful
+startups, because the VCs need them more than they need the VCs.
+A profitable startup could if it wanted just grow on its own revenues.
+Growing slower might be slightly dangerous, but chances are it
+wouldn't kill them.  Whereas VCs need to invest in startups, and
+in particular the most successful startups, or they'll be out of
+business.  Which means that any sufficiently promising startup will
+be offered money on terms they'd be crazy to refuse.  And yet because
+of the scale of the successes in the startup business, VCs can still
+make money from such investments.  You'd have to be crazy to believe
+your company was going to become as valuable as a high growth rate
+can make it, but some do.Pretty much every successful startup will get acquisition offers
+too.  Why?  What is it about startups that makes other companies
+want to buy them? 
+[13]Fundamentally the same thing that makes everyone else want the stock
+of successful startups: a rapidly growing company is valuable.  It's
+a good thing eBay bought Paypal, for example, because Paypal is now
+responsible for 43% of their sales and probably more of their growth.But acquirers have an additional reason to want startups.  A rapidly
+growing company is not merely valuable, but dangerous.  If it keeps
+expanding, it might expand into the acquirer's own territory.  Most
+product acquisitions have some component of fear.  Even if an
+acquirer isn't threatened by the startup itself, they might be
+alarmed at the thought of what a competitor could do with it.  And
+because startups are in this sense doubly valuable to acquirers,
+acquirers will often pay more than an ordinary investor would. 
+[14]
+UnderstandThe combination of founders, investors, and acquirers forms a natural
+ecosystem.  It works so well that those who don't understand it are
+driven to invent conspiracy theories to explain how neatly things
+sometimes turn out.  Just as our ancestors did to explain the
+apparently too neat workings of the natural world.  But there is
+no secret cabal making it all work.If you start from the mistaken assumption that Instagram was
+worthless, you have to invent a secret boss to force Mark Zuckerberg
+to buy it.  To anyone who knows Mark Zuckerberg that is the reductio
+ad absurdum of the initial assumption.  The reason he bought Instagram
+was that it was valuable and dangerous, and what made it so was
+growth.If you want to understand startups, understand growth.  Growth
+drives everything in this world.  Growth is why startups usually
+work on technology—because ideas for fast growing companies are
+so rare that the best way to find new ones is to discover those
+recently made viable by change, and technology is the best source
+of rapid change.  Growth is why it's a rational choice economically
+for so many founders to try starting a startup: growth makes the
+successful companies so valuable that the expected value is high
+even though the risk is too.  Growth is why VCs want to invest in
+startups: not just because the returns are high but also because
+generating returns from capital gains is easier to manage than
+generating returns from dividends.  Growth explains why the most
+successful startups take VC money even if they don't need to: it
+lets them choose their growth rate.  And growth explains why
+successful startups almost invariably get acquisition offers.  To
+acquirers a fast-growing company is not merely valuable but dangerous
+too.It's not just that if you want to succeed in some domain, you have
+to understand the forces driving it.  Understanding growth is what
+starting a startup consists of.  What you're really doing (and
+to the dismay of some observers, all you're really doing) when you
+start a startup is committing to solve a harder type of problem
+than ordinary businesses do.  You're committing to search for one
+of the rare ideas that generates rapid growth.  Because these ideas
+are so valuable, finding one is hard.  The startup is the embodiment
+of your discoveries so far.  Starting a startup is thus very much
+like deciding to be a research scientist: you're not committing to
+solve any specific problem; you don't know for sure which problems
+are soluble; but you're committing to try to discover something no
+one knew before.  A startup founder is in effect an economic research
+scientist.  Most don't discover anything that remarkable, but some
+discover relativity.
 Notes[1]
-Lester Thurow, writing in 1975, said the wage differentials
-prevailing at the end of World War II had become so embedded that
-they "were regarded as 'just' even after the egalitarian pressures
-of World War II had disappeared.  Basically, the same differentials
-exist to this day, thirty years later." But Goldin and Margo think
-market forces in the postwar period also helped preserve the wartime
-compression of wages—specifically increased demand for unskilled
-workers, and oversupply of educated ones.(Oddly enough, the American custom of having employers pay for
-health insurance derives from efforts by businesses to circumvent
-NWLB wage controls in order to attract workers.)[2]
-As always, tax rates don't tell the whole story.  There were
-lots of exemptions, especially for individuals.  And in World War
-II the tax codes were so new that the government had little acquired
-immunity to tax avoidance.  If the rich paid high taxes during the
-war it was more because they wanted to than because they had to.After the war, federal tax receipts as a percentage of GDP were
-about the same as they are now. In fact, for the entire period since
-the war, tax receipts have stayed close to 18% of GDP, despite
-dramatic changes in tax rates.  The lowest point occurred when
-marginal income tax rates were highest: 14.1% in 1950.  Looking at
-the data, it's hard to avoid the conclusion that tax rates have had
-little effect on what people actually paid.[3]
-Though in fact the decade preceding the war had been a time
-of unprecedented federal power, in response to the Depression.
-Which is not entirely a coincidence, because the Depression was one
-of the causes of the war.  In many ways the New Deal was a sort of
-dress rehearsal for the measures the federal government took during
-wartime.  The wartime versions were much more drastic and more
-pervasive though.  As Anthony Badger wrote, "for many Americans the
-decisive change in their experiences came not with the New Deal but
-with World War II."[4]
-I don't know enough about the origins of the world wars to
-say, but it's not inconceivable they were connected to the rise of
-big corporations. If that were the case, 20th century cohesion would
-have a single cause.[5]
-More precisely, there was a bimodal economy consisting, in
-Galbraith's words, of "the world of the technically dynamic, massively
-capitalized and highly organized corporations on the one hand and
-the hundreds of thousands of small and traditional proprietors on
-the other." Money, prestige, and power were concentrated in the
-former, and there was near zero crossover.[6]
-I wonder how much of the decline in families eating together
-was due to the decline in families watching TV together afterward.[7]
-I know when this happened because it was the season Dallas
-premiered.  Everyone else was talking about what was happening on
-Dallas, and I had no idea what they meant.[8]
-I didn't realize it till I started doing research for this
-essay, but the meretriciousness of the products I grew up with is
-a well-known byproduct of oligopoly. When companies can't compete
-on price, they compete on tailfins.[9]
-Monroeville Mall was at the time of its completion in 1969
-the largest in the country. In the late 1970s the movie Dawn of
-the Dead was shot there. Apparently the mall was not just the
-location of the movie, but its inspiration; the crowds of shoppers
-drifting through this huge mall reminded George Romero of zombies.
-My first job was scooping ice cream in the Baskin-Robbins.[10]
-Labor unions were exempted from antitrust laws by the Clayton
-Antitrust Act in 1914 on the grounds that a person's work is not
-"a commodity or article of commerce." I wonder if that means service
-companies are also exempt.[11]
-The relationships between unions and unionized companies can
-even be symbiotic, because unions will exert political pressure to
-protect their hosts.  According to Michael Lind, when politicians
-tried to attack the A&P supermarket chain because it was putting
-local grocery stores out of business, "A&P successfully defended
-itself by allowing the unionization of its workforce in 1938, thereby
-gaining organized labor as a constituency." I've seen this phenomenon
-myself: hotel unions are responsible for more of the political
-pressure against Airbnb than hotel companies.[12]
-Galbraith was clearly puzzled that corporate executives would
-work so hard to make money for other people (the shareholders)
-instead of themselves.  He devoted much of The New Industrial
-State to trying to figure this out.His theory was that professionalism had replaced money as a motive,
-and that modern corporate executives were, like (good) scientists,
-motivated less by financial rewards than by the desire to do good
-work and thereby earn the respect of their peers.  There is something
-in this, though I think lack of movement between companies combined
-with self-interest explains much of observed behavior.[13]
-Galbraith (p. 94) says a 1952 study of the 800 highest paid
-executives at 300 big corporations found that three quarters of
-them had been with their company for more than 20 years.[14]
-It seems likely that in the first third of the 20th century
-executive salaries were low partly because companies then were more
-dependent on banks, who would have disapproved if executives got
-too much.  This was certainly true in the beginning. The first big
-company CEOs were J. P. Morgan's hired hands.Companies didn't start to finance themselves with retained earnings
-till the 1920s.  Till then they had to pay out their earnings in
-dividends, and so depended on banks for capital for expansion.
-Bankers continued to sit on corporate boards till the Glass-Steagall
-act in 1933.By mid-century big companies funded 3/4 of their growth from earnings.
-But the early years of bank dependence, reinforced by the financial
-controls of World War II, must have had a big effect on social
-conventions about executive salaries.  So it may be that the lack
-of movement between companies was as much the effect of low salaries
-as the cause.Incidentally, the switch in the 1920s to financing growth with
-retained earnings was one cause of the 1929 crash.  The banks now
-had to find someone else to lend to, so they made more margin loans.[15]
-Even now it's hard to get them to. One of the things I find
-hardest to get into the heads of would-be startup founders is how
-important it is to do certain kinds of menial work early in the
-life of a company.  Doing things that don't
-scale is to how Henry Ford got started as a high-fiber diet is
-to the traditional peasant's diet: they had no choice but to do the
-right thing, while we have to make a conscious effort.[16]
-Founders weren't celebrated in the press when I was a kid.
-"Our founder" meant a photograph of a severe-looking man with a
-walrus mustache and a wing collar who had died decades ago. The
-thing to be when I was a kid was an executive. If you weren't
-around then it's hard to grasp the cachet that term had. The fancy
-version of everything was called the "executive" model.[17]
-The wave of hostile takeovers in the 1980s was enabled by a
-combination of circumstances: court decisions striking down state
-anti-takeover laws, starting with the Supreme Court's 1982 decision
-in Edgar v. MITE Corp.; the Reagan administration's comparatively
-sympathetic attitude toward takeovers; the Depository Institutions
-Act of 1982, which allowed banks and savings and loans to buy
-corporate bonds; a new SEC rule issued in 1982 (rule 415) that made
-it possible to bring corporate bonds to market faster; the creation
-of the junk bond business by Michael Milken; a vogue for conglomerates
-in the preceding period that caused many companies to be combined
-that never should have been; a decade of inflation that left many
-public companies trading below the value of their assets; and not
-least, the increasing complacency of managements.[18]
-Foster, Richard. "Creative Destruction Whips through Corporate
-America." Innosight, February 2012.[19]
-CEOs of big companies may be overpaid. I don't know enough
-about big companies to say. But it is certainly not impossible for
-a CEO to make 200x as much difference to a company's revenues as
-the average employee.  Look at what Steve Jobs did for Apple when
-he came back as CEO.  It would have been a good deal for the board
-to give him 95% of the company.  Apple's market cap the day Steve
-came back in July 1997 was 1.73 billion. 5% of Apple now (January
-2016) would be worth about 30 billion.  And it would not be if Steve
-hadn't come back; Apple probably wouldn't even exist anymore.Merely including Steve in the sample might be enough to answer the
-question of whether public company CEOs in the aggregate are overpaid.
-And that is not as facile a trick as it might seem, because the
-broader your holdings, the more the aggregate is what you care
-about.[20]
-The late 1960s were famous for social upheaval. But that was
-more rebellion (which can happen in any era if people are provoked
-sufficiently) than fragmentation.  You're not seeing fragmentation
-unless you see people breaking off to both left and right.[21]
-Globally the trend has been in the other direction.  While
-the US is becoming more fragmented, the world as a whole is becoming
-less fragmented, and mostly in good ways.[22]
-There were a handful of ways to make a fortune in the mid
-20th century.  The main one was drilling for oil, which was open
-to newcomers because it was not something big companies could
-dominate through economies of scale.  How did individuals accumulate
-large fortunes in an era of such high taxes?  Giant tax loopholes
-defended by two of the most powerful men in Congress, Sam Rayburn
-and Lyndon Johnson.But becoming a Texas oilman was not in 1950 something one could
-aspire to the way starting a startup or going to work on Wall Street
-were in 2000, because (a) there was a strong local component and
-(b) success depended so much on luck.[23]
-The Baumol Effect induced by startups is very visible in
-Silicon Valley.  Google will pay people millions of dollars a year
-to keep them from leaving to start or join startups.[24]
-I'm not claiming variation in productivity is the only cause
-of economic inequality in the US. But it's a significant cause, and
-it will become as big a cause as it needs to, in the sense that if
-you ban other ways to get rich, people who want to get rich will
-use this route instead.Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick
-Collison, Ron Conway, Chris Dixon, Benedict Evans, Richard Florida,
-Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Geoff
-Ralston, Max Roser, Alexia Tsotsis, and Qasar Younis for reading
-drafts of this.  Max also told me about several valuable sources.BibliographyAllen, Frederick Lewis. The Big Change. Harper, 1952.Averitt, Robert. The Dual Economy. Norton, 1968.Badger, Anthony. The New Deal. Hill and Wang, 1989.Bainbridge, John. The Super-Americans. Doubleday, 1961.Beatty, Jack. Collossus. Broadway, 2001.Brinkley, Douglas. Wheels for the World. Viking, 2003.Brownleee, W. Elliot. Federal Taxation in America. Cambridge, 1996.Chandler, Alfred. The Visible Hand. Harvard, 1977.Chernow, Ron. The House of Morgan. Simon & Schuster, 1990.Chernow, Ron. Titan: The Life of John D. Rockefeller. Random House,
-1998.Galbraith, John. The New Industrial State. Houghton Mifflin, 1967.Goldin, Claudia and Robert A. Margo. "The Great Compression: The
-Wage Structure in the United States at Mid-Century." NBER Working
-Paper 3817, 1991.Gordon, John. An Empire of Wealth. HarperCollins, 2004.Klein, Maury. The Genesis of Industrial America, 1870-1920. Cambridge,
-2007.Lind, Michael. Land of Promise. HarperCollins, 2012.Mickelthwaite, John, and Adrian Wooldridge. The Company. Modern
-Library, 2003.Nasaw, David. Andrew Carnegie. Penguin, 2006.Sobel, Robert. The Age of Giant Corporations. Praeger, 1993.Thurow, Lester. Generating Inequality: Mechanisms of Distribution.
-Basic Books, 1975.Witte, John. The Politics and Development of the Federal Income
-Tax. Wisconsin, 1985.
+Strictly speaking it's not lots of customers you need but a big
+market, meaning a high product of number of customers times how
+much they'll pay.  But it's dangerous to have too few customers
+even if they pay a lot, or the power that individual customers have
+over you could turn you into a de facto consulting firm.  So whatever
+market you're in, you'll usually do best to err on the side of
+making the broadest type of product for it.[2]
+One year at Startup School David Heinemeier Hansson encouraged
+programmers who wanted to start businesses to use a restaurant as
+a model.  What he meant, I believe, is that it's fine to start
+software companies constrained in (a) in the same way a restaurant
+is constrained in (b).  I agree.  Most people should not try to
+start startups.[3]
+That sort of stepping back is one of the things we focus on at
+Y Combinator.  It's common for founders to have discovered something
+intuitively without understanding all its implications.  That's
+probably true of the biggest discoveries in any field.[4]
+I got it wrong in "How to Make Wealth" when I said that a
+startup was a small company that takes on a hard technical
+problem.  That is the most common recipe but not the only one.[5]
+In principle companies aren't limited by the size of the markets
+they serve, because they could just expand into new markets.  But
+there seem to be limits on the ability of big companies to do that.
+Which means the slowdown that comes from bumping up against the
+limits of one's markets is ultimately just another way in which
+internal limits are expressed.It may be that some of these limits could be overcome by changing
+the shape of the organization—specifically by sharding it.[6]
+This is, obviously, only for startups that have already launched
+or can launch during YC.  A startup building a new database will
+probably not do that.  On the other hand, launching something small
+and then using growth rate as evolutionary pressure is such a
+valuable technique that any company that could start this way
+probably should.[7]
+If the startup is taking the Facebook/Twitter route and building
+something they hope will be very popular but from which they don't
+yet have a definite plan to make money, the growth rate has to be
+higher, even though it's a proxy for revenue growth, because such
+companies need huge numbers of users to succeed at all.Beware too of the edge case where something spreads rapidly but the
+churn is high as well, so that you have good net growth till you run
+through all the potential users, at which point it suddenly stops.[8]
+Within YC when we say it's ipso facto right to do whatever gets
+you growth, it's implicit that this excludes trickery like buying
+users for more than their lifetime value, counting users as active
+when they're really not, bleeding out invites at a regularly
+increasing rate to manufacture a perfect growth curve, etc.  Even
+if you were able to fool investors with such tricks, you'd ultimately
+be hurting yourself, because you're throwing off your own compass.[9]
+Which is why it's such a dangerous mistake to believe that
+successful startups are simply the embodiment of some brilliant
+initial idea.  What you're looking for initially is not so much a
+great idea as an idea that could evolve into a great one.   The
+danger is that promising ideas are not merely blurry versions of
+great ones.  They're often different in kind, because the early
+adopters you evolve the idea upon have different needs from the
+rest of the market.  For example, the idea that evolves into Facebook
+isn't merely a subset of Facebook; the idea that evolves into
+Facebook is a site for Harvard undergrads.[10]
+What if a company grew at 1.7x a year for a really long time?
+Could it not grow just as big as any successful startup?  In principle
+yes, of course. If our hypothetical company making $1000 a month
+grew at 1% a week for 19 years, it would grow as big as a company
+growing at 5% a week for 4 years.  But while such trajectories may
+be common in, say, real estate development, you don't see them much
+in the technology business.  In technology, companies that grow
+slowly tend not to grow as big.[11]
+Any expected value calculation varies from person to person
+depending on their utility function for money.  I.e. the first
+million is worth more to most people than subsequent millions.  How
+much more depends on the person.  For founders who are younger or
+more ambitious the utility function is flatter.  Which is probably
+part of the reason the founders of the most successful startups of
+all tend to be on the young side.[12]
+More precisely, this is the case in the biggest winners, which
+is where all the returns come from.  A startup founder could pull
+the same trick of enriching himself at the company's expense by
+selling them overpriced components.  But it wouldn't be worth it
+for the founders of Google to do that.  Only founders of failing
+startups would even be tempted, but those are writeoffs from the
+VCs' point of view anyway.[13]
+Acquisitions fall into two categories: those where the acquirer
+wants the business, and those where the acquirer just wants the
+employees.  The latter type is sometimes called an HR acquisition.
+Though nominally acquisitions and sometimes on a scale that has a
+significant effect on the expected value calculation for potential
+founders, HR acquisitions are viewed by acquirers as more akin to
+hiring bonuses.[14]
+I once explained this to some founders who had recently arrived
+from Russia.  They found it novel that if you threatened a company
+they'd pay a premium for you.  "In Russia they just kill you," they
+said, and they were only partly joking.  Economically, the fact
+that established companies can't simply eliminate new competitors
+may be one of the most valuable aspects of the rule of law.  And
+so to the extent we see incumbents suppressing competitors via
+regulations or patent suits, we should worry, not because it's a
+departure from the rule of law per se but from what the rule of law
+is aiming at.
+Thanks to Sam Altman, Marc Andreessen, Paul Buchheit, Patrick
+Collison, Jessica Livingston, Geoff Ralston, and Harj Taggar for
+reading drafts of this.
+Want to start a startup?  Get funded by
+Y Combinator.
+
+weeklyyearly1%1.7x2%2.8x5%12.6x7%33.7x10%142.0xArabic Translation
+September 2012A startup is a company designed to grow fast.  Being newly founded
+does not in itself make a company a startup.  Nor is it necessary
+for a startup to work on technology, or take venture funding, or
+have some sort of "exit."  The only essential thing is growth.
+Everything else we associate with startups follows from growth.If you want to start one it's important to understand that. Startups
+are so hard that you can't be pointed off to the side and hope to
+succeed.  You have to know that growth is what you're after.  The
+good news is, if you get growth, everything else tends to fall into
+place.  Which means you can use growth like a compass to make almost
+every decision you face.
+RedwoodsLet's start with a distinction that should be obvious but is often
+overlooked: not every newly founded company is a startup.  Millions
+of companies are started every year in the US.  Only a tiny fraction
+are startups.  Most are service businesses—restaurants, barbershops,
+plumbers, and so on.  These are not startups, except in a few unusual
+cases.  A barbershop isn't designed to grow fast.  Whereas a search
+engine, for example, is.When I say startups are designed to grow fast, I mean it in two
+senses.  Partly I mean designed in the sense of intended, because
+most startups fail.  But I also mean startups are different by
+nature, in the same way a redwood seedling has a different destiny
+from a bean sprout.That difference is why there's a distinct word, "startup," for
+companies designed to grow fast.  If all companies were essentially
+similar, but some through luck or the efforts of their founders
+ended up growing very fast, we wouldn't need a separate word.  We
+could just talk about super-successful companies and less successful
+ones.  But in fact startups do have a different sort of DNA from
+other businesses.  Google is not just a barbershop whose founders
+were unusually lucky and hard-working.  Google was different from
+the beginning.To grow rapidly, you need to make something you can sell to a big
+market.  That's the difference between Google and a barbershop.  A
+barbershop doesn't scale.For a company to grow really big, it must (a) make something lots
+of people want, and (b) reach and serve all those people.  Barbershops
+are doing fine in the (a) department.  Almost everyone needs their
+hair cut.  The problem for a barbershop, as for any retail
+establishment, is (b).  A barbershop serves customers in person,
+and few will travel far for a haircut.  And even if they did the
+barbershop couldn't accomodate them. 
+[1]
+Writing software is a great way to solve (b), but you can still end
+up constrained in (a).  If you write software to teach Tibetan to
+Hungarian speakers, you'll be able to reach most of the people who
+want it, but there won't be many of them.   If you make software
+to teach English to Chinese speakers, however, you're in startup
+territory.Most businesses are tightly constrained in (a) or (b).  The distinctive
+feature of successful startups is that they're not.
+IdeasIt might seem that it would always be better to start a startup
+than an ordinary business.  If you're going to start a company, why
+not start the type with the most potential?  The catch is that this
+is a (fairly) efficient market.   If you write software to teach
+Tibetan to Hungarians, you won't have much competition.  If you
+write software to teach English to Chinese speakers, you'll face
+ferocious competition, precisely because that's such a larger prize.
+[2]The constraints that limit ordinary companies also protect them.
+That's the tradeoff.  If you start a barbershop, you only have to
+compete with other local barbers.  If you start a search engine you
+have to compete with the whole world.The most important thing that the constraints on a normal business
+protect it from is not competition, however, but the difficulty of
+coming up with new ideas.  If you open a bar in a particular
+neighborhood, as well as limiting your potential and protecting you
+from competitors, that geographic constraint also helps define your
+company.  Bar + neighborhood is a sufficient idea for a small
+business.  Similarly for companies constrained in (a).  Your niche
+both protects and defines you.Whereas if you want to start a startup, you're probably going to
+have to think of something fairly novel.  A startup has to make
+something it can deliver to a large market, and ideas of that type
+are so valuable that all the obvious ones are already taken.That space of ideas has been so thoroughly picked over that a startup
+generally has to work on something everyone else has overlooked.
+I was going to write that one has to make a conscious effort to
+find ideas everyone else has overlooked.  But that's not how most
+startups get started.  Usually successful startups happen because
+the founders are sufficiently different from other people that ideas
+few others can see seem obvious to them.  Perhaps later they step
+back and notice they've found an idea in everyone else's blind spot,
+and from that point make a deliberate effort to stay there. 
+[3]
+But at the moment when successful startups get started, much of the
+innovation is unconscious.What's different about successful founders is that they can see
+different problems.  It's a particularly good combination both to
+be good at technology and to face problems that can be solved by
+it, because technology changes so rapidly that formerly bad ideas
+often become good without anyone noticing.  Steve Wozniak's problem
+was that he wanted his own computer.  That was an unusual problem
+to have in 1975.  But technological change was about to make it a
+much more common one.  Because he not only wanted a computer but
+knew how to build them, Wozniak was able to make himself one.  And
+the problem he solved for himself became one that Apple solved for
+millions of people in the coming years.  But by the time it was
+obvious to ordinary people that this was a big market, Apple was
+already established.Google has similar origins.  Larry Page and Sergey Brin wanted to
+search the web.  But unlike most people they had the technical
+expertise both to notice that existing search engines were not as
+good as they could be, and to know how to improve them.  Over the
+next few years their problem became everyone's problem, as the web
+grew to a size where you didn't have to be a picky search expert
+to notice the old algorithms weren't good enough.  But as happened
+with Apple, by the time everyone else realized how important search
+was, Google was entrenched.That's one connection between startup ideas and technology.  Rapid
+change in one area uncovers big, soluble problems in other areas.
+Sometimes the changes are advances, and what they change is solubility.
+That was the kind of change that yielded Apple; advances in chip
+technology finally let Steve Wozniak design a computer he could
+afford.  But in Google's case the most important change was the
+growth of the web. What changed there was not solubility but bigness.The other connection between startups and technology is that startups
+create new ways of doing things, and new ways of doing things are,
+in the broader sense of the word, new technology.  
+When a startup both begins with an
+idea exposed by technological change and makes a product consisting
+of technology in the narrower sense (what used to be called "high
+technology"), it's easy to conflate the two.  But the two connections
+are distinct and in principle one could start a startup that was
+neither driven by technological change, nor whose product consisted
+of technology except in the broader sense. 
+[4]RateHow fast does a company have to grow to be considered a startup?
+There's no precise answer to that.  "Startup" is a pole, not a
+threshold.  Starting one is at first no more than a declaration of
+one's ambitions.  You're committing not just to starting a company,
+but to starting a fast growing one, and you're thus committing to
+search for one of the rare ideas of that type.  But at first you
+have no more than commitment.  Starting a startup is like being an
+actor in that respect.  "Actor" too is a pole rather than a threshold.
+At the beginning of his career, an actor is a waiter who goes to
+auditions.  Getting work makes him a successful actor, but he doesn't
+only become an actor when he's successful.So the real question is not what growth rate makes a company a
+startup, but what growth rate successful startups tend to have.
+For founders that's more than a theoretical question, because it's
+equivalent to asking if they're on the right path.The growth of a successful startup usually has three phases:
+
+A company that grows at 1% a week will grow 1.7x a year, whereas a
+company that grows at 5% a week will grow 12.6x.  A company making
+$1000 a month (a typical number early in YC) and growing at 1% a
+week will 4 years later be making $7900 a month, which is less than
+a good programmer makes in salary in Silicon Valley.  A startup
+that grows at 5% a week will in 4 years be making $25 million a
+month. 
+[10]Our ancestors must rarely have encountered cases of exponential
+growth, because our intutitions are no guide here.  What happens
+to fast growing startups tends to surprise even the founders.Small variations in growth rate produce qualitatively different
+outcomes.  That's why there's a separate word for startups, and why
+startups do things that ordinary companies don't, like raising money
+and getting acquired.  And, strangely enough, it's also why they
+fail so frequently.Considering how valuable a successful startup can become, anyone
+familiar with the concept of expected value would be surprised if
+the failure rate weren't high.  If a successful startup could make
+a founder $100 million, then even if the chance of succeeding were
+only 1%, the expected value of starting one would be $1 million.
+And the probability of a group of sufficiently smart and determined
+founders succeeding on that scale might be significantly over 1%.
+For the right people—e.g. the young Bill Gates—the probability
+might be 20% or even 50%.  So it's not surprising that so many want
+to take a shot at it.  In an efficient market, the number of failed
+startups should be proportionate to the size of the successes.  And
+since the latter is huge the former should be too. 
+[11]What this means is that at any given time, the great majority of
+startups will be working on something that's never going to go
+anywhere, and yet glorifying their doomed efforts with the grandiose
+title of "startup."This doesn't bother me.  It's the same with other high-beta vocations,
+like being an actor or a novelist.  I've long since gotten used to
+it.  But it seems to bother a lot of people, particularly those
+who've started ordinary businesses.  Many are annoyed that these
+so-called startups get all the attention, when hardly any of them
+will amount to anything.If they stepped back and looked at the whole picture they might be
+less indignant.  The mistake they're making is that by basing their
+opinions on anecdotal evidence they're implicitly judging by the
+median rather than the average.  If you judge by the median startup,
+the whole concept of a startup seems like a fraud.  You have to
+invent a bubble to explain why founders want to start them or
+investors want to fund them.  But it's a mistake to use the median
+in a domain with so much variation.  If you look at the average
+outcome rather than the median, you can understand why investors
+like them, and why, if they aren't median people, it's a rational
+choice for founders to start them.
+DealsWhy do investors like startups so much?  Why are they so hot to
+invest in photo-sharing apps, rather than solid money-making
+businesses?  Not only for the obvious reason.The test of any investment is the ratio of return to risk.  Startups
+pass that test because although they're appallingly risky, the
+returns when they do succeed are so high.  But that's not the only
+reason investors like startups.  An ordinary slower-growing business
+might have just as good a ratio of return to risk, if both were
+lower.  So why are VCs interested only in high-growth companies?
+The reason is that they get paid by getting their capital back,
+ideally after the startup IPOs, or failing that when it's acquired.The other way to get returns from an investment is in the form of
+dividends.  Why isn't there a parallel VC industry that invests in
+ordinary companies in return for a percentage of their profits?
+Because it's too easy for people who control a private company to
+funnel its revenues to themselves (e.g. by buying overpriced
+components from a supplier they control) while making it look like
+the company is making little profit.  Anyone who invested in private
+companies in return for dividends would have to pay close attention
+to their books.The reason VCs like to invest in startups is not simply the returns,
+but also because such investments are so easy to oversee.  The
+founders can't enrich themselves without also enriching the investors.
+[12]Why do founders want to take the VCs' money?  Growth, again.  The
+constraint between good ideas and growth operates in both directions.
+It's not merely that you need a scalable idea to grow.  If you have
+such an idea and don't grow fast enough, competitors will.  Growing
+too slowly is particularly dangerous in a business with network
+effects, which the best startups usually have to some degree.Almost every company needs some amount of funding to get started.
+But startups often raise money even when they are or could be
+profitable.  It might seem foolish to sell stock in a profitable
+company for less than you think it will later be worth, but it's
+no more foolish than buying insurance.  Fundamentally that's how
+the most successful startups view fundraising.  They could grow the
+company on its own revenues, but the extra money and help supplied
+by VCs will let them grow even faster.  Raising money lets you
+choose your growth rate.Money to grow faster is always at the command of the most successful
+startups, because the VCs need them more than they need the VCs.
+A profitable startup could if it wanted just grow on its own revenues.
+Growing slower might be slightly dangerous, but chances are it
+wouldn't kill them.  Whereas VCs need to invest in startups, and
+in particular the most successful startups, or they'll be out of
+business.  Which means that any sufficiently promising startup will
+be offered money on terms they'd be crazy to refuse.  And yet because
+of the scale of the successes in the startup business, VCs can still
+make money from such investments.  You'd have to be crazy to believe
+your company was going to become as valuable as a high growth rate
+can make it, but some do.Pretty much every successful startup will get acquisition offers
+too.  Why?  What is it about startups that makes other companies
+want to buy them? 
+[13]Fundamentally the same thing that makes everyone else want the stock
+of successful startups: a rapidly growing company is valuable.  It's
+a good thing eBay bought Paypal, for example, because Paypal is now
+responsible for 43% of their sales and probably more of their growth.But acquirers have an additional reason to want startups.  A rapidly
+growing company is not merely valuable, but dangerous.  If it keeps
+expanding, it might expand into the acquirer's own territory.  Most
+product acquisitions have some component of fear.  Even if an
+acquirer isn't threatened by the startup itself, they might be
+alarmed at the thought of what a competitor could do with it.  And
+because startups are in this sense doubly valuable to acquirers,
+acquirers will often pay more than an ordinary investor would. 
+[14]
+UnderstandThe combination of founders, investors, and acquirers forms a natural
+ecosystem.  It works so well that those who don't understand it are
+driven to invent conspiracy theories to explain how neatly things
+sometimes turn out.  Just as our ancestors did to explain the
+apparently too neat workings of the natural world.  But there is
+no secret cabal making it all work.If you start from the mistaken assumption that Instagram was
+worthless, you have to invent a secret boss to force Mark Zuckerberg
+to buy it.  To anyone who knows Mark Zuckerberg that is the reductio
+ad absurdum of the initial assumption.  The reason he bought Instagram
+was that it was valuable and dangerous, and what made it so was
+growth.If you want to understand startups, understand growth.  Growth
+drives everything in this world.  Growth is why startups usually
+work on technology—because ideas for fast growing companies are
+so rare that the best way to find new ones is to discover those
+recently made viable by change, and technology is the best source
+of rapid change.  Growth is why it's a rational choice economically
+for so many founders to try starting a startup: growth makes the
+successful companies so valuable that the expected value is high
+even though the risk is too.  Growth is why VCs want to invest in
+startups: not just because the returns are high but also because
+generating returns from capital gains is easier to manage than
+generating returns from dividends.  Growth explains why the most
+successful startups take VC money even if they don't need to: it
+lets them choose their growth rate.  And growth explains why
+successful startups almost invariably get acquisition offers.  To
+acquirers a fast-growing company is not merely valuable but dangerous
+too.It's not just that if you want to succeed in some domain, you have
+to understand the forces driving it.  Understanding growth is what
+starting a startup consists of.  What you're really doing (and
+to the dismay of some observers, all you're really doing) when you
+start a startup is committing to solve a harder type of problem
+than ordinary businesses do.  You're committing to search for one
+of the rare ideas that generates rapid growth.  Because these ideas
+are so valuable, finding one is hard.  The startup is the embodiment
+of your discoveries so far.  Starting a startup is thus very much
+like deciding to be a research scientist: you're not committing to
+solve any specific problem; you don't know for sure which problems
+are soluble; but you're committing to try to discover something no
+one knew before.  A startup founder is in effect an economic research
+scientist.  Most don't discover anything that remarkable, but some
+discover relativity.
+Notes[1]
+Strictly speaking it's not lots of customers you need but a big
+market, meaning a high product of number of customers times how
+much they'll pay.  But it's dangerous to have too few customers
+even if they pay a lot, or the power that individual customers have
+over you could turn you into a de facto consulting firm.  So whatever
+market you're in, you'll usually do best to err on the side of
+making the broadest type of product for it.[2]
+One year at Startup School David Heinemeier Hansson encouraged
+programmers who wanted to start businesses to use a restaurant as
+a model.  What he meant, I believe, is that it's fine to start
+software companies constrained in (a) in the same way a restaurant
+is constrained in (b).  I agree.  Most people should not try to
+start startups.[3]
+That sort of stepping back is one of the things we focus on at
+Y Combinator.  It's common for founders to have discovered something
+intuitively without understanding all its implications.  That's
+probably true of the biggest discoveries in any field.[4]
+I got it wrong in "How to Make Wealth" when I said that a
+startup was a small company that takes on a hard technical
+problem.  That is the most common recipe but not the only one.[5]
+In principle companies aren't limited by the size of the markets
+they serve, because they could just expand into new markets.  But
+there seem to be limits on the ability of big companies to do that.
+Which means the slowdown that comes from bumping up against the
+limits of one's markets is ultimately just another way in which
+internal limits are expressed.It may be that some of these limits could be overcome by changing
+the shape of the organization—specifically by sharding it.[6]
+This is, obviously, only for startups that have already launched
+or can launch during YC.  A startup building a new database will
+probably not do that.  On the other hand, launching something small
+and then using growth rate as evolutionary pressure is such a
+valuable technique that any company that could start this way
+probably should.[7]
+If the startup is taking the Facebook/Twitter route and building
+something they hope will be very popular but from which they don't
+yet have a definite plan to make money, the growth rate has to be
+higher, even though it's a proxy for revenue growth, because such
+companies need huge numbers of users to succeed at all.Beware too of the edge case where something spreads rapidly but the
+churn is high as well, so that you have good net growth till you run
+through all the potential users, at which point it suddenly stops.[8]
+Within YC when we say it's ipso facto right to do whatever gets
+you growth, it's implicit that this excludes trickery like buying
+users for more than their lifetime value, counting users as active
+when they're really not, bleeding out invites at a regularly
+increasing rate to manufacture a perfect growth curve, etc.  Even
+if you were able to fool investors with such tricks, you'd ultimately
+be hurting yourself, because you're throwing off your own compass.[9]
+Which is why it's such a dangerous mistake to believe that
+successful startups are simply the embodiment of some brilliant
+initial idea.  What you're looking for initially is not so much a
+great idea as an idea that could evolve into a great one.   The
+danger is that promising ideas are not merely blurry versions of
+great ones.  They're often different in kind, because the early
+adopters you evolve the idea upon have different needs from the
+rest of the market.  For example, the idea that evolves into Facebook
+isn't merely a subset of Facebook; the idea that evolves into
+Facebook is a site for Harvard undergrads.[10]
+What if a company grew at 1.7x a year for a really long time?
+Could it not grow just as big as any successful startup?  In principle
+yes, of course. If our hypothetical company making $1000 a month
+grew at 1% a week for 19 years, it would grow as big as a company
+growing at 5% a week for 4 years.  But while such trajectories may
+be common in, say, real estate development, you don't see them much
+in the technology business.  In technology, companies that grow
+slowly tend not to grow as big.[11]
+Any expected value calculation varies from person to person
+depending on their utility function for money.  I.e. the first
+million is worth more to most people than subsequent millions.  How
+much more depends on the person.  For founders who are younger or
+more ambitious the utility function is flatter.  Which is probably
+part of the reason the founders of the most successful startups of
+all tend to be on the young side.[12]
+More precisely, this is the case in the biggest winners, which
+is where all the returns come from.  A startup founder could pull
+the same trick of enriching himself at the company's expense by
+selling them overpriced components.  But it wouldn't be worth it
+for the founders of Google to do that.  Only founders of failing
+startups would even be tempted, but those are writeoffs from the
+VCs' point of view anyway.[13]
+Acquisitions fall into two categories: those where the acquirer
+wants the business, and those where the acquirer just wants the
+employees.  The latter type is sometimes called an HR acquisition.
+Though nominally acquisitions and sometimes on a scale that has a
+significant effect on the expected value calculation for potential
+founders, HR acquisitions are viewed by acquirers as more akin to
+hiring bonuses.[14]
+I once explained this to some founders who had recently arrived
+from Russia.  They found it novel that if you threatened a company
+they'd pay a premium for you.  "In Russia they just kill you," they
+said, and they were only partly joking.  Economically, the fact
+that established companies can't simply eliminate new competitors
+may be one of the most valuable aspects of the rule of law.  And
+so to the extent we see incumbents suppressing competitors via
+regulations or patent suits, we should worry, not because it's a
+departure from the rule of law per se but from what the rule of law
+is aiming at.
+Thanks to Sam Altman, Marc Andreessen, Paul Buchheit, Patrick
+Collison, Jessica Livingston, Geoff Ralston, and Harj Taggar for
+reading drafts of this.

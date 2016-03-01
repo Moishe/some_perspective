@@ -1,687 +1,272 @@
-http://paulgraham.com/ineqold.html
+http://paulgraham.com/klein.html
+January 2016I thought perhaps it would be worthwhile to reply to 
+what 
+Ezra Klein
+wrote about Economic Inequality. It's an 
+important topic, and his seemed to be among the most thoughtful of 
+the responses.This is my best shot at a complete list of his points. As far as I
+can tell, all 9 seem to be mistaken, in the sense of either being
+false or not affecting my argument.  But decide for yourself.1. He says I think startups are responsible for most economic
+inequality in the US. I don't think that. He thinks I do because
+I said "startups are almost entirely a product of [the] period"
+since about 1980.  I don't see how saying startups are limited
+to some period implies I think they're responsible for most
+of the growth in inequality during it. 
+[1]What I do think is that startups are responsible for a significant
+fraction of economic inequality. Anyone who wants to can see that
+for themselves by looking at the Forbes 400.
+[2](I also think, though Ezra didn't talk about this, that startups
+will be responsible for more inequality if other ways of getting
+rich are closed off.)2. He says the number of startups has been declining. In support
+of this he includes a graph with a line going down.  But though the
+graph has the word "startups" on it, it is not a graph of the number
+of startups, but of all new businesses.As I've explained many times, startups are a tiny
+fraction of businesses. Most businesses are barber shops, gas
+stations, restaurants, and so on.  What his graph shows is that
+fewer of these are being started.  If you want to see the trend in
+startups, one way to see it is by looking at the 
+trend in VC deals.Any graph of VC deals will show the trend has
+not been downward. And most such graphs understate the
+growth in startups, because in the last 10 years the traditional VC
+series A round has become a later stage investment.3. He says there is no observable relationship between startup
+formation and inequality.  The Economist
+disagrees, saying founders and early employees of
+startups "represent the most significant concentration of business
+wealth in the world."Again, anyone can see this for themselves by looking at the Forbes
+400.4. He says it's not people who get rich from startups that are the
+problem, but people who get rich from finance. It is the latter
+"that this conversation is really about."But that is my point: that the public conversation
+about this topic is way too sloppy, and that we should
+focus not on crude statistical measures like economic inequality
+but on the specific underlying components.  If you're angry that
+people are making so much money in finance, then attack that,
+not economic inequality.  Imagine how much more alarmed those who benefit from
+the carried interest loophole would be if public attention were
+focused specifically on that, rather than the harmlessly broad
+target of economic inequality.Though indeed Ezra is mistaken when he says the conversation is
+really about finance.  Many of the most influential people who have
+written about the topic recently have been talking about economic
+inequality overall, not merely that caused by finance.  Piketty
+for example clearly thinks great variation in wealth is in itself a problem.5. He says I'm attacking a strawman when I say that ending economic
+inequality would mean ending startups.  Other people have tried to
+claim that too, so I replaced that sentence with:
 
+  Eliminating great variations in wealth would mean eliminating
+  startups.
 
-There is also a
-shorter version.
-
-
-
-
-January 2016Since the 1970s, economic inequality in the US has increased
-dramatically.  And in particular, the rich have gotten a lot richer.
-Some worry this is a sign the country is broken.I'm interested in the topic because I am a manufacturer of economic
-inequality.  I was one of the founders of a company called Y
-Combinator that helps people start startups.  Almost by definition,
-if a startup succeeds its founders become rich.  And while getting
-rich is not the only goal of most startup founders, few would do
-it if one couldn't.I've become an expert on how to increase economic inequality, and
-I've spent the past decade working hard to do it.  Not just by
-helping the 2500 founders YC has funded.  I've also written essays
-encouraging people to increase economic inequality and giving them
-detailed instructions showing how.So when I hear people saying that economic inequality is bad and
-should be decreased, I feel rather like a wild animal overhearing
-a conversation between hunters.  But the thing that strikes me most
-about the conversations I overhear is how confused they are.  They
-don't even seem clear whether they want to kill me or not.The most common mistake people make about economic inequality is
-to treat it as a single phenomenon.  The most naive version of which
-is the one based on the pie fallacy: that the rich get rich by
-taking money from the poor.Usually this is an assumption people start from rather than a
-conclusion they arrive at by examining the evidence.  Sometimes the
-pie fallacy is stated explicitly:
-
-  ...those at the top are grabbing an increasing fraction of the
-  nation's income—so much of a larger share that what's left over
-  for the rest is diminished....
-[1]
-
-Other times it's more unconscious. But the unconscious form is very
-widespread.  I think because we grow up in a world where the pie
-fallacy is actually true.  To kids, wealth is a fixed pie
-that's shared out, and if one person gets more it's at the expense
-of another.  It takes a conscious effort to remind oneself that the
-real world doesn't work that way.In the real world you can create wealth as well as taking it from
-others.  A woodworker creates wealth.  He makes a chair, and you
-willingly give him money in return for it.  A high-frequency trader
-does not.  He makes a dollar only when someone on the other end of
-a trade loses a dollar.If the rich people in a society got that way by taking wealth from
-the poor, then you have the degenerate case of economic inequality
-where the cause of poverty is the same as the cause of wealth.  But
-instances of inequality don't have to be instances of the degenerate
-case.  If one woodworker makes 5 chairs and another makes none, the
-second woodworker will have less money, but not because anyone took
-anything from him.Even people sophisticated enough to know about the pie fallacy are
-led toward it by the custom of describing economic inequality as a
-ratio of one quantile's income or wealth to another's.  It's so
-easy to slip from talking about income shifting from one quantile
-to another, as a figure of speech, into believing that is literally
-what's happening.Except in the degenerate case, economic inequality can't be described
-by a ratio or even a curve.  In the general case it consists of
-multiple ways people become poor, and multiple ways people become
-rich.  Which means to understand economic inequality in a country,
-you have to go find individual people who are poor or rich and
-figure out why.
-[2]If you want to understand change in economic inequality, you
-should ask what those people would have done when it was different.
-This is one way I know the rich aren't all getting richer simply
-from some sinister new system for transferring wealth to them from
-everyone else.  When you use the would-have method with startup
-founders, you find what most would have done back in 1960, when
-economic inequality was lower, was to join big companies or become
-professors.  Before Mark Zuckerberg started Facebook, his default
-expectation was that he'd end up working at Microsoft.  The reason
-he and most other startup founders are richer than they would have
-been in the mid 20th century is not because of some right turn the
-country took during the Reagan administration, but because progress
-in technology has made it much easier to start a new company that
-grows fast.Traditional economists seem strangely averse to studying individual
-humans. It seems to be a rule with them that everything has to start
-with statistics.  So they give you very precise numbers about
-variation in wealth and income, then follow it with the most naive
-speculation about the underlying causes.As a manufacturer of economic inequality, the underlying causes are
-something I know about.  Yes, there are a lot of people who get
-rich through rent-seeking of various forms, and a lot who get rich
-by playing games that though not crooked are zero-sum.  But there
-are also a significant number who get rich by creating wealth.And that group presents two problems for the hunter of economic
-inequality.  One is that variation in productivity is accelerating.
-The rate at which individuals can create wealth depends on the
-technology available to them, and that grows exponentially.  The
-other problem with creating wealth, as a source of inequality, is
-that it can expand to accommodate a lot of people.I'm all for shutting down the crooked ways to get rich.  But that
-won't eliminate great variations in wealth, because as long as you leave
-open the option of getting rich by creating wealth, people who want
-to get rich will do that instead.Most people who get rich tend to be fairly driven. Whatever their
-other flaws, laziness is usually not one of them.  Suppose new
-policies make it hard to make a fortune in finance. Does it seem
-plausible that the people who currently go into finance to make
-their fortunes will continue to do so but be content to work for
-ordinary salaries? The reason they go into finance is not because
-they love finance but because they want to get rich. If the only
-way left to get rich is to start startups, they'll start startups.
-They'll do well at it too, because determination is the main factor
-in the success of a startup. 
-[3]
-And while it would probably be
-a good thing for the world if people who wanted to get rich switched
-from playing zero-sum games to creating wealth, that would not only
-not eliminate great variations in wealth, but might even 
-exacerbate them.
-In a zero-sum game there is at least a limit to the upside.  Plus
-a lot of the new startups would create new technology that further
-accelerated variation in productivity.Variation in productivity is far from the only source of economic
-inequality, but it is the irreducible core of it, in the sense that
-you'll have that left when you eliminate all other sources. And if
-you do, that core will be big, because it will have expanded to
-include the efforts of all the refugees.  Plus it will have a large
-Baumol penumbra around it: anyone who could get rich by creating
-wealth on their own account will have to be paid enough to prevent
-them from doing it.You can't prevent great variations in wealth without preventing people
-from getting rich, and you can't do that without preventing them
-from starting startups.So let's be clear about that. Eliminating great variations in wealth would
-mean eliminating startups.  Are you sure, hunters, that you want
-to shoot this particular animal?  It would only mean you eliminated
-startups in your own country.  Ambitious people already move halfway
-around the world to further their careers, and startups can operate
-from anywhere nowadays.  So if you made it impossible to get rich
-by creating wealth in your country, the ambitious people in your
-country would just leave and do it somewhere else. Which would
-certainly get you a lower Gini coefficient, along with a lesson in
-being careful what you ask for. 
-[4]I think rising economic inequality is the inevitable fate of countries
-that don't choose something worse. We had a 40 year stretch in the
-middle of the 20th century that convinced some people otherwise.
-But as I explained in The Refragmentation,
-that was an anomaly—a
-unique combination of circumstances that compressed American society
-not just economically but culturally too.
-[5]And while some of the growth in economic inequality we've seen since
-then has been due to bad behavior of various kinds, there has
-simultaneously been a huge increase in individuals' ability to
-create wealth.  Startups are almost entirely a product of this
-period. And even within the startup world, there has been a qualitative
-change in the last 10 years.  Technology has decreased the cost of
-starting a startup so much that founders now have the upper hand
-over investors.  Founders get less diluted, and it is now common
-for them to retain board control as well.  Both further increase
-economic inequality, the former because founders own more stock,
-and the latter because, as investors have learned, founders tend
-to be better at running their companies than investors.While the surface manifestations change, the underlying forces are
-very, very old.  The acceleration of productivity we see in Silicon
-Valley has been happening for thousands of years.  If you look at
-the history of stone tools, technology was already accelerating in
-the Mesolithic.  The acceleration would have been too slow to
-perceive in one lifetime.  Such is the nature of the leftmost part
-of an exponential curve.  But it was the same curve.You do not want to design your society in a way that's incompatible
-with this curve. The evolution of technology is one of the most
-powerful forces in history.Louis Brandeis said "We may have democracy, or we may have wealth
-concentrated in the hands of a few, but we can't have both." That
-sounds plausible.  But if I have to choose between ignoring him and
-ignoring an exponential curve that has been operating for thousands
-of years, I'll bet on the curve.  Ignoring any trend that has been
-operating for thousands of years is dangerous.  But exponential
-growth especially tends to bite you.If accelerating variation in productivity is always going to produce
-some baseline growth in economic inequality, it would be a good
-idea to spend some time thinking about that future.  Can you have
-a healthy society with great variation in wealth?  What would it
-look like?Notice how novel it feels to think about that.  The public conversation
-so far has been exclusively about the need to decrease economic
-inequality.  We've barely given a thought to how to live with it.I'm hopeful we'll be able to.  Brandeis was a product of the Gilded
-Age, and things have changed since then. It's harder to hide
-wrongdoing now.  And to get rich now you don't have to buy politicians
-the way railroad or oil magnates did. 
-[6]
-The great concentrations
-of wealth I see around me in Silicon Valley don't seem to be
-destroying democracy.There are lots of things wrong with the US that have economic
-inequality as a symptom. We should fix those things.  In the process
-we may decrease economic inequality. But we can't start from the
-symptom and hope to fix the underlying causes.
-[7]The most obvious is poverty. I'm sure most of those who want to
-decrease economic inequality want to do it mainly to help the poor,
-not to hurt the rich. 
-[8]
-Indeed, a good number are merely being
-sloppy by speaking of decreasing economic inequality when what they
-mean is decreasing poverty.  But this is a situation where it would
-be good to be precise about what we want.  Poverty and economic
-inequality are not identical.  When the city is turning off your
-water
-because you can't pay the bill, it doesn't make any difference
-what Larry Page's net worth is compared to yours.  He might only
-be a few times richer than you, and it would still be just as much
-of a problem that your water was getting turned off.Closely related to poverty is lack of social mobility.  I've seen
-this myself: you don't have to grow up rich or even upper middle
-class to get rich as a startup founder, but few successful founders
-grew up desperately poor.  But again, the problem here is not simply
-economic inequality.  There is an enormous difference in wealth
-between the household Larry Page grew up in and that of a successful
-startup founder, but that didn't prevent him from joining their
-ranks.  It's not economic inequality per se that's blocking social
-mobility, but some specific combination of things that go wrong
-when kids grow up sufficiently poor.One of the most important principles in Silicon Valley is that "you
-make what you measure."  It means that if you pick some number to
-focus on, it will tend to improve, but that you have to choose the
-right number, because only the one you choose will improve; another
-that seems conceptually adjacent might not.  For example, if you're
-a university president and you decide to focus on graduation rates,
-then you'll improve graduation rates.  But only graduation rates,
-not how much students learn.  Students could learn less, if to
-improve graduation rates you made classes easier.Economic inequality is sufficiently far from identical with the
-various problems that have it as a symptom that we'll probably only
-hit whichever of the two we aim at.  If we aim at economic inequality,
-we won't fix these problems.  So I say let's aim at the problems.For example, let's attack poverty, and if necessary damage wealth
-in the process. That's much more likely to work than attacking
-wealth in the hope that you will thereby fix poverty.
-[9]
-And if
-there are people getting rich by tricking consumers or lobbying the
-government for anti-competitive regulations or tax loopholes, then
-let's stop them. Not because it's causing economic inequality, but
-because it's stealing.
-[10]If all you have is statistics, it seems like that's what you need
-to fix. But behind a broad statistical measure like economic
-inequality there are some things that are good and some that are
-bad, some that are historical trends with immense momentum and
-others that are random accidents.  If we want to fix the world
-behind the statistics, we have to understand it, and focus our
-efforts where they'll do the most good.If our goal is to decrease economic inequality, then it is equally
-important to prevent people from becoming rich and to prevent
-them becoming poor. I believe it's far more important to prevent
-people becoming poor. And that therefore decreasing economic
-inequality should not be our goal.
+This is not backpedalling, incidentally; this is a stronger claim
+than I had in the original.  The median household net worth in the US is about 80k. It is common
+for the stock of a successful startup founder to be worth a hundred
+times that, and not unheard of for it to be worth ten thousand times
+that.The goals of eliminating great wealth disparities in your country
+and having startups in your country are fundamentally incompatible.
+It might be possible to cram together these two very differently
+shaped jigsaw puzzle pieces, but it would require hacks as messy
+as have ever been tried in the history of taxation, and even then
+it probably wouldn't work.6. He says that Sweden has more startups than the US despite having
+lower economic inequality.  Though the article he links to is about
+new businesses generally,
+not startups, it is true that Sweden has a lot of actual startups per
+capita. That means they're willing to tolerate great variations in
+wealth, which seems the smart choice.People trying to use Sweden as a counterexample seem to be implying
+that I think economic inequality is a prerequisite for startups.
+Actually the prerequisite is not high current economic inequality
+but the willingness to tolerate it in the future.  7. He seems to disagree with my claim that the growth of technology
+will cause increasing economic inequality.  
+His argument is that since governments have figured
+out how to deal with increasing variation in productivity in the
+past, they will in the future. But (a) governments have in fact
+made some truly disastrous decisions in this department in the past,
+and (b) when something grows exponentially, the past is not much
+use as a guide.Plus, as I explained in The Refragmentation, 
+we got a free pass for
+a big chunk of the 20th century because a unique combination of
+circumstances suppressed the effects of increasing variation in
+productivity.Ezra says the Silicon Valley elite pay higher taxes now than in the
+18th century and yet still invent things.  But this doesn't support
+the idea that no degree of inequality is inevitable: the fortunes
+of the Silicon Valley elite represent enormous wealth disparities.
+[3]8.  He says I think modest changes to the tax code will derail
+technical progress. But I don't think that.  Larry Page's Google
+stock is worth billions of dollars.  It would take way more than
+modest changes in the tax code to change that fact.  If you made
+those kinds of changes, it would decrease the number of
+startups in your country—and break God knows what else.9. He says I am being pessimistic.  But I don't think it's pessimistic
+to think growth in technology will increase economic
+inequality, precisely for the reasons I gave in the essay.  Economic
+inequality per se doesn't seem nearly as much of a problem as
+adjacent ones like poverty or the conversion of money into political
+power.  If we had a society with no poverty and perfect social
+mobility, and economic inequality didn't translate into social or
+political inequality, would it be that bad if there was also great
+variation in wealth?  It might still bother some people, but I'd
+take that over what any country has now.
+[4]That's the sort of society I think we should work toward.  And
+that's why I don't think we should focus on economic inequality per
+se, but the real underlying problems like poverty and lack of social
+mobility.Decreasing poverty is not identical with decreasing economic
+inequality.  Some measures for decreasing
+poverty could well increase economic inequality. For example, if
+you gave every child in America the same quality of education
+Bill Gates had, that would surely decrease poverty.
+[5]
+But you
+would then create a lot of new Bill Gateses as well.  These kids
+wouldn't all stop short at middle class.  The more ambitious ones
+would shoot right out the other side.That would be a great problem to have, you say?  I think so too.
 Notes[1]
-Stiglitz, Joseph. The Price of Inequality. Norton, 2012. p.
-32.[2]
-Particularly since economic inequality is a matter of outliers,
-and outliers are disproportionately likely to have gotten where
-they are by ways that have little do with the sort of things
-economists usually think about, like wages and productivity, but
-rather by, say, ending up on the wrong side of the "War on Drugs."[3]
-Determination is the most important factor in deciding between
-success and failure, which in startups tend to be sharply differentiated.
-But it takes more than determination to create one of the hugely
-successful startups.  Though most founders start out excited about
-the idea of getting rich, purely mercenary founders will usually
-take one of the big acquisition offers most successful startups get
-on the way up.  The founders who go on to the next stage tend to
-be driven by a sense of mission.  They have the same attachment to
-their companies that an artist or writer has to their work.  But
-it is very hard to predict at the outset which founders will do
-that. It's not simply a function of their initial attitude.  Starting
-a company changes people.[4]
-After reading a draft of this essay, Richard Florida told me
-how he had once talked to a group of Europeans "who said
- they wanted to make Europe more entrepreneurial and more
-  like Silicon Valley. I said by definition this will give you more
-  inequality.  They thought I was insane—they could not process
-  it."[5]
-Economic inequality has been decreasing globally.  But this
-is mainly due to the erosion of the kleptocracies that formerly
-dominated all the poorer countries.  Once the playing field is
-leveler politically, we'll see economic inequality start to rise
-again. The US is the bellwether.  The situation we face here, the
-rest of the world will sooner or later.[6]
-Some people still get rich by buying politicians.  My point is that
-it's no longer a precondition.[7]
-As well as problems that have economic inequality as a symptom,
-there are those that have it as a cause.  But in most if not all,
-economic inequality is not the primary cause.  There is usually
-some injustice that is allowing economic inequality to turn into
-other forms of inequality, and that injustice is what we need to
-fix.  For example, the police in the US treat the poor worse than
-the rich.  But the solution is not to make people richer. It's to
-make the police treat people more equitably.  Otherwise they'll
-continue to maltreat people who are weak in other ways.[8]
-Some who read this essay will say that I'm clueless or even
-being deliberately misleading by focusing so much on the richer end
-of economic inequality—that economic inequality is really about
-poverty. But that is exactly the point I'm making, though sloppier
-language than I'd use to make it.  The real problem is poverty, not
-economic inequality.  And if you conflate them you're aiming at the
-wrong target.Others will say I'm clueless or being misleading by focusing on
-people who get rich by creating wealth—that startups aren't the
-problem, but corrupt practices in finance, healthcare, and so on.
-Once again, that is exactly my point.  The problem is not economic
-inequality, but those specific abuses.It's a strange task to write an essay about why something isn't the
-problem, but that's the situation you find yourself in when so many
-people mistakenly think it is.[9]
-Particularly since many causes of poverty are only partially
-driven by people trying to make money from them. For example,
-America's abnormally high incarceration rate is a major cause of
-poverty.  But although for-profit prison companies and 
-prison guard unions both spend 
-a lot lobbying for harsh sentencing laws, they
-are not the original source of them.[10]
-Incidentally, tax loopholes are definitely not a product
-of some power shift due to recent increases in economic inequality.
-The golden age of economic equality in the mid 20th century was
-also the golden age of tax avoidance. Indeed, it was so widespread
-and so effective that I'm skeptical whether economic inequality was
-really so low then as we think.  In a period when people are trying
-to hide wealth from the government, it will tend to be hidden from
-statistics too. One sign of the potential magnitude of the problem
-is the discrepancy between government receipts as a percentage of
-GDP, which have remained more or less constant during the entire
-period from the end of World War II to the present, and tax rates,
-which have varied dramatically.Note:
-Some people used a few sentences in the original version of 
-this essay where
-I talked about eliminating economic inequality to claim that I
-was arguing against a straw man, so I replaced these with stronger
-claims.  For example
+This is so puzzling that I wonder if he didn't simply misread
+what I wrote—that he read the statement that startups were a
+product of this period as if I'd written that the period (in the
+sense of the trends therein) was a product of startups.[2]
+Incidentally, the numbers in the Forbes 400 are nonsense.
+But it will do for a test like whether people are getting rich from
+startups or not.[3]
+As anyone who
+has studied the history of taxation knows, there is a big difference
+between saying that tax rates were higher and that people paid more
+in taxes.[4]
+By definition perfect social mobility would seem unfair to
+anyone with a mistakenly high opinion of their abilities.  Indeed,
+I suspect this phenomenon is already a factor in people's opinions
+about economic inequality even with the imperfect social mobility
+we have now.[5]
+I know Bill Gates had many other advantages besides his
+education. I'm not saying this would level the playing field
+completely, just that it would help.Thanks to Sam Altman and Jessica Livingston for reading
+drafts of this.January 2016I thought perhaps it would be worthwhile to reply to 
+what 
+Ezra Klein
+wrote about Economic Inequality. It's an 
+important topic, and his seemed to be among the most thoughtful of 
+the responses.This is my best shot at a complete list of his points. As far as I
+can tell, all 9 seem to be mistaken, in the sense of either being
+false or not affecting my argument.  But decide for yourself.1. He says I think startups are responsible for most economic
+inequality in the US. I don't think that. He thinks I do because
+I said "startups are almost entirely a product of [the] period"
+since about 1980.  I don't see how saying startups are limited
+to some period implies I think they're responsible for most
+of the growth in inequality during it. 
+[1]What I do think is that startups are responsible for a significant
+fraction of economic inequality. Anyone who wants to can see that
+for themselves by looking at the Forbes 400.
+[2](I also think, though Ezra didn't talk about this, that startups
+will be responsible for more inequality if other ways of getting
+rich are closed off.)2. He says the number of startups has been declining. In support
+of this he includes a graph with a line going down.  But though the
+graph has the word "startups" on it, it is not a graph of the number
+of startups, but of all new businesses.As I've explained many times, startups are a tiny
+fraction of businesses. Most businesses are barber shops, gas
+stations, restaurants, and so on.  What his graph shows is that
+fewer of these are being started.  If you want to see the trend in
+startups, one way to see it is by looking at the 
+trend in VC deals.Any graph of VC deals will show the trend has
+not been downward. And most such graphs understate the
+growth in startups, because in the last 10 years the traditional VC
+series A round has become a later stage investment.3. He says there is no observable relationship between startup
+formation and inequality.  The Economist
+disagrees, saying founders and early employees of
+startups "represent the most significant concentration of business
+wealth in the world."Again, anyone can see this for themselves by looking at the Forbes
+400.4. He says it's not people who get rich from startups that are the
+problem, but people who get rich from finance. It is the latter
+"that this conversation is really about."But that is my point: that the public conversation
+about this topic is way too sloppy, and that we should
+focus not on crude statistical measures like economic inequality
+but on the specific underlying components.  If you're angry that
+people are making so much money in finance, then attack that,
+not economic inequality.  Imagine how much more alarmed those who benefit from
+the carried interest loophole would be if public attention were
+focused specifically on that, rather than the harmlessly broad
+target of economic inequality.Though indeed Ezra is mistaken when he says the conversation is
+really about finance.  Many of the most influential people who have
+written about the topic recently have been talking about economic
+inequality overall, not merely that caused by finance.  Piketty
+for example clearly thinks great variation in wealth is in itself a problem.5. He says I'm attacking a strawman when I say that ending economic
+inequality would mean ending startups.  Other people have tried to
+claim that too, so I replaced that sentence with:
 
-  You can't prevent economic inequality without preventing people
-  from getting rich
+  Eliminating great variations in wealth would mean eliminating
+  startups.
 
-became
-
-  You can't prevent great variations in wealth without preventing
-  people from getting rich
-
-Because in fact startups do not merely cause some economic inequality,
-they cause great economic inequality.  The median US household net
-worth is about $80k.  It's common for the stock of a successful 
-startup founder to be worth a hundred times as much, and not unheard 
-of for it to be worth ten thousand times as much.So startups present a problem not just for those who want to eliminate
-economic inequality completely, but for anyone opposed to high
-levels of it.
-Which is why they make a good counterexample to the
-idea that economic inequality per se is what we should be worried
-about, rather than poverty or lack of social mobility.Thanks to Sam Altman, Tiffani Ashley Bell, Patrick Collison, Ron
-Conway, Richard Florida, Ben Horowitz, Jessica Livingston, Robert
-Morris, Tim O'Reilly, Max Roser, and Alexia Tsotsis for reading
-drafts of this.
-
-There is also a
-shorter version.
-
-
-
-
-January 2016Since the 1970s, economic inequality in the US has increased
-dramatically.  And in particular, the rich have gotten a lot richer.
-Some worry this is a sign the country is broken.I'm interested in the topic because I am a manufacturer of economic
-inequality.  I was one of the founders of a company called Y
-Combinator that helps people start startups.  Almost by definition,
-if a startup succeeds its founders become rich.  And while getting
-rich is not the only goal of most startup founders, few would do
-it if one couldn't.I've become an expert on how to increase economic inequality, and
-I've spent the past decade working hard to do it.  Not just by
-helping the 2500 founders YC has funded.  I've also written essays
-encouraging people to increase economic inequality and giving them
-detailed instructions showing how.So when I hear people saying that economic inequality is bad and
-should be decreased, I feel rather like a wild animal overhearing
-a conversation between hunters.  But the thing that strikes me most
-about the conversations I overhear is how confused they are.  They
-don't even seem clear whether they want to kill me or not.The most common mistake people make about economic inequality is
-to treat it as a single phenomenon.  The most naive version of which
-is the one based on the pie fallacy: that the rich get rich by
-taking money from the poor.Usually this is an assumption people start from rather than a
-conclusion they arrive at by examining the evidence.  Sometimes the
-pie fallacy is stated explicitly:
-
-  ...those at the top are grabbing an increasing fraction of the
-  nation's income—so much of a larger share that what's left over
-  for the rest is diminished....
-[1]
-
-Other times it's more unconscious. But the unconscious form is very
-widespread.  I think because we grow up in a world where the pie
-fallacy is actually true.  To kids, wealth is a fixed pie
-that's shared out, and if one person gets more it's at the expense
-of another.  It takes a conscious effort to remind oneself that the
-real world doesn't work that way.In the real world you can create wealth as well as taking it from
-others.  A woodworker creates wealth.  He makes a chair, and you
-willingly give him money in return for it.  A high-frequency trader
-does not.  He makes a dollar only when someone on the other end of
-a trade loses a dollar.If the rich people in a society got that way by taking wealth from
-the poor, then you have the degenerate case of economic inequality
-where the cause of poverty is the same as the cause of wealth.  But
-instances of inequality don't have to be instances of the degenerate
-case.  If one woodworker makes 5 chairs and another makes none, the
-second woodworker will have less money, but not because anyone took
-anything from him.Even people sophisticated enough to know about the pie fallacy are
-led toward it by the custom of describing economic inequality as a
-ratio of one quantile's income or wealth to another's.  It's so
-easy to slip from talking about income shifting from one quantile
-to another, as a figure of speech, into believing that is literally
-what's happening.Except in the degenerate case, economic inequality can't be described
-by a ratio or even a curve.  In the general case it consists of
-multiple ways people become poor, and multiple ways people become
-rich.  Which means to understand economic inequality in a country,
-you have to go find individual people who are poor or rich and
-figure out why.
-[2]If you want to understand change in economic inequality, you
-should ask what those people would have done when it was different.
-This is one way I know the rich aren't all getting richer simply
-from some sinister new system for transferring wealth to them from
-everyone else.  When you use the would-have method with startup
-founders, you find what most would have done back in 1960, when
-economic inequality was lower, was to join big companies or become
-professors.  Before Mark Zuckerberg started Facebook, his default
-expectation was that he'd end up working at Microsoft.  The reason
-he and most other startup founders are richer than they would have
-been in the mid 20th century is not because of some right turn the
-country took during the Reagan administration, but because progress
-in technology has made it much easier to start a new company that
-grows fast.Traditional economists seem strangely averse to studying individual
-humans. It seems to be a rule with them that everything has to start
-with statistics.  So they give you very precise numbers about
-variation in wealth and income, then follow it with the most naive
-speculation about the underlying causes.As a manufacturer of economic inequality, the underlying causes are
-something I know about.  Yes, there are a lot of people who get
-rich through rent-seeking of various forms, and a lot who get rich
-by playing games that though not crooked are zero-sum.  But there
-are also a significant number who get rich by creating wealth.And that group presents two problems for the hunter of economic
-inequality.  One is that variation in productivity is accelerating.
-The rate at which individuals can create wealth depends on the
-technology available to them, and that grows exponentially.  The
-other problem with creating wealth, as a source of inequality, is
-that it can expand to accommodate a lot of people.I'm all for shutting down the crooked ways to get rich.  But that
-won't eliminate great variations in wealth, because as long as you leave
-open the option of getting rich by creating wealth, people who want
-to get rich will do that instead.Most people who get rich tend to be fairly driven. Whatever their
-other flaws, laziness is usually not one of them.  Suppose new
-policies make it hard to make a fortune in finance. Does it seem
-plausible that the people who currently go into finance to make
-their fortunes will continue to do so but be content to work for
-ordinary salaries? The reason they go into finance is not because
-they love finance but because they want to get rich. If the only
-way left to get rich is to start startups, they'll start startups.
-They'll do well at it too, because determination is the main factor
-in the success of a startup. 
-[3]
-And while it would probably be
-a good thing for the world if people who wanted to get rich switched
-from playing zero-sum games to creating wealth, that would not only
-not eliminate great variations in wealth, but might even 
-exacerbate them.
-In a zero-sum game there is at least a limit to the upside.  Plus
-a lot of the new startups would create new technology that further
-accelerated variation in productivity.Variation in productivity is far from the only source of economic
-inequality, but it is the irreducible core of it, in the sense that
-you'll have that left when you eliminate all other sources. And if
-you do, that core will be big, because it will have expanded to
-include the efforts of all the refugees.  Plus it will have a large
-Baumol penumbra around it: anyone who could get rich by creating
-wealth on their own account will have to be paid enough to prevent
-them from doing it.You can't prevent great variations in wealth without preventing people
-from getting rich, and you can't do that without preventing them
-from starting startups.So let's be clear about that. Eliminating great variations in wealth would
-mean eliminating startups.  Are you sure, hunters, that you want
-to shoot this particular animal?  It would only mean you eliminated
-startups in your own country.  Ambitious people already move halfway
-around the world to further their careers, and startups can operate
-from anywhere nowadays.  So if you made it impossible to get rich
-by creating wealth in your country, the ambitious people in your
-country would just leave and do it somewhere else. Which would
-certainly get you a lower Gini coefficient, along with a lesson in
-being careful what you ask for. 
-[4]I think rising economic inequality is the inevitable fate of countries
-that don't choose something worse. We had a 40 year stretch in the
-middle of the 20th century that convinced some people otherwise.
-But as I explained in The Refragmentation,
-that was an anomaly—a
-unique combination of circumstances that compressed American society
-not just economically but culturally too.
-[5]And while some of the growth in economic inequality we've seen since
-then has been due to bad behavior of various kinds, there has
-simultaneously been a huge increase in individuals' ability to
-create wealth.  Startups are almost entirely a product of this
-period. And even within the startup world, there has been a qualitative
-change in the last 10 years.  Technology has decreased the cost of
-starting a startup so much that founders now have the upper hand
-over investors.  Founders get less diluted, and it is now common
-for them to retain board control as well.  Both further increase
-economic inequality, the former because founders own more stock,
-and the latter because, as investors have learned, founders tend
-to be better at running their companies than investors.While the surface manifestations change, the underlying forces are
-very, very old.  The acceleration of productivity we see in Silicon
-Valley has been happening for thousands of years.  If you look at
-the history of stone tools, technology was already accelerating in
-the Mesolithic.  The acceleration would have been too slow to
-perceive in one lifetime.  Such is the nature of the leftmost part
-of an exponential curve.  But it was the same curve.You do not want to design your society in a way that's incompatible
-with this curve. The evolution of technology is one of the most
-powerful forces in history.Louis Brandeis said "We may have democracy, or we may have wealth
-concentrated in the hands of a few, but we can't have both." That
-sounds plausible.  But if I have to choose between ignoring him and
-ignoring an exponential curve that has been operating for thousands
-of years, I'll bet on the curve.  Ignoring any trend that has been
-operating for thousands of years is dangerous.  But exponential
-growth especially tends to bite you.If accelerating variation in productivity is always going to produce
-some baseline growth in economic inequality, it would be a good
-idea to spend some time thinking about that future.  Can you have
-a healthy society with great variation in wealth?  What would it
-look like?Notice how novel it feels to think about that.  The public conversation
-so far has been exclusively about the need to decrease economic
-inequality.  We've barely given a thought to how to live with it.I'm hopeful we'll be able to.  Brandeis was a product of the Gilded
-Age, and things have changed since then. It's harder to hide
-wrongdoing now.  And to get rich now you don't have to buy politicians
-the way railroad or oil magnates did. 
-[6]
-The great concentrations
-of wealth I see around me in Silicon Valley don't seem to be
-destroying democracy.There are lots of things wrong with the US that have economic
-inequality as a symptom. We should fix those things.  In the process
-we may decrease economic inequality. But we can't start from the
-symptom and hope to fix the underlying causes.
-[7]The most obvious is poverty. I'm sure most of those who want to
-decrease economic inequality want to do it mainly to help the poor,
-not to hurt the rich. 
-[8]
-Indeed, a good number are merely being
-sloppy by speaking of decreasing economic inequality when what they
-mean is decreasing poverty.  But this is a situation where it would
-be good to be precise about what we want.  Poverty and economic
-inequality are not identical.  When the city is turning off your
-water
-because you can't pay the bill, it doesn't make any difference
-what Larry Page's net worth is compared to yours.  He might only
-be a few times richer than you, and it would still be just as much
-of a problem that your water was getting turned off.Closely related to poverty is lack of social mobility.  I've seen
-this myself: you don't have to grow up rich or even upper middle
-class to get rich as a startup founder, but few successful founders
-grew up desperately poor.  But again, the problem here is not simply
-economic inequality.  There is an enormous difference in wealth
-between the household Larry Page grew up in and that of a successful
-startup founder, but that didn't prevent him from joining their
-ranks.  It's not economic inequality per se that's blocking social
-mobility, but some specific combination of things that go wrong
-when kids grow up sufficiently poor.One of the most important principles in Silicon Valley is that "you
-make what you measure."  It means that if you pick some number to
-focus on, it will tend to improve, but that you have to choose the
-right number, because only the one you choose will improve; another
-that seems conceptually adjacent might not.  For example, if you're
-a university president and you decide to focus on graduation rates,
-then you'll improve graduation rates.  But only graduation rates,
-not how much students learn.  Students could learn less, if to
-improve graduation rates you made classes easier.Economic inequality is sufficiently far from identical with the
-various problems that have it as a symptom that we'll probably only
-hit whichever of the two we aim at.  If we aim at economic inequality,
-we won't fix these problems.  So I say let's aim at the problems.For example, let's attack poverty, and if necessary damage wealth
-in the process. That's much more likely to work than attacking
-wealth in the hope that you will thereby fix poverty.
-[9]
-And if
-there are people getting rich by tricking consumers or lobbying the
-government for anti-competitive regulations or tax loopholes, then
-let's stop them. Not because it's causing economic inequality, but
-because it's stealing.
-[10]If all you have is statistics, it seems like that's what you need
-to fix. But behind a broad statistical measure like economic
-inequality there are some things that are good and some that are
-bad, some that are historical trends with immense momentum and
-others that are random accidents.  If we want to fix the world
-behind the statistics, we have to understand it, and focus our
-efforts where they'll do the most good.If our goal is to decrease economic inequality, then it is equally
-important to prevent people from becoming rich and to prevent
-them becoming poor. I believe it's far more important to prevent
-people becoming poor. And that therefore decreasing economic
-inequality should not be our goal.
+This is not backpedalling, incidentally; this is a stronger claim
+than I had in the original.  The median household net worth in the US is about 80k. It is common
+for the stock of a successful startup founder to be worth a hundred
+times that, and not unheard of for it to be worth ten thousand times
+that.The goals of eliminating great wealth disparities in your country
+and having startups in your country are fundamentally incompatible.
+It might be possible to cram together these two very differently
+shaped jigsaw puzzle pieces, but it would require hacks as messy
+as have ever been tried in the history of taxation, and even then
+it probably wouldn't work.6. He says that Sweden has more startups than the US despite having
+lower economic inequality.  Though the article he links to is about
+new businesses generally,
+not startups, it is true that Sweden has a lot of actual startups per
+capita. That means they're willing to tolerate great variations in
+wealth, which seems the smart choice.People trying to use Sweden as a counterexample seem to be implying
+that I think economic inequality is a prerequisite for startups.
+Actually the prerequisite is not high current economic inequality
+but the willingness to tolerate it in the future.  7. He seems to disagree with my claim that the growth of technology
+will cause increasing economic inequality.  
+His argument is that since governments have figured
+out how to deal with increasing variation in productivity in the
+past, they will in the future. But (a) governments have in fact
+made some truly disastrous decisions in this department in the past,
+and (b) when something grows exponentially, the past is not much
+use as a guide.Plus, as I explained in The Refragmentation, 
+we got a free pass for
+a big chunk of the 20th century because a unique combination of
+circumstances suppressed the effects of increasing variation in
+productivity.Ezra says the Silicon Valley elite pay higher taxes now than in the
+18th century and yet still invent things.  But this doesn't support
+the idea that no degree of inequality is inevitable: the fortunes
+of the Silicon Valley elite represent enormous wealth disparities.
+[3]8.  He says I think modest changes to the tax code will derail
+technical progress. But I don't think that.  Larry Page's Google
+stock is worth billions of dollars.  It would take way more than
+modest changes in the tax code to change that fact.  If you made
+those kinds of changes, it would decrease the number of
+startups in your country—and break God knows what else.9. He says I am being pessimistic.  But I don't think it's pessimistic
+to think growth in technology will increase economic
+inequality, precisely for the reasons I gave in the essay.  Economic
+inequality per se doesn't seem nearly as much of a problem as
+adjacent ones like poverty or the conversion of money into political
+power.  If we had a society with no poverty and perfect social
+mobility, and economic inequality didn't translate into social or
+political inequality, would it be that bad if there was also great
+variation in wealth?  It might still bother some people, but I'd
+take that over what any country has now.
+[4]That's the sort of society I think we should work toward.  And
+that's why I don't think we should focus on economic inequality per
+se, but the real underlying problems like poverty and lack of social
+mobility.Decreasing poverty is not identical with decreasing economic
+inequality.  Some measures for decreasing
+poverty could well increase economic inequality. For example, if
+you gave every child in America the same quality of education
+Bill Gates had, that would surely decrease poverty.
+[5]
+But you
+would then create a lot of new Bill Gateses as well.  These kids
+wouldn't all stop short at middle class.  The more ambitious ones
+would shoot right out the other side.That would be a great problem to have, you say?  I think so too.
 Notes[1]
-Stiglitz, Joseph. The Price of Inequality. Norton, 2012. p.
-32.[2]
-Particularly since economic inequality is a matter of outliers,
-and outliers are disproportionately likely to have gotten where
-they are by ways that have little do with the sort of things
-economists usually think about, like wages and productivity, but
-rather by, say, ending up on the wrong side of the "War on Drugs."[3]
-Determination is the most important factor in deciding between
-success and failure, which in startups tend to be sharply differentiated.
-But it takes more than determination to create one of the hugely
-successful startups.  Though most founders start out excited about
-the idea of getting rich, purely mercenary founders will usually
-take one of the big acquisition offers most successful startups get
-on the way up.  The founders who go on to the next stage tend to
-be driven by a sense of mission.  They have the same attachment to
-their companies that an artist or writer has to their work.  But
-it is very hard to predict at the outset which founders will do
-that. It's not simply a function of their initial attitude.  Starting
-a company changes people.[4]
-After reading a draft of this essay, Richard Florida told me
-how he had once talked to a group of Europeans "who said
- they wanted to make Europe more entrepreneurial and more
-  like Silicon Valley. I said by definition this will give you more
-  inequality.  They thought I was insane—they could not process
-  it."[5]
-Economic inequality has been decreasing globally.  But this
-is mainly due to the erosion of the kleptocracies that formerly
-dominated all the poorer countries.  Once the playing field is
-leveler politically, we'll see economic inequality start to rise
-again. The US is the bellwether.  The situation we face here, the
-rest of the world will sooner or later.[6]
-Some people still get rich by buying politicians.  My point is that
-it's no longer a precondition.[7]
-As well as problems that have economic inequality as a symptom,
-there are those that have it as a cause.  But in most if not all,
-economic inequality is not the primary cause.  There is usually
-some injustice that is allowing economic inequality to turn into
-other forms of inequality, and that injustice is what we need to
-fix.  For example, the police in the US treat the poor worse than
-the rich.  But the solution is not to make people richer. It's to
-make the police treat people more equitably.  Otherwise they'll
-continue to maltreat people who are weak in other ways.[8]
-Some who read this essay will say that I'm clueless or even
-being deliberately misleading by focusing so much on the richer end
-of economic inequality—that economic inequality is really about
-poverty. But that is exactly the point I'm making, though sloppier
-language than I'd use to make it.  The real problem is poverty, not
-economic inequality.  And if you conflate them you're aiming at the
-wrong target.Others will say I'm clueless or being misleading by focusing on
-people who get rich by creating wealth—that startups aren't the
-problem, but corrupt practices in finance, healthcare, and so on.
-Once again, that is exactly my point.  The problem is not economic
-inequality, but those specific abuses.It's a strange task to write an essay about why something isn't the
-problem, but that's the situation you find yourself in when so many
-people mistakenly think it is.[9]
-Particularly since many causes of poverty are only partially
-driven by people trying to make money from them. For example,
-America's abnormally high incarceration rate is a major cause of
-poverty.  But although for-profit prison companies and 
-prison guard unions both spend 
-a lot lobbying for harsh sentencing laws, they
-are not the original source of them.[10]
-Incidentally, tax loopholes are definitely not a product
-of some power shift due to recent increases in economic inequality.
-The golden age of economic equality in the mid 20th century was
-also the golden age of tax avoidance. Indeed, it was so widespread
-and so effective that I'm skeptical whether economic inequality was
-really so low then as we think.  In a period when people are trying
-to hide wealth from the government, it will tend to be hidden from
-statistics too. One sign of the potential magnitude of the problem
-is the discrepancy between government receipts as a percentage of
-GDP, which have remained more or less constant during the entire
-period from the end of World War II to the present, and tax rates,
-which have varied dramatically.Note:
-Some people used a few sentences in the original version of 
-this essay where
-I talked about eliminating economic inequality to claim that I
-was arguing against a straw man, so I replaced these with stronger
-claims.  For example
-
-  You can't prevent economic inequality without preventing people
-  from getting rich
-
-became
-
-  You can't prevent great variations in wealth without preventing
-  people from getting rich
-
-Because in fact startups do not merely cause some economic inequality,
-they cause great economic inequality.  The median US household net
-worth is about $80k.  It's common for the stock of a successful 
-startup founder to be worth a hundred times as much, and not unheard 
-of for it to be worth ten thousand times as much.So startups present a problem not just for those who want to eliminate
-economic inequality completely, but for anyone opposed to high
-levels of it.
-Which is why they make a good counterexample to the
-idea that economic inequality per se is what we should be worried
-about, rather than poverty or lack of social mobility.Thanks to Sam Altman, Tiffani Ashley Bell, Patrick Collison, Ron
-Conway, Richard Florida, Ben Horowitz, Jessica Livingston, Robert
-Morris, Tim O'Reilly, Max Roser, and Alexia Tsotsis for reading
+This is so puzzling that I wonder if he didn't simply misread
+what I wrote—that he read the statement that startups were a
+product of this period as if I'd written that the period (in the
+sense of the trends therein) was a product of startups.[2]
+Incidentally, the numbers in the Forbes 400 are nonsense.
+But it will do for a test like whether people are getting rich from
+startups or not.[3]
+As anyone who
+has studied the history of taxation knows, there is a big difference
+between saying that tax rates were higher and that people paid more
+in taxes.[4]
+By definition perfect social mobility would seem unfair to
+anyone with a mistakenly high opinion of their abilities.  Indeed,
+I suspect this phenomenon is already a factor in people's opinions
+about economic inequality even with the imperfect social mobility
+we have now.[5]
+I know Bill Gates had many other advantages besides his
+education. I'm not saying this would level the playing field
+completely, just that it would help.Thanks to Sam Altman and Jessica Livingston for reading
 drafts of this.
-There is also a
-shorter version.
-
-
-January 2016Since the 1970s, economic inequality in the US has increased
-dramatically.  And in particular, the rich have gotten a lot richer.
-Some worry this is a sign the country is broken.I'm interested in the topic because I am a manufacturer of economic
-inequality.  I was one of the founders of a company called Y
-Combinator that helps people start startups.  Almost by definition,
-if a startup succeeds its founders become rich.  And while getting
-rich is not the only goal of most startup founders, few would do
-it if one couldn't.I've become an expert on how to increase economic inequality, and
-I've spent the past decade working hard to do it.  Not just by
-helping the 2500 founders YC has funded.  I've also written essays
-encouraging people to increase economic inequality and giving them
-detailed instructions showing how.So when I hear people saying that economic inequality is bad and
-should be decreased, I feel rather like a wild animal overhearing
-a conversation between hunters.  But the thing that strikes me most
-about the conversations I overhear is how confused they are.  They
-don't even seem clear whether they want to kill me or not.The most common mistake people make about economic inequality is
-to treat it as a single phenomenon.  The most naive version of which
-is the one based on the pie fallacy: that the rich get rich by
-taking money from the poor.Usually this is an assumption people start from rather than a
-conclusion they arrive at by examining the evidence.  Sometimes the
-pie fallacy is stated explicitly:
