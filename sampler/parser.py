@@ -53,8 +53,9 @@ def get_bigrams(filename):
 t = 0
 
 pg = []
-for i in range(1,11):
+for i in range(1,41):
 	pg.append(get_bigrams('corpora/pg' + str(i)))
+	print i
 
 overlaps = defaultdict(int)
 sets = [x[t] for x in pg]
