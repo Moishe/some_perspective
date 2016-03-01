@@ -9,6 +9,8 @@ from nltk.stem import SnowballStemmer
 from nltk.tokenize import MWETokenizer
 from nltk.tokenize import RegexpTokenizer
 from nltk.util import ngrams
+from os import listdir
+from os.path import isfile, join
 
 stemmer = SnowballStemmer("english")
 sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -25,47 +27,45 @@ def get_bigrams(filename):
 	f = open(filename, 'r')
 	sentences = sent_detector.tokenize(f.read().decode('utf-8').lower())
 
-	bigrams = set()
-	trigrams = set()
 	allwords = set()
 
 	for sentence in sentences:
 		#filtered_words = nltk.word_tokenize(sentence)
 		#filtered_words = [x for x in nltk.word_tokenize(sentence) if words.is_word(x)]
 		filtered_words = tokenizer.tokenize(sentence)
+		allwords.update(filtered_words)
 
-		for ngram in ngrams(filtered_words, 2):
-			bigrams.add(str(ngram))
+	return allwords
 
-		for ngram in ngrams(filtered_words, 3):
-			trigrams.add(str(ngram))
 
-		for word in filtered_words:
-			allwords.add(word)
-
-	return (allwords, bigrams, trigrams)
+control_files = [join('controls/', f) for f in listdir('controls/') if isfile(join('controls/', f))]
+control_words = set()
+for f in control_files:
+	control_words.update(get_bigrams(f))
 
 #js = get_bigrams('controls/grapes-1.txt')
 #eh = get_bigrams('controls/sunalso-1.txt')
 #dg = get_bigrams('controls/flying-cars.txt')
 #jds = get_bigrams('controls/rye-1.txt')
 
-t = 0
-
 pg = []
-for i in range(1,11):
+c = 40
+for i in range(1, c + 1):
 	pg.append(get_bigrams('corpora/pg' + str(i)))
-	print i
 
+indices = range(0,10)
 overlaps = defaultdict(int)
-sets = [x[t] for x in pg]
-subsets = itertools.combinations(sets, 4)
+subsets = itertools.combinations(indices, 3)
 for ss in subsets:
-	ov = ss[0].intersection(*ss[1:])
+	pgs = [pg[i] for i in ss]
+	ov = pgs[0].intersection(*pgs[1:])
 	for o in ov:
 		overlaps[o] += 1
 
-filtered_overlaps = dict((k,v) for k,v in overlaps.items() if v < 20)
 
-print json.dumps(filtered_overlaps, sort_keys=True, indent=4, separators=(',', ': '))
+filtered_overlaps = dict((k,v / (c + 1) + 1) for k,v in overlaps.items() if v < (c + 1) * 2)
+
+remove_control_words = set(filtered_overlaps.keys()).difference(control_words)
+
+print json.dumps(list(remove_control_words), sort_keys=True, indent=4, separators=(',', ': '))
 
