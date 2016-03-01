@@ -98,6 +98,8 @@ def process_one_url():
         for el in els:
             text += el.text
 
+    links = soup.find_all("a")
+    urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
     return text
 
 parser = argparse.ArgumentParser(description="Site word frequency counter")
@@ -120,9 +122,11 @@ enqueue(args.url)
 #enqueue('http://www.newyorker.com/news/news-desk/the-rubio-and-cruz-delusion')
 count = 0
 while count < args.count and len(urls):
-    text += process_one_url()
+    text = process_one_url()
     if text:
         count += 1
-    output = open(args.output + str(count), 'w+')
-    output.write(text)
+    fn = args.output + str(count)
+    print 'writing to ' + fn
+    output = open(fn, 'w+')
+    output.write(text.encode('utf-8'))
 
