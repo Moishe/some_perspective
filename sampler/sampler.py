@@ -75,7 +75,7 @@ def process_one_url():
     url = urls.pop(0)
 
     if url in seen_urls:
-        return 0
+        return ""
 
     seen_urls.add(url)
 
@@ -88,7 +88,7 @@ def process_one_url():
         html = response.read()
     except:
         print "Error reading: " + url + ", skipping"
-        return 1
+        return ""
 
     soup = BeautifulSoup(html, 'lxml')
 
@@ -126,7 +126,7 @@ while count < args.count and len(urls):
     if text:
         count += 1
     fn = args.output + str(count)
-    print 'writing to ' + fn
-    output = open(fn, 'w+')
+    print 'writing to %s' % (fn)
+    output = open(fn, 'w')
     output.write(text.encode('utf-8'))
 
