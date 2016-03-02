@@ -47,7 +47,7 @@ def words_from_directory(directory, max_files):
 	return wordsets
 
 control_file_count = 10
-corpus_file_count = 10
+corpus_file_count = 80
 c = 3
 
 control_word_sets = words_from_directory('controls/', control_file_count)
@@ -67,5 +67,5 @@ filtered_overlaps = dict((k,v / (c + 1) + 1) for k,v in overlaps.items() if v < 
 
 remove_control_words = set(filtered_overlaps.keys()).difference(*control_word_sets)
 
-print json.dumps(list(remove_control_words), sort_keys=True, indent=4, separators=(',', ': '))
+print json.dumps(sorted(list(remove_control_words)), sort_keys=True, indent=4, separators=(',', ': '))
 
