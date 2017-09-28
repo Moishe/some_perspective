@@ -14,7 +14,7 @@ from urlparse import urlparse, urlunparse
 
 counts = collections.defaultdict(int)
 seen_urls = set()
-urls = []
+enqueued_urls = []
 robotfilter = None
 useragent = 'Technology-Soothing-Bot/1.0'
 
@@ -24,8 +24,13 @@ def addbotfilter(url):
     robotfilter.read()
 
 def enqueue(url):
-    global urls
-    urls.append(url)
+    global enqueued_urls
+
+    if url in enqueued_urls:
+        return
+
+    print "enqueueing " + url
+    enqueued_urls.append(url.encode('utf-8'))
 
 def normalize_url(seed_url, url):
     parsed_url = urlparse(url)
@@ -68,18 +73,16 @@ def normalize_word(word):
     return word.lower()
 
 def process_one_url():
-    global urls
+    global enqueued_urls
     global useragent
     global seen_urls
 
-    url = urls.pop(0)
+    url = enqueued_urls.pop(0)
 
     if url in seen_urls:
         return ""
 
     seen_urls.add(url)
-
-    print "LOADING: " + url
 
     try:
         opener = urllib2.build_opener()
@@ -93,20 +96,15 @@ def process_one_url():
     soup = BeautifulSoup(html, 'lxml')
 
     text = ""
-    for eltype in ['td', 'p', 'div']:
-        els = soup.find_all(eltype)
-        for el in els:
-            text += el.text
+
+    for s in soup.strings:
+        text += s + '\n'
 
     links = soup.find_all("a")
-    urls += [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]
+    for url in [normalize_url(url, x.attrs['href']) for x in links if 'href' in x.attrs and valid_url(url, x.attrs['href'])]:
+        enqueue(url)
 
-    wc = len(text.encode('utf-8').split(' '))
-    print "wc: %d" % wc 
-    if (wc < 1024):
-        return ""
-
-    return url + "\n" + text
+    return text
 
 parser = argparse.ArgumentParser(description="Site word frequency counter")
 parser.add_argument('-u', '--url', help='Start crawling url', required=True)
@@ -124,10 +122,8 @@ if not parsed_start.scheme or not parsed_start.netloc:
 addbotfilter(urlunparse((parsed_start.scheme, parsed_start.netloc, 'robots.txt', '', '', '')))
 enqueue(args.url)
 
-#addbotfilter('http://www.newyorker.com/robots.txt')
-#enqueue('http://www.newyorker.com/news/news-desk/the-rubio-and-cruz-delusion')
 count = 0
-while count < args.count and len(urls):
+while count < args.count and len(enqueued_urls):
     text = process_one_url()
     if text:
         count += 1

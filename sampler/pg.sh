@@ -1,1 +1,1 @@
-python sampler.py -u http://paulgraham.com/vb.html -f corpora/pg.json -c 10
+python sampler.py -u http://paulgraham.com/articles.html -f corpora/pg.json -c 10
