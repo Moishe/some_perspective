@@ -12,9 +12,10 @@ import urllib2
 import words
 
 from bs4 import BeautifulSoup
+from collections import defaultdict
 from urlparse import urlparse, urlunparse
 
-counts = collections.defaultdict(int)
+counts = defaultdict(int)
 seen_urls = set()
 enqueued_urls = []
 robotfilter = None
@@ -33,12 +34,15 @@ def enqueue(url, skip_emit=False):
     if url in enqueued_urls:
         return
 
-    print "enqueueing " + url
     enqueued_urls.append([url.encode('utf-8'), skip_emit])
+
+def clear_queue():
+    global enqueued_urls
+    enqueued_urls = []
 
 def emit_sentence(sentence, is_bullshit, is_training):
     global training_file, test_file
-    row = [is_bullshit, sentence.encode('utf-8')]
+    row = [is_bullshit, sentence.encode('utf-8').strip()]
 
     if is_training:
         training_file.writerow(row)
@@ -111,7 +115,7 @@ def process_one_url():
     soup = BeautifulSoup(html, 'lxml')
 
     if not skip_emit:
-        filtered = [s.replace('\n', ' ') for s in soup.strings if '//' not in s]
+        filtered = [s.replace('\n', ' ') for s in soup.strings if ('//' not in s) and ('{' not in s)]
         sentences = nltk.sent_tokenize(' '.join(filtered))
     else:
         sentences = []
@@ -122,12 +126,34 @@ def process_one_url():
 
     return sentences
 
+def crawl_source(url, count, bullshit):
+    print "starting crawl at url: %s" % (url)
+    parsed_start = urlparse(url)
+    if not parsed_start.scheme or not parsed_start.netloc:
+        print "Bad URL: " + url
+        sys.exit(1)
+
+    addbotfilter(urlunparse((parsed_start.scheme, parsed_start.netloc, 'robots.txt', '', '', '')))
+    enqueue(url, True)
+
+    sentence_counts = defaultdict(int)
+    while count and len(enqueued_urls):
+        sentences = process_one_url()
+        for sentence in sentences:
+            sentence_counts[sentence] += 1
+        if len(sentences):
+            count -= 1
+
+    training = False
+    for sentence in sentence_counts:
+        emit_sentence(sentence, bullshit, training)
+        training = not training
+
+
 parser = argparse.ArgumentParser(description="Site word frequency counter")
-parser.add_argument('-u', '--url', help='Start crawling url', required=True)
 parser.add_argument('-r', '--training_output', help='Training output file', required=True)
 parser.add_argument('-e', '--test_output', help='Test output file', required=True)
 parser.add_argument('-c', '--count', help='Pages to read', required=True, type=int)
-parser.add_argument('-b', '--bullshit', help='Is this corpus bullshit', required=True, type=bool)
 args = parser.parse_args()
 
 print args
@@ -135,21 +161,6 @@ print args
 training_file = csv.writer(open(args.training_output, 'w'))
 test_file = csv.writer(open(args.test_output, 'w'))
 
-parsed_start = urlparse(args.url)
-if not parsed_start.scheme or not parsed_start.netloc:
-    print "Bad URL: " + args.url
-    sys.exit(0)
-
-addbotfilter(urlunparse((parsed_start.scheme, parsed_start.netloc, 'robots.txt', '', '', '')))
-enqueue(args.url, True)
-
-count = 0
-while count < args.count and len(enqueued_urls):
-    sentences = process_one_url()
-    if sentences:
-        count += 1
-
-        training = False
-        for sentence in sentences:
-            emit_sentence(sentence, args.bullshit, training)
-            training = not training
+crawl_source('https://www.mcsweeneys.net/', args.count, False)
+crawl_source('https://aphyr.com/posts', args.count, False)
+crawl_source('http://paulgraham.com/articles.html', args.count, False)
